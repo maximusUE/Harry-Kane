@@ -1,0 +1,228 @@
+{
+  "version": 1,
+  "historyId": "93365ea0-5ac9-4d93-9ac8-6b8280805feb",
+  "currentRevision": "147b3f74-25c2-4a3b-953b-1ba97bdf346d",
+  "pendingChanges": false,
+  "files": {
+    "AGENTS.md": {
+      "hash": "1b36171117cb7c18f4100a0db6a3782ff2e096115995733200445cc2e80a4060",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/1b/1b36171117cb7c18f4100a0db6a3782ff2e096115995733200445cc2e80a4060"
+    },
+    "CLAUDE.md": {
+      "hash": "1b36171117cb7c18f4100a0db6a3782ff2e096115995733200445cc2e80a4060",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/1b/1b36171117cb7c18f4100a0db6a3782ff2e096115995733200445cc2e80a4060"
+    },
+    "README.md": {
+      "hash": "be5ca59d2fcbae510264ac8011c4cdc392b1588dad354316100de021e0b928f1",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/be/be5ca59d2fcbae510264ac8011c4cdc392b1588dad354316100de021e0b928f1"
+    },
+    "assets/Deep Whoosh 1.mp3": {
+      "hash": "8e4dccf0697f7faff1104e58a1b38ebdd692f26294e3a53649e73e4cf7e9801f",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/8e/8e4dccf0697f7faff1104e58a1b38ebdd692f26294e3a53649e73e4cf7e9801f"
+    },
+    "assets/Imported youtube com watch v 2zDVhx6LkjM b94d46.transcript.json": {
+      "hash": "37d61f307456a919ea0fe2aa44cfbfb788faf8d16c3c6ac2a2b837918a99d559",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/37/37d61f307456a919ea0fe2aa44cfbfb788faf8d16c3c6ac2a2b837918a99d559"
+    },
+    "assets/Swosh swoosh whoosh air sound free high quality.mp3": {
+      "hash": "2c634c18f58e97f8be4685708e5f9eb60bd10cd084436e978e9b319570ae42fb",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/2c/2c634c18f58e97f8be4685708e5f9eb60bd10cd084436e978e9b319570ae42fb"
+    },
+    "assets/brand/cytm-emblem.svg": {
+      "hash": "b423ee5c81e17560c9347f0a325737985d183f343194befbd7f8ac4e6e68acb5",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/b4/b423ee5c81e17560c9347f0a325737985d183f343194befbd7f8ac4e6e68acb5"
+    },
+    "assets/brand/memorias-emblem.png": {
+      "hash": "f0887a4bdb334d2e337a26840f33700d46d8d019179b9b09eb6c0c8ae9933a91",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/f0/f0887a4bdb334d2e337a26840f33700d46d8d019179b9b09eb6c0c8ae9933a91"
+    },
+    "assets/brand/memorias-wordmark-badge.png": {
+      "hash": "a0524736a4a8af3482cdbafdcf7376887d9a5c8f0f04d4b83994f7a9d7d32159",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/a0/a0524736a4a8af3482cdbafdcf7376887d9a5c8f0f04d4b83994f7a9d7d32159"
+    },
+    "assets/fonts/InterVariable.woff2": {
+      "hash": "693b77d4f32ee9b8bfc995589b5fad5e99adf2832738661f5402f9978429a8e3",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/69/693b77d4f32ee9b8bfc995589b5fad5e99adf2832738661f5402f9978429a8e3"
+    },
+    "assets/ui/card-far-left.png": {
+      "hash": "7902c727f47c531e3c1c6228de7019a0ee966f7556401be9edeb396234778853",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/79/7902c727f47c531e3c1c6228de7019a0ee966f7556401be9edeb396234778853"
+    },
+    "assets/ui/card-far-right.png": {
+      "hash": "cc13c31123f91e6e7ef8fb7a728991851a79fafbee07462d4c697af0cdfe6499",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/cc/cc13c31123f91e6e7ef8fb7a728991851a79fafbee07462d4c697af0cdfe6499"
+    },
+    "assets/ui/card-left.png": {
+      "hash": "2a7c04070b99c855e1ba4f8a02bceb758bb8fd60c75a8071feac7dc0771d0e78",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/2a/2a7c04070b99c855e1ba4f8a02bceb758bb8fd60c75a8071feac7dc0771d0e78"
+    },
+    "assets/ui/card-right.png": {
+      "hash": "75f4eaea560a0be227d962728f38d173a8d3c141269ef6036ebf9d5b38e326fd",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/75/75f4eaea560a0be227d962728f38d173a8d3c141269ef6036ebf9d5b38e326fd"
+    },
+    "assets/ui/frame-2019-570s.png": {
+      "hash": "4901656e8af33cc83d6ce1ae3ab78133969478e8b556d7365391c17ac6f33d46",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/49/4901656e8af33cc83d6ce1ae3ab78133969478e8b556d7365391c17ac6f33d46"
+    },
+    "assets/ui/frame-bundesliga-90s.png": {
+      "hash": "d15b181de352f8b40a0f19eb153721319f0283d97790488b19e510191957e30f",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/d1/d15b181de352f8b40a0f19eb153721319f0283d97790488b19e510191957e30f"
+    },
+    "assets/ui/frame-maldicion-26s.png": {
+      "hash": "3199f55c16053c9b6b8f042aafb2a7bef2aaa4984d30c251e9cf6e4c8cf0063f",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/31/3199f55c16053c9b6b8f042aafb2a7bef2aaa4984d30c251e9cf6e4c8cf0063f"
+    },
+    "assets/ui/frame-owen-2001-46s.png": {
+      "hash": "d4b0492cda60c05c64900e9f57e6c4cf10815e3637a8ea8fb49a117ff1865d8e",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/d4/d4b0492cda60c05c64900e9f57e6c4cf10815e3637a8ea8fb49a117ff1865d8e"
+    },
+    "assets/ui/kane-trophy-close.mp4": {
+      "hash": "37d11d04b9dedad84b2cc28ea0f0af474944d29ecab2dbe7384095f61c9c86c6",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/37/37d11d04b9dedad84b2cc28ea0f0af474944d29ecab2dbe7384095f61c9c86c6"
+    },
+    "assets/ui/kane-turn-b.mp4": {
+      "hash": "0d74cecf773130768f7160aa7e1bc0d5c0471b7fb1d00e6435e983be25f3f9a8",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/0d/0d74cecf773130768f7160aa7e1bc0d5c0471b7fb1d00e6435e983be25f3f9a8"
+    },
+    "assets/ui/kane-turn-c.mp4": {
+      "hash": "ffaa5f5aa83c638d37975bf63ac5e884f320d3e34a0c0bbc6a579685830c8ac6",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/ff/ffaa5f5aa83c638d37975bf63ac5e884f320d3e34a0c0bbc6a579685830c8ac6"
+    },
+    "boards/brief.md": {
+      "hash": "01ad0c85c0e3c30bbf45f7e87be312859362db08ee5486c94267cc81e1943507",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/01/01ad0c85c0e3c30bbf45f7e87be312859362db08ee5486c94267cc81e1943507"
+    },
+    "boards/refs.md": {
+      "hash": "c9a1c97082b5323485e1604d38771f4617006d0e18aaa3a0b975f39ace6e430b",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/c9/c9a1c97082b5323485e1604d38771f4617006d0e18aaa3a0b975f39ace6e430b"
+    },
+    "compositions/cta.html": {
+      "hash": "5f4ab4c29efc0ff0e3e282a8b8a22f024eea8763563cec84d3a7308053973c7a",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/5f/5f4ab4c29efc0ff0e3e282a8b8a22f024eea8763563cec84d3a7308053973c7a"
+    },
+    "compositions/film.json": {
+      "hash": "02b0be5b85a55c214c9a12b0e34b49b8682f2199e41e9b8c8cf4a3f3b6660fdb",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/02/02b0be5b85a55c214c9a12b0e34b49b8682f2199e41e9b8c8cf4a3f3b6660fdb"
+    },
+    "compositions/hook.html": {
+      "hash": "0a9e04c1e4f1746ea419f2abd726fc1c1cedb49e51c60dcccdcf63af192ad423",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/0a/0a9e04c1e4f1746ea419f2abd726fc1c1cedb49e51c60dcccdcf63af192ad423"
+    },
+    "compositions/proof.html": {
+      "hash": "47788ab6bd7b037b78d2bbd2f1253c59c4fef1a2ddc600c3135e87729aa8a761",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/47/47788ab6bd7b037b78d2bbd2f1253c59c4fef1a2ddc600c3135e87729aa8a761"
+    },
+    "compositions/turn.html": {
+      "hash": "36c7e37856fd921ee1f84141cbbbf881cae01717f945896e316b656b94309c1b",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/36/36c7e37856fd921ee1f84141cbbbf881cae01717f945896e316b656b94309c1b"
+    },
+    "hyperframes.json": {
+      "hash": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/53/53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50"
+    },
+    "index.html": {
+      "hash": "4a266c4cdfbb9f927cdcce9fbc4dc19ed35ebbc1698e013d148ac0c25c3ff6f3",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/4a/4a266c4cdfbb9f927cdcce9fbc4dc19ed35ebbc1698e013d148ac0c25c3ff6f3"
+    },
+    "meta.json": {
+      "hash": "775829ea47967a9ae08fdeaa6b527549fa469e6b13b4131c9404d5dd332fd6f3",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/77/775829ea47967a9ae08fdeaa6b527549fa469e6b13b4131c9404d5dd332fd6f3"
+    },
+    "package.json": {
+      "hash": "3bfccf0db060b93f0c469ad4e6aba8bd1db695b061148cf5cd1a797354311bc6",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/3b/3bfccf0db060b93f0c469ad4e6aba8bd1db695b061148cf5cd1a797354311bc6"
+    },
+    "project.json": {
+      "hash": "73bd95afdd5c599236f359be11f21d4db7bf88106b7e867d70e85f5ce268945c",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/73/73bd95afdd5c599236f359be11f21d4db7bf88106b7e867d70e85f5ce268945c"
+    },
+    "assets/Astral Generated Music 2cd73401.wav": {
+      "hash": "8801ffc26273a4086d7ccdb54e4344ee905e23ba0b90977a0a42443e3414a0e2",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/88/8801ffc26273a4086d7ccdb54e4344ee905e23ba0b90977a0a42443e3414a0e2"
+    },
+    "assets/Imported youtube com watch v 2zDVhx6LkjM b94d46.mp4": {
+      "hash": "261e7dedaf9080c6384292d6a5ac1e986a2c2b87c5d8a785cadd2b96d104165b",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/26/261e7dedaf9080c6384292d6a5ac1e986a2c2b87c5d8a785cadd2b96d104165b"
+    },
+    "assets/cytm_voiceover_29s.wav": {
+      "hash": "97944f707d6fc14272c2cb2b8e7ec7ed309e021b45b6144913d3564061f58575",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/97/97944f707d6fc14272c2cb2b8e7ec7ed309e021b45b6144913d3564061f58575"
+    },
+    "assets/ui/frame-ballon-dor-14s.png": {
+      "hash": "75a8f31e154af1fc2e8e0eaed217273bf484592a2ad9a87121d82816c8b95c30",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/75/75a8f31e154af1fc2e8e0eaed217273bf484592a2ad9a87121d82816c8b95c30"
+    },
+    "assets/ui/frame-career-240s.png": {
+      "hash": "aa601cd45f8affc18e2fe1cbbf3b37a29c929f1b6731f6c230471efcf078574d",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/aa/aa601cd45f8affc18e2fe1cbbf3b37a29c929f1b6731f6c230471efcf078574d"
+    },
+    "assets/ui/frame-rechazado-41s.png": {
+      "hash": "f168b34351f3fe8aa7ea3213fd343291c32e227324512c681c0024e89cc78ca3",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/f1/f168b34351f3fe8aa7ea3213fd343291c32e227324512c681c0024e89cc78ca3"
+    },
+    "assets/ui/kane-arsenal-clip.mp4": {
+      "hash": "f8b0678341d53d3c4d7fb0a4bd92e04dd90c00023c464efa5af076d89b68b053",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/f8/f8b0678341d53d3c4d7fb0a4bd92e04dd90c00023c464efa5af076d89b68b053"
+    },
+    "assets/ui/kane-ballon-dor.mp4": {
+      "hash": "7f460632af903261eb06f3058f617f2a7aa08fb372ccada6bf7e7d46849bd2eb",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/7f/7f460632af903261eb06f3058f617f2a7aa08fb372ccada6bf7e7d46849bd2eb"
+    },
+    "assets/ui/kane-hero-drive.mp4": {
+      "hash": "0217c9211b88fc7c51849a7fb4663f1bbff005c700753d94f41c8bd8b52c59ef",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/02/0217c9211b88fc7c51849a7fb4663f1bbff005c700753d94f41c8bd8b52c59ef"
+    },
+    "assets/ui/kane-spurs-curse.mp4": {
+      "hash": "6b00121e29b31035a5cd28fecbe336bc7042c92e469d0d3361d159fc92fa1870",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/6b/6b00121e29b31035a5cd28fecbe336bc7042c92e469d0d3361d159fc92fa1870"
+    },
+    "assets/ui/kane-trophy-hands.mp4": {
+      "hash": "80e86d93ee4af311f9a0145d8f644205c71525fec89f586ea99cad5355951e6b",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/80/80e86d93ee4af311f9a0145d8f644205c71525fec89f586ea99cad5355951e6b"
+    },
+    "assets/ui/kane-turn-a.mp4": {
+      "hash": "9e1426e8607aeecb83626e69bc10c67a04c7ccf30760bb21d500f464395aacdf",
+      "content": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/9e/9e1426e8607aeecb83626e69bc10c67a04c7ccf30760bb21d500f464395aacdf"
+    }
+  },
+  "revisions": {
+    "147b3f74-25c2-4a3b-953b-1ba97bdf346d": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793481674416,
+      "endedAt": 1793481674417,
+      "files": {
+        "compositions/turn.html": {
+          "before": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/8f/8fa62f2b177f33466549b7cbcf1c9ce6fb8ca779867c9f9a75fa4326c3632dc3",
+          "after": "/Users/cesarue/.cache/hyperframes/history/93365ea0-5ac9-4d93-9ac8-6b8280805feb/blobs/36/36c7e37856fd921ee1f84141cbbbf881cae01717f945896e316b656b94309c1b"
+        }
+      }
+    }
+  },
+  "checks": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "snapshots": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "renders": {
+    "latest": {
+      "id": "b6b60515-6cb7-4d30-8ace-c2b8effbbb91",
+      "completedAt": 1793481729275,
+      "output": "/Users/cesarue/Desktop/CYTM/04_VIDEO_FINAL/CYTM_HARRY_KANE_BLOQUE_1_MASTER.mp4",
+      "status": "completed",
+      "revision": "147b3f74-25c2-4a3b-953b-1ba97bdf346d"
+    },
+    "retainedRevisions": [
+      "147b3f74-25c2-4a3b-953b-1ba97bdf346d"
+    ]
+  },
+  "pendingArtifactCleanup": []
+}

@@ -1,0 +1,1757 @@
+[
+  {
+    "word": "París,",
+    "start": 0.0,
+    "end": 0.56
+  },
+  {
+    "word": "Francia.",
+    "start": 0.98,
+    "end": 1.36
+  },
+  {
+    "word": "26",
+    "start": 2.2,
+    "end": 2.8
+  },
+  {
+    "word": "de",
+    "start": 2.8,
+    "end": 3.04
+  },
+  {
+    "word": "octubre",
+    "start": 3.04,
+    "end": 3.46
+  },
+  {
+    "word": "de",
+    "start": 3.46,
+    "end": 3.62
+  },
+  {
+    "word": "2026.",
+    "start": 3.62,
+    "end": 4.56
+  },
+  {
+    "word": "Bajo",
+    "start": 5.4,
+    "end": 6.0
+  },
+  {
+    "word": "la",
+    "start": 6.0,
+    "end": 6.14
+  },
+  {
+    "word": "luz",
+    "start": 6.14,
+    "end": 6.36
+  },
+  {
+    "word": "cálida",
+    "start": 6.36,
+    "end": 6.78
+  },
+  {
+    "word": "del",
+    "start": 6.78,
+    "end": 6.98
+  },
+  {
+    "word": "escenario",
+    "start": 6.98,
+    "end": 7.46
+  },
+  {
+    "word": "más",
+    "start": 7.46,
+    "end": 7.78
+  },
+  {
+    "word": "prestigioso",
+    "start": 7.78,
+    "end": 8.46
+  },
+  {
+    "word": "del",
+    "start": 8.46,
+    "end": 8.68
+  },
+  {
+    "word": "fútbol",
+    "start": 8.68,
+    "end": 9.08
+  },
+  {
+    "word": "mundial,",
+    "start": 9.08,
+    "end": 9.48
+  },
+  {
+    "word": "hubo",
+    "start": 9.8,
+    "end": 10.1
+  },
+  {
+    "word": "un",
+    "start": 10.1,
+    "end": 10.26
+  },
+  {
+    "word": "instante",
+    "start": 10.26,
+    "end": 10.76
+  },
+  {
+    "word": "de",
+    "start": 10.76,
+    "end": 10.92
+  },
+  {
+    "word": "silencio",
+    "start": 10.92,
+    "end": 11.44
+  },
+  {
+    "word": "antes",
+    "start": 11.44,
+    "end": 11.78
+  },
+  {
+    "word": "de",
+    "start": 11.78,
+    "end": 11.96
+  },
+  {
+    "word": "la",
+    "start": 11.96,
+    "end": 12.06
+  },
+  {
+    "word": "ovación.",
+    "start": 12.06,
+    "end": 12.54
+  },
+  {
+    "word": "Y",
+    "start": 13.1,
+    "end": 13.7
+  },
+  {
+    "word": "en",
+    "start": 13.7,
+    "end": 13.88
+  },
+  {
+    "word": "ese",
+    "start": 13.88,
+    "end": 14.08
+  },
+  {
+    "word": "silencio",
+    "start": 14.08,
+    "end": 14.6
+  },
+  {
+    "word": "cabía",
+    "start": 14.6,
+    "end": 15.02
+  },
+  {
+    "word": "una",
+    "start": 15.02,
+    "end": 15.24
+  },
+  {
+    "word": "vida",
+    "start": 15.24,
+    "end": 15.52
+  },
+  {
+    "word": "entera.",
+    "start": 15.52,
+    "end": 15.94
+  },
+  {
+    "word": "El",
+    "start": 16.5,
+    "end": 17.1
+  },
+  {
+    "word": "mismo",
+    "start": 17.1,
+    "end": 17.4
+  },
+  {
+    "word": "cuerpo",
+    "start": 17.4,
+    "end": 17.78
+  },
+  {
+    "word": "al",
+    "start": 17.78,
+    "end": 17.94
+  },
+  {
+    "word": "que",
+    "start": 17.94,
+    "end": 18.06
+  },
+  {
+    "word": "a",
+    "start": 18.06,
+    "end": 18.16
+  },
+  {
+    "word": "los",
+    "start": 18.16,
+    "end": 18.32
+  },
+  {
+    "word": "ocho",
+    "start": 18.32,
+    "end": 18.62
+  },
+  {
+    "word": "años",
+    "start": 18.62,
+    "end": 18.92
+  },
+  {
+    "word": "le",
+    "start": 18.92,
+    "end": 19.14
+  },
+  {
+    "word": "cerraron",
+    "start": 19.14,
+    "end": 19.6
+  },
+  {
+    "word": "la",
+    "start": 19.6,
+    "end": 19.72
+  },
+  {
+    "word": "puerta",
+    "start": 19.72,
+    "end": 20.02
+  },
+  {
+    "word": "por",
+    "start": 20.02,
+    "end": 20.32
+  },
+  {
+    "word": "no",
+    "start": 20.32,
+    "end": 20.5
+  },
+  {
+    "word": "dar",
+    "start": 20.5,
+    "end": 20.7
+  },
+  {
+    "word": "el",
+    "start": 20.7,
+    "end": 20.86
+  },
+  {
+    "word": "ancho",
+    "start": 20.86,
+    "end": 21.14
+  },
+  {
+    "word": "atlético.",
+    "start": 21.14,
+    "end": 21.66
+  },
+  {
+    "word": "El",
+    "start": 22.28,
+    "end": 22.86
+  },
+  {
+    "word": "mismo",
+    "start": 22.86,
+    "end": 23.18
+  },
+  {
+    "word": "hombre",
+    "start": 23.18,
+    "end": 23.46
+  },
+  {
+    "word": "que",
+    "start": 23.46,
+    "end": 23.66
+  },
+  {
+    "word": "durante",
+    "start": 23.66,
+    "end": 23.94
+  },
+  {
+    "word": "más",
+    "start": 23.94,
+    "end": 24.28
+  },
+  {
+    "word": "de",
+    "start": 24.28,
+    "end": 24.4
+  },
+  {
+    "word": "una",
+    "start": 24.4,
+    "end": 24.62
+  },
+  {
+    "word": "década",
+    "start": 24.62,
+    "end": 25.0
+  },
+  {
+    "word": "cargó",
+    "start": 25.0,
+    "end": 25.42
+  },
+  {
+    "word": "con",
+    "start": 25.42,
+    "end": 25.64
+  },
+  {
+    "word": "la",
+    "start": 25.64,
+    "end": 25.76
+  },
+  {
+    "word": "burla",
+    "start": 25.76,
+    "end": 26.04
+  },
+  {
+    "word": "de",
+    "start": 26.04,
+    "end": 26.22
+  },
+  {
+    "word": "todo",
+    "start": 26.22,
+    "end": 26.48
+  },
+  {
+    "word": "un",
+    "start": 26.48,
+    "end": 26.68
+  },
+  {
+    "word": "continente.",
+    "start": 26.68,
+    "end": 27.3
+  },
+  {
+    "word": "Las",
+    "start": 27.98,
+    "end": 28.5
+  },
+  {
+    "word": "mismas",
+    "start": 28.5,
+    "end": 28.92
+  },
+  {
+    "word": "manos",
+    "start": 28.92,
+    "end": 29.24
+  },
+  {
+    "word": "que",
+    "start": 29.24,
+    "end": 29.42
+  },
+  {
+    "word": "aplaudieron",
+    "start": 29.42,
+    "end": 29.96
+  },
+  {
+    "word": "seis",
+    "start": 29.96,
+    "end": 30.26
+  },
+  {
+    "word": "finales",
+    "start": 30.26,
+    "end": 30.8
+  },
+  {
+    "word": "perdidas",
+    "start": 30.8,
+    "end": 31.34
+  },
+  {
+    "word": "mientras",
+    "start": 31.34,
+    "end": 31.66
+  },
+  {
+    "word": "otros",
+    "start": 31.66,
+    "end": 32.06
+  },
+  {
+    "word": "levantaban",
+    "start": 32.06,
+    "end": 32.7
+  },
+  {
+    "word": "la",
+    "start": 32.7,
+    "end": 32.84
+  },
+  {
+    "word": "copa,",
+    "start": 32.84,
+    "end": 33.24
+  },
+  {
+    "word": "sostenían",
+    "start": 33.42,
+    "end": 34.06
+  },
+  {
+    "word": "finalmente",
+    "start": 34.06,
+    "end": 34.56
+  },
+  {
+    "word": "el",
+    "start": 34.56,
+    "end": 34.86
+  },
+  {
+    "word": "balón",
+    "start": 34.86,
+    "end": 35.16
+  },
+  {
+    "word": "de",
+    "start": 35.16,
+    "end": 35.3
+  },
+  {
+    "word": "oro.",
+    "start": 35.3,
+    "end": 35.54
+  },
+  {
+    "word": "Primero",
+    "start": 36.3,
+    "end": 36.94
+  },
+  {
+    "word": "cayó",
+    "start": 36.94,
+    "end": 37.26
+  },
+  {
+    "word": "el",
+    "start": 37.26,
+    "end": 37.38
+  },
+  {
+    "word": "muro",
+    "start": 37.38,
+    "end": 37.66
+  },
+  {
+    "word": "colectivo",
+    "start": 37.66,
+    "end": 38.24
+  },
+  {
+    "word": "en",
+    "start": 38.24,
+    "end": 38.4
+  },
+  {
+    "word": "Alemania.",
+    "start": 38.4,
+    "end": 38.88
+  },
+  {
+    "word": "Después",
+    "start": 39.6,
+    "end": 40.24
+  },
+  {
+    "word": "llegó",
+    "start": 40.24,
+    "end": 40.58
+  },
+  {
+    "word": "la",
+    "start": 40.58,
+    "end": 40.74
+  },
+  {
+    "word": "consagración",
+    "start": 40.74,
+    "end": 41.36
+  },
+  {
+    "word": "individual",
+    "start": 41.36,
+    "end": 41.86
+  },
+  {
+    "word": "absoluta",
+    "start": 41.86,
+    "end": 42.54
+  },
+  {
+    "word": "en",
+    "start": 42.54,
+    "end": 42.64
+  },
+  {
+    "word": "París.",
+    "start": 42.64,
+    "end": 43.02
+  },
+  {
+    "word": "Pero",
+    "start": 43.62,
+    "end": 44.26
+  },
+  {
+    "word": "reducir",
+    "start": 44.26,
+    "end": 44.74
+  },
+  {
+    "word": "esta",
+    "start": 44.74,
+    "end": 44.96
+  },
+  {
+    "word": "historia",
+    "start": 44.96,
+    "end": 45.34
+  },
+  {
+    "word": "a",
+    "start": 45.34,
+    "end": 45.6
+  },
+  {
+    "word": "una",
+    "start": 45.6,
+    "end": 45.76
+  },
+  {
+    "word": "lista",
+    "start": 45.76,
+    "end": 46.08
+  },
+  {
+    "word": "de",
+    "start": 46.08,
+    "end": 46.24
+  },
+  {
+    "word": "goles",
+    "start": 46.24,
+    "end": 46.56
+  },
+  {
+    "word": "y",
+    "start": 46.56,
+    "end": 46.72
+  },
+  {
+    "word": "trofeos",
+    "start": 46.72,
+    "end": 47.16
+  },
+  {
+    "word": "sería",
+    "start": 47.16,
+    "end": 47.48
+  },
+  {
+    "word": "no",
+    "start": 47.48,
+    "end": 47.72
+  },
+  {
+    "word": "entender",
+    "start": 47.72,
+    "end": 48.12
+  },
+  {
+    "word": "absolutamente",
+    "start": 48.12,
+    "end": 48.82
+  },
+  {
+    "word": "nada",
+    "start": 48.82,
+    "end": 49.3
+  },
+  {
+    "word": "de",
+    "start": 49.3,
+    "end": 49.48
+  },
+  {
+    "word": "lo",
+    "start": 49.48,
+    "end": 49.6
+  },
+  {
+    "word": "que",
+    "start": 49.6,
+    "end": 49.7
+  },
+  {
+    "word": "ocurrió",
+    "start": 49.7,
+    "end": 50.1
+  },
+  {
+    "word": "aquí.",
+    "start": 50.1,
+    "end": 50.36
+  },
+  {
+    "word": "Porque",
+    "start": 50.94,
+    "end": 51.58
+  },
+  {
+    "word": "el",
+    "start": 51.58,
+    "end": 51.72
+  },
+  {
+    "word": "verdadero",
+    "start": 51.72,
+    "end": 52.22
+  },
+  {
+    "word": "mérito",
+    "start": 52.22,
+    "end": 52.6
+  },
+  {
+    "word": "de",
+    "start": 52.6,
+    "end": 52.76
+  },
+  {
+    "word": "Hurricane",
+    "start": 52.76,
+    "end": 53.1
+  },
+  {
+    "word": "no",
+    "start": 53.1,
+    "end": 53.42
+  },
+  {
+    "word": "estuvo",
+    "start": 53.42,
+    "end": 53.76
+  },
+  {
+    "word": "en",
+    "start": 53.76,
+    "end": 53.88
+  },
+  {
+    "word": "la",
+    "start": 53.88,
+    "end": 54.0
+  },
+  {
+    "word": "noche",
+    "start": 54.0,
+    "end": 54.26
+  },
+  {
+    "word": "de",
+    "start": 54.26,
+    "end": 54.42
+  },
+  {
+    "word": "París,",
+    "start": 54.42,
+    "end": 54.82
+  },
+  {
+    "word": "ni",
+    "start": 55.0,
+    "end": 55.28
+  },
+  {
+    "word": "siquiera",
+    "start": 55.28,
+    "end": 55.7
+  },
+  {
+    "word": "en",
+    "start": 55.7,
+    "end": 55.82
+  },
+  {
+    "word": "los",
+    "start": 55.82,
+    "end": 55.94
+  },
+  {
+    "word": "festejos",
+    "start": 55.94,
+    "end": 56.44
+  },
+  {
+    "word": "de",
+    "start": 56.44,
+    "end": 56.58
+  },
+  {
+    "word": "Múnich.",
+    "start": 56.58,
+    "end": 57.04
+  },
+  {
+    "word": "Estuvo",
+    "start": 57.8,
+    "end": 58.4
+  },
+  {
+    "word": "en",
+    "start": 58.4,
+    "end": 58.52
+  },
+  {
+    "word": "los",
+    "start": 58.52,
+    "end": 58.64
+  },
+  {
+    "word": "miles",
+    "start": 58.64,
+    "end": 58.88
+  },
+  {
+    "word": "de",
+    "start": 58.88,
+    "end": 59.1
+  },
+  {
+    "word": "días",
+    "start": 59.1,
+    "end": 59.36
+  },
+  {
+    "word": "anónimos",
+    "start": 59.36,
+    "end": 59.94
+  },
+  {
+    "word": "entre",
+    "start": 59.94,
+    "end": 60.24
+  },
+  {
+    "word": "una",
+    "start": 60.24,
+    "end": 60.5
+  },
+  {
+    "word": "derrota",
+    "start": 60.5,
+    "end": 60.92
+  },
+  {
+    "word": "y",
+    "start": 60.92,
+    "end": 61.08
+  },
+  {
+    "word": "otra,",
+    "start": 61.08,
+    "end": 61.34
+  },
+  {
+    "word": "cuando",
+    "start": 61.58,
+    "end": 61.92
+  },
+  {
+    "word": "el",
+    "start": 61.92,
+    "end": 62.08
+  },
+  {
+    "word": "esfuerzo",
+    "start": 62.08,
+    "end": 62.54
+  },
+  {
+    "word": "no",
+    "start": 62.54,
+    "end": 62.74
+  },
+  {
+    "word": "garantizaba",
+    "start": 62.74,
+    "end": 63.4
+  },
+  {
+    "word": "ninguna",
+    "start": 63.4,
+    "end": 63.82
+  },
+  {
+    "word": "recompensa",
+    "start": 63.82,
+    "end": 64.52
+  },
+  {
+    "word": "y",
+    "start": 64.52,
+    "end": 64.66
+  },
+  {
+    "word": "la",
+    "start": 64.66,
+    "end": 64.76
+  },
+  {
+    "word": "opinión",
+    "start": 64.76,
+    "end": 65.18
+  },
+  {
+    "word": "pública",
+    "start": 65.18,
+    "end": 65.64
+  },
+  {
+    "word": "ya",
+    "start": 65.64,
+    "end": 65.9
+  },
+  {
+    "word": "había",
+    "start": 65.9,
+    "end": 66.18
+  },
+  {
+    "word": "dictado",
+    "start": 66.18,
+    "end": 66.66
+  },
+  {
+    "word": "sentencia.",
+    "start": 66.66,
+    "end": 67.32
+  },
+  {
+    "word": "La",
+    "start": 67.86,
+    "end": 68.46
+  },
+  {
+    "word": "mayoría",
+    "start": 68.46,
+    "end": 68.76
+  },
+  {
+    "word": "de",
+    "start": 68.76,
+    "end": 69.0
+  },
+  {
+    "word": "las",
+    "start": 69.0,
+    "end": 69.18
+  },
+  {
+    "word": "personas",
+    "start": 69.18,
+    "end": 69.62
+  },
+  {
+    "word": "no",
+    "start": 69.62,
+    "end": 69.92
+  },
+  {
+    "word": "fracasan",
+    "start": 69.92,
+    "end": 70.46
+  },
+  {
+    "word": "por",
+    "start": 70.46,
+    "end": 70.7
+  },
+  {
+    "word": "falta",
+    "start": 70.7,
+    "end": 71.06
+  },
+  {
+    "word": "de",
+    "start": 71.06,
+    "end": 71.2
+  },
+  {
+    "word": "capacidad.",
+    "start": 71.2,
+    "end": 71.72
+  },
+  {
+    "word": "Fracasan",
+    "start": 72.78,
+    "end": 73.38
+  },
+  {
+    "word": "porque",
+    "start": 73.38,
+    "end": 73.7
+  },
+  {
+    "word": "no",
+    "start": 73.7,
+    "end": 73.92
+  },
+  {
+    "word": "toleran",
+    "start": 73.92,
+    "end": 74.36
+  },
+  {
+    "word": "el",
+    "start": 74.36,
+    "end": 74.52
+  },
+  {
+    "word": "tiempo",
+    "start": 74.52,
+    "end": 74.84
+  },
+  {
+    "word": "muerto",
+    "start": 74.84,
+    "end": 75.22
+  },
+  {
+    "word": "entre",
+    "start": 75.22,
+    "end": 75.44
+  },
+  {
+    "word": "el",
+    "start": 75.44,
+    "end": 75.6
+  },
+  {
+    "word": "trabajo",
+    "start": 75.6,
+    "end": 75.94
+  },
+  {
+    "word": "diario",
+    "start": 75.94,
+    "end": 76.38
+  },
+  {
+    "word": "y",
+    "start": 76.38,
+    "end": 76.62
+  },
+  {
+    "word": "el",
+    "start": 76.62,
+    "end": 76.76
+  },
+  {
+    "word": "resultado",
+    "start": 76.76,
+    "end": 77.24
+  },
+  {
+    "word": "visible.",
+    "start": 77.24,
+    "end": 77.74
+  },
+  {
+    "word": "En",
+    "start": 78.4,
+    "end": 78.98
+  },
+  {
+    "word": "cuanto",
+    "start": 78.98,
+    "end": 79.24
+  },
+  {
+    "word": "el",
+    "start": 79.24,
+    "end": 79.4
+  },
+  {
+    "word": "entorno",
+    "start": 79.4,
+    "end": 79.8
+  },
+  {
+    "word": "duda,",
+    "start": 79.8,
+    "end": 80.1
+  },
+  {
+    "word": "en",
+    "start": 80.4,
+    "end": 80.64
+  },
+  {
+    "word": "cuanto",
+    "start": 80.64,
+    "end": 80.9
+  },
+  {
+    "word": "llega",
+    "start": 80.9,
+    "end": 81.18
+  },
+  {
+    "word": "el",
+    "start": 81.18,
+    "end": 81.32
+  },
+  {
+    "word": "primer",
+    "start": 81.32,
+    "end": 81.62
+  },
+  {
+    "word": "tropiezo",
+    "start": 81.62,
+    "end": 82.16
+  },
+  {
+    "word": "serio,",
+    "start": 82.16,
+    "end": 82.52
+  },
+  {
+    "word": "negocian",
+    "start": 82.96,
+    "end": 83.36
+  },
+  {
+    "word": "sus",
+    "start": 83.36,
+    "end": 83.58
+  },
+  {
+    "word": "estándares",
+    "start": 83.58,
+    "end": 84.16
+  },
+  {
+    "word": "y",
+    "start": 84.16,
+    "end": 84.34
+  },
+  {
+    "word": "buscan",
+    "start": 84.34,
+    "end": 84.7
+  },
+  {
+    "word": "una",
+    "start": 84.7,
+    "end": 84.94
+  },
+  {
+    "word": "salida",
+    "start": 84.94,
+    "end": 85.36
+  },
+  {
+    "word": "cómoda.",
+    "start": 85.36,
+    "end": 85.9
+  },
+  {
+    "word": "La",
+    "start": 86.42,
+    "end": 87.0
+  },
+  {
+    "word": "grandeza,",
+    "start": 87.0,
+    "end": 87.6
+  },
+  {
+    "word": "en",
+    "start": 87.78,
+    "end": 88.04
+  },
+  {
+    "word": "el",
+    "start": 88.04,
+    "end": 88.16
+  },
+  {
+    "word": "deporte,",
+    "start": 88.16,
+    "end": 88.64
+  },
+  {
+    "word": "en",
+    "start": 88.86,
+    "end": 89.12
+  },
+  {
+    "word": "los",
+    "start": 89.12,
+    "end": 89.28
+  },
+  {
+    "word": "negocios",
+    "start": 89.28,
+    "end": 89.8
+  },
+  {
+    "word": "o",
+    "start": 89.8,
+    "end": 89.94
+  },
+  {
+    "word": "en",
+    "start": 89.94,
+    "end": 90.04
+  },
+  {
+    "word": "la",
+    "start": 90.04,
+    "end": 90.14
+  },
+  {
+    "word": "vida",
+    "start": 90.14,
+    "end": 90.34
+  },
+  {
+    "word": "misma,",
+    "start": 90.34,
+    "end": 90.74
+  },
+  {
+    "word": "rara",
+    "start": 91.02,
+    "end": 91.32
+  },
+  {
+    "word": "vez",
+    "start": 91.32,
+    "end": 91.5
+  },
+  {
+    "word": "pertenece",
+    "start": 91.5,
+    "end": 92.16
+  },
+  {
+    "word": "al",
+    "start": 92.16,
+    "end": 92.3
+  },
+  {
+    "word": "más",
+    "start": 92.3,
+    "end": 92.52
+  },
+  {
+    "word": "talentoso",
+    "start": 92.52,
+    "end": 93.14
+  },
+  {
+    "word": "del",
+    "start": 93.14,
+    "end": 93.34
+  },
+  {
+    "word": "punto",
+    "start": 93.34,
+    "end": 93.68
+  },
+  {
+    "word": "de",
+    "start": 93.68,
+    "end": 93.86
+  },
+  {
+    "word": "partida.",
+    "start": 93.86,
+    "end": 94.34
+  },
+  {
+    "word": "Pertenece",
+    "start": 95.3,
+    "end": 95.88
+  },
+  {
+    "word": "al",
+    "start": 95.88,
+    "end": 96.0
+  },
+  {
+    "word": "que",
+    "start": 96.0,
+    "end": 96.14
+  },
+  {
+    "word": "tiene",
+    "start": 96.14,
+    "end": 96.38
+  },
+  {
+    "word": "la",
+    "start": 96.38,
+    "end": 96.54
+  },
+  {
+    "word": "frialdad",
+    "start": 96.54,
+    "end": 96.94
+  },
+  {
+    "word": "de",
+    "start": 96.94,
+    "end": 97.1
+  },
+  {
+    "word": "sostener",
+    "start": 97.1,
+    "end": 97.54
+  },
+  {
+    "word": "su",
+    "start": 97.54,
+    "end": 97.74
+  },
+  {
+    "word": "disciplina",
+    "start": 97.74,
+    "end": 98.3
+  },
+  {
+    "word": "cuando",
+    "start": 98.3,
+    "end": 98.62
+  },
+  {
+    "word": "nadie",
+    "start": 98.62,
+    "end": 98.96
+  },
+  {
+    "word": "le",
+    "start": 98.96,
+    "end": 99.1
+  },
+  {
+    "word": "aplaude,",
+    "start": 99.1,
+    "end": 99.5
+  },
+  {
+    "word": "de",
+    "start": 99.74,
+    "end": 99.94
+  },
+  {
+    "word": "absorber",
+    "start": 99.94,
+    "end": 100.42
+  },
+  {
+    "word": "cada",
+    "start": 100.42,
+    "end": 100.72
+  },
+  {
+    "word": "golpe",
+    "start": 100.72,
+    "end": 101.04
+  },
+  {
+    "word": "sin",
+    "start": 101.04,
+    "end": 101.3
+  },
+  {
+    "word": "convertirlo",
+    "start": 101.3,
+    "end": 101.98
+  },
+  {
+    "word": "en",
+    "start": 101.98,
+    "end": 102.1
+  },
+  {
+    "word": "excusa",
+    "start": 102.1,
+    "end": 102.54
+  },
+  {
+    "word": "y",
+    "start": 102.54,
+    "end": 102.66
+  },
+  {
+    "word": "de",
+    "start": 102.66,
+    "end": 102.78
+  },
+  {
+    "word": "permanecer",
+    "start": 102.78,
+    "end": 103.4
+  },
+  {
+    "word": "de",
+    "start": 103.4,
+    "end": 103.56
+  },
+  {
+    "word": "pie",
+    "start": 103.56,
+    "end": 103.76
+  },
+  {
+    "word": "el",
+    "start": 103.76,
+    "end": 103.92
+  },
+  {
+    "word": "tiempo",
+    "start": 103.92,
+    "end": 104.22
+  },
+  {
+    "word": "suficiente",
+    "start": 104.22,
+    "end": 104.78
+  },
+  {
+    "word": "para",
+    "start": 104.78,
+    "end": 105.18
+  },
+  {
+    "word": "que",
+    "start": 105.18,
+    "end": 105.38
+  },
+  {
+    "word": "la",
+    "start": 105.38,
+    "end": 105.52
+  },
+  {
+    "word": "realidad",
+    "start": 105.52,
+    "end": 105.92
+  },
+  {
+    "word": "termine",
+    "start": 105.92,
+    "end": 106.52
+  },
+  {
+    "word": "cediendo.",
+    "start": 106.52,
+    "end": 107.04
+  },
+  {
+    "word": "Los",
+    "start": 107.64,
+    "end": 108.26
+  },
+  {
+    "word": "títulos",
+    "start": 108.26,
+    "end": 108.7
+  },
+  {
+    "word": "pasan.",
+    "start": 108.7,
+    "end": 109.18
+  },
+  {
+    "word": "Los",
+    "start": 109.74,
+    "end": 110.36
+  },
+  {
+    "word": "récords",
+    "start": 110.36,
+    "end": 110.8
+  },
+  {
+    "word": "eventualmente",
+    "start": 110.8,
+    "end": 111.62
+  },
+  {
+    "word": "se",
+    "start": 111.62,
+    "end": 111.82
+  },
+  {
+    "word": "rompen.",
+    "start": 111.82,
+    "end": 112.24
+  },
+  {
+    "word": "Pero",
+    "start": 112.78,
+    "end": 113.4
+  },
+  {
+    "word": "el",
+    "start": 113.4,
+    "end": 113.54
+  },
+  {
+    "word": "carácter",
+    "start": 113.54,
+    "end": 114.0
+  },
+  {
+    "word": "que",
+    "start": 114.0,
+    "end": 114.16
+  },
+  {
+    "word": "se",
+    "start": 114.16,
+    "end": 114.28
+  },
+  {
+    "word": "forja",
+    "start": 114.28,
+    "end": 114.64
+  },
+  {
+    "word": "cuando",
+    "start": 114.64,
+    "end": 114.96
+  },
+  {
+    "word": "todo",
+    "start": 114.96,
+    "end": 115.28
+  },
+  {
+    "word": "está",
+    "start": 115.28,
+    "end": 115.5
+  },
+  {
+    "word": "en",
+    "start": 115.5,
+    "end": 115.68
+  },
+  {
+    "word": "contra,",
+    "start": 115.68,
+    "end": 116.02
+  },
+  {
+    "word": "ese",
+    "start": 116.28,
+    "end": 116.62
+  },
+  {
+    "word": "no",
+    "start": 116.62,
+    "end": 116.82
+  },
+  {
+    "word": "te",
+    "start": 116.82,
+    "end": 116.96
+  },
+  {
+    "word": "lo",
+    "start": 116.96,
+    "end": 117.1
+  },
+  {
+    "word": "puede",
+    "start": 117.1,
+    "end": 117.36
+  },
+  {
+    "word": "quitar",
+    "start": 117.36,
+    "end": 117.72
+  },
+  {
+    "word": "nadie.",
+    "start": 117.72,
+    "end": 118.14
+  },
+  {
+    "word": "Cada",
+    "start": 118.74,
+    "end": 119.36
+  },
+  {
+    "word": "semana",
+    "start": 119.36,
+    "end": 119.74
+  },
+  {
+    "word": "en",
+    "start": 119.74,
+    "end": 119.94
+  },
+  {
+    "word": "este",
+    "start": 119.94,
+    "end": 120.16
+  },
+  {
+    "word": "espacio",
+    "start": 120.16,
+    "end": 120.56
+  },
+  {
+    "word": "documentamos",
+    "start": 120.56,
+    "end": 121.38
+  },
+  {
+    "word": "la",
+    "start": 121.38,
+    "end": 121.54
+  },
+  {
+    "word": "anatomía",
+    "start": 121.54,
+    "end": 122.08
+  },
+  {
+    "word": "real",
+    "start": 122.08,
+    "end": 122.38
+  },
+  {
+    "word": "de",
+    "start": 122.38,
+    "end": 122.54
+  },
+  {
+    "word": "quienes",
+    "start": 122.54,
+    "end": 122.8
+  },
+  {
+    "word": "resistieron",
+    "start": 122.8,
+    "end": 123.52
+  },
+  {
+    "word": "cuando",
+    "start": 123.52,
+    "end": 123.82
+  },
+  {
+    "word": "el",
+    "start": 123.82,
+    "end": 124.0
+  },
+  {
+    "word": "mundo",
+    "start": 124.0,
+    "end": 124.22
+  },
+  {
+    "word": "apostaba",
+    "start": 124.22,
+    "end": 124.74
+  },
+  {
+    "word": "por",
+    "start": 124.74,
+    "end": 124.96
+  },
+  {
+    "word": "su",
+    "start": 124.96,
+    "end": 125.12
+  },
+  {
+    "word": "caída.",
+    "start": 125.12,
+    "end": 125.48
+  },
+  {
+    "word": "Si",
+    "start": 126.12,
+    "end": 126.74
+  },
+  {
+    "word": "buscas",
+    "start": 126.74,
+    "end": 127.1
+  },
+  {
+    "word": "historias",
+    "start": 127.1,
+    "end": 127.64
+  },
+  {
+    "word": "reales",
+    "start": 127.64,
+    "end": 128.12
+  },
+  {
+    "word": "para",
+    "start": 128.12,
+    "end": 128.32
+  },
+  {
+    "word": "afilar",
+    "start": 128.32,
+    "end": 128.62
+  },
+  {
+    "word": "tu",
+    "start": 128.62,
+    "end": 128.88
+  },
+  {
+    "word": "propio",
+    "start": 128.88,
+    "end": 129.2
+  },
+  {
+    "word": "criterio",
+    "start": 129.2,
+    "end": 129.74
+  },
+  {
+    "word": "y",
+    "start": 129.74,
+    "end": 129.94
+  },
+  {
+    "word": "tu",
+    "start": 129.94,
+    "end": 130.08
+  },
+  {
+    "word": "propia",
+    "start": 130.08,
+    "end": 130.44
+  },
+  {
+    "word": "fortaleza,",
+    "start": 130.44,
+    "end": 131.16
+  },
+  {
+    "word": "este",
+    "start": 131.4,
+    "end": 131.76
+  },
+  {
+    "word": "es",
+    "start": 131.76,
+    "end": 131.96
+  },
+  {
+    "word": "tu",
+    "start": 131.96,
+    "end": 132.08
+  },
+  {
+    "word": "lugar.",
+    "start": 132.08,
+    "end": 132.42
+  },
+  {
+    "word": "Esto",
+    "start": 133.04,
+    "end": 133.72
+  },
+  {
+    "word": "es",
+    "start": 133.72,
+    "end": 133.9
+  },
+  {
+    "word": "mentalidad",
+    "start": 133.9,
+    "end": 134.46
+  },
+  {
+    "word": "de",
+    "start": 134.46,
+    "end": 134.62
+  },
+  {
+    "word": "campeón.",
+    "start": 134.62,
+    "end": 135.1
+  },
+  {
+    "word": "Nos",
+    "start": 135.64,
+    "end": 136.26
+  },
+  {
+    "word": "vemos",
+    "start": 136.26,
+    "end": 136.5
+  },
+  {
+    "word": "en",
+    "start": 136.5,
+    "end": 136.74
+  },
+  {
+    "word": "el",
+    "start": 136.74,
+    "end": 136.88
+  },
+  {
+    "word": "próximo",
+    "start": 136.88,
+    "end": 137.26
+  },
+  {
+    "word": "expediente.",
+    "start": 137.26,
+    "end": 137.96
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "name": "Youtube",
+  "createdAt": "2026-10-31T13:51:37.331Z",
+  "createdBy": "hyperframes-desktop",
+  "skillVersions": {
+    "media-use": "6f90ca15a7fc937d9d6cf3ec289f2a26eca3724f",
+    "hyperframes-core": "6f90ca15a7fc937d9d6cf3ec289f2a26eca3724f",
+    "hyperframes-studio": "6f90ca15a7fc937d9d6cf3ec289f2a26eca3724f"
+  }
+}

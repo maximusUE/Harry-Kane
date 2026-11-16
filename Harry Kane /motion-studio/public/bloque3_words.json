@@ -1,0 +1,2072 @@
+[
+  {
+    "word": "Cuando",
+    "start": 0.0,
+    "end": 0.6,
+    "part": 1
+  },
+  {
+    "word": "el",
+    "start": 0.6,
+    "end": 0.74,
+    "part": 1
+  },
+  {
+    "word": "Tottenham",
+    "start": 0.74,
+    "end": 1.2,
+    "part": 1
+  },
+  {
+    "word": "Hotspur",
+    "start": 1.2,
+    "end": 1.74,
+    "part": 1
+  },
+  {
+    "word": "finalmente",
+    "start": 1.74,
+    "end": 2.24,
+    "part": 1
+  },
+  {
+    "word": "le",
+    "start": 2.24,
+    "end": 2.64,
+    "part": 1
+  },
+  {
+    "word": "dio",
+    "start": 2.64,
+    "end": 2.82,
+    "part": 1
+  },
+  {
+    "word": "una",
+    "start": 2.82,
+    "end": 3.06,
+    "part": 1
+  },
+  {
+    "word": "oportunidad",
+    "start": 3.06,
+    "end": 3.62,
+    "part": 1
+  },
+  {
+    "word": "en",
+    "start": 3.62,
+    "end": 3.92,
+    "part": 1
+  },
+  {
+    "word": "el",
+    "start": 3.92,
+    "end": 4.04,
+    "part": 1
+  },
+  {
+    "word": "primer",
+    "start": 4.04,
+    "end": 4.32,
+    "part": 1
+  },
+  {
+    "word": "equipo,",
+    "start": 4.32,
+    "end": 4.78,
+    "part": 1
+  },
+  {
+    "word": "Kane",
+    "start": 5.24,
+    "end": 5.34,
+    "part": 1
+  },
+  {
+    "word": "desató",
+    "start": 5.34,
+    "end": 5.96,
+    "part": 1
+  },
+  {
+    "word": "una",
+    "start": 5.96,
+    "end": 6.18,
+    "part": 1
+  },
+  {
+    "word": "tormenta.",
+    "start": 6.18,
+    "end": 6.84,
+    "part": 1
+  },
+  {
+    "word": "En",
+    "start": 7.0,
+    "end": 7.64,
+    "part": 1
+  },
+  {
+    "word": "cuestión",
+    "start": 7.64,
+    "end": 8.02,
+    "part": 1
+  },
+  {
+    "word": "de",
+    "start": 8.02,
+    "end": 8.28,
+    "part": 1
+  },
+  {
+    "word": "temporadas",
+    "start": 8.28,
+    "end": 8.82,
+    "part": 1
+  },
+  {
+    "word": "se",
+    "start": 8.82,
+    "end": 9.04,
+    "part": 1
+  },
+  {
+    "word": "convirtió",
+    "start": 9.04,
+    "end": 9.68,
+    "part": 1
+  },
+  {
+    "word": "en",
+    "start": 9.68,
+    "end": 9.9,
+    "part": 1
+  },
+  {
+    "word": "uno",
+    "start": 9.9,
+    "end": 10.08,
+    "part": 1
+  },
+  {
+    "word": "de",
+    "start": 10.08,
+    "end": 10.22,
+    "part": 1
+  },
+  {
+    "word": "los",
+    "start": 10.22,
+    "end": 10.4,
+    "part": 1
+  },
+  {
+    "word": "delanteros",
+    "start": 10.4,
+    "end": 11.06,
+    "part": 1
+  },
+  {
+    "word": "más",
+    "start": 11.06,
+    "end": 11.32,
+    "part": 1
+  },
+  {
+    "word": "temidos",
+    "start": 11.32,
+    "end": 11.82,
+    "part": 1
+  },
+  {
+    "word": "del",
+    "start": 11.82,
+    "end": 12.0,
+    "part": 1
+  },
+  {
+    "word": "continente,",
+    "start": 12.0,
+    "end": 12.7,
+    "part": 1
+  },
+  {
+    "word": "máximo",
+    "start": 12.94,
+    "end": 13.42,
+    "part": 1
+  },
+  {
+    "word": "goleador",
+    "start": 13.42,
+    "end": 13.98,
+    "part": 1
+  },
+  {
+    "word": "de",
+    "start": 13.98,
+    "end": 14.14,
+    "part": 1
+  },
+  {
+    "word": "la",
+    "start": 14.14,
+    "end": 14.26,
+    "part": 1
+  },
+  {
+    "word": "Premier",
+    "start": 14.26,
+    "end": 14.56,
+    "part": 1
+  },
+  {
+    "word": "League",
+    "start": 14.56,
+    "end": 14.9,
+    "part": 1
+  },
+  {
+    "word": "una,",
+    "start": 14.9,
+    "end": 15.12,
+    "part": 1
+  },
+  {
+    "word": "dos",
+    "start": 15.46,
+    "end": 15.68,
+    "part": 1
+  },
+  {
+    "word": "-tres",
+    "start": 15.68,
+    "end": 16.0,
+    "part": 1
+  },
+  {
+    "word": "veces,",
+    "start": 16.0,
+    "end": 16.38,
+    "part": 1
+  },
+  {
+    "word": "280",
+    "start": 16.86,
+    "end": 17.7,
+    "part": 1
+  },
+  {
+    "word": "goles",
+    "start": 17.7,
+    "end": 18.34,
+    "part": 1
+  },
+  {
+    "word": "con",
+    "start": 18.34,
+    "end": 18.56,
+    "part": 1
+  },
+  {
+    "word": "la",
+    "start": 18.56,
+    "end": 18.72,
+    "part": 1
+  },
+  {
+    "word": "camiseta",
+    "start": 18.72,
+    "end": 19.24,
+    "part": 1
+  },
+  {
+    "word": "de",
+    "start": 19.24,
+    "end": 19.38,
+    "part": 1
+  },
+  {
+    "word": "los",
+    "start": 19.38,
+    "end": 19.58,
+    "part": 1
+  },
+  {
+    "word": "sports",
+    "start": 19.58,
+    "end": 20.06,
+    "part": 1
+  },
+  {
+    "word": "y",
+    "start": 20.06,
+    "end": 20.56,
+    "part": 1
+  },
+  {
+    "word": "bota",
+    "start": 20.56,
+    "end": 20.9,
+    "part": 1
+  },
+  {
+    "word": "de",
+    "start": 20.9,
+    "end": 21.08,
+    "part": 1
+  },
+  {
+    "word": "oro",
+    "start": 21.08,
+    "end": 21.3,
+    "part": 1
+  },
+  {
+    "word": "del",
+    "start": 21.3,
+    "end": 21.52,
+    "part": 1
+  },
+  {
+    "word": "Mundial",
+    "start": 21.52,
+    "end": 21.92,
+    "part": 1
+  },
+  {
+    "word": "de",
+    "start": 21.92,
+    "end": 22.08,
+    "part": 1
+  },
+  {
+    "word": "Rusia",
+    "start": 22.08,
+    "end": 22.4,
+    "part": 1
+  },
+  {
+    "word": "2018",
+    "start": 22.4,
+    "end": 23.08,
+    "part": 1
+  },
+  {
+    "word": "como",
+    "start": 23.08,
+    "end": 23.62,
+    "part": 1
+  },
+  {
+    "word": "capitán",
+    "start": 23.62,
+    "end": 24.14,
+    "part": 1
+  },
+  {
+    "word": "de",
+    "start": 24.14,
+    "end": 24.28,
+    "part": 1
+  },
+  {
+    "word": "Inglaterra.",
+    "start": 24.28,
+    "end": 24.92,
+    "part": 1
+  },
+  {
+    "word": "En",
+    "start": 24.92,
+    "end": 25.68,
+    "part": 1
+  },
+  {
+    "word": "el",
+    "start": 25.68,
+    "end": 25.8,
+    "part": 1
+  },
+  {
+    "word": "papel",
+    "start": 25.8,
+    "end": 26.16,
+    "part": 1
+  },
+  {
+    "word": "lo",
+    "start": 26.16,
+    "end": 26.54,
+    "part": 1
+  },
+  {
+    "word": "tenía",
+    "start": 26.54,
+    "end": 26.84,
+    "part": 1
+  },
+  {
+    "word": "todo,",
+    "start": 26.84,
+    "end": 27.24,
+    "part": 1
+  },
+  {
+    "word": "pero",
+    "start": 27.44,
+    "end": 27.7,
+    "part": 1
+  },
+  {
+    "word": "el",
+    "start": 27.7,
+    "end": 27.84,
+    "part": 1
+  },
+  {
+    "word": "deporte",
+    "start": 27.84,
+    "end": 28.28,
+    "part": 1
+  },
+  {
+    "word": "de",
+    "start": 28.28,
+    "end": 28.46,
+    "part": 1
+  },
+  {
+    "word": "élite",
+    "start": 28.46,
+    "end": 28.84,
+    "part": 1
+  },
+  {
+    "word": "tiene",
+    "start": 28.84,
+    "end": 29.12,
+    "part": 1
+  },
+  {
+    "word": "una",
+    "start": 29.12,
+    "end": 29.36,
+    "part": 1
+  },
+  {
+    "word": "crueldad",
+    "start": 29.36,
+    "end": 29.86,
+    "part": 1
+  },
+  {
+    "word": "que",
+    "start": 29.86,
+    "end": 30.02,
+    "part": 1
+  },
+  {
+    "word": "no",
+    "start": 30.02,
+    "end": 30.16,
+    "part": 1
+  },
+  {
+    "word": "perdona",
+    "start": 30.16,
+    "end": 30.6,
+    "part": 1
+  },
+  {
+    "word": "a",
+    "start": 30.6,
+    "end": 30.74,
+    "part": 1
+  },
+  {
+    "word": "nadie.",
+    "start": 30.74,
+    "end": 31.0,
+    "part": 1
+  },
+  {
+    "word": "Puedes",
+    "start": 31.36,
+    "end": 31.64,
+    "part": 1
+  },
+  {
+    "word": "ser",
+    "start": 31.64,
+    "end": 31.84,
+    "part": 1
+  },
+  {
+    "word": "el",
+    "start": 31.84,
+    "end": 31.98,
+    "part": 1
+  },
+  {
+    "word": "mejor",
+    "start": 31.98,
+    "end": 32.28,
+    "part": 1
+  },
+  {
+    "word": "en",
+    "start": 32.28,
+    "end": 32.48,
+    "part": 1
+  },
+  {
+    "word": "tu",
+    "start": 32.48,
+    "end": 32.64,
+    "part": 1
+  },
+  {
+    "word": "puesto,",
+    "start": 32.64,
+    "end": 33.04,
+    "part": 1
+  },
+  {
+    "word": "pero",
+    "start": 33.24,
+    "end": 33.4,
+    "part": 1
+  },
+  {
+    "word": "si",
+    "start": 33.4,
+    "end": 33.58,
+    "part": 1
+  },
+  {
+    "word": "no",
+    "start": 33.58,
+    "end": 33.72,
+    "part": 1
+  },
+  {
+    "word": "levantas",
+    "start": 33.72,
+    "end": 34.24,
+    "part": 1
+  },
+  {
+    "word": "trofeos,",
+    "start": 34.24,
+    "end": 34.78,
+    "part": 1
+  },
+  {
+    "word": "el",
+    "start": 34.94,
+    "end": 35.06,
+    "part": 1
+  },
+  {
+    "word": "mundo",
+    "start": 35.06,
+    "end": 35.32,
+    "part": 1
+  },
+  {
+    "word": "te",
+    "start": 35.32,
+    "end": 35.5,
+    "part": 1
+  },
+  {
+    "word": "juzgará",
+    "start": 35.5,
+    "end": 36.0,
+    "part": 1
+  },
+  {
+    "word": "como",
+    "start": 36.0,
+    "end": 36.26,
+    "part": 1
+  },
+  {
+    "word": "a",
+    "start": 36.26,
+    "end": 36.46,
+    "part": 1
+  },
+  {
+    "word": "un",
+    "start": 36.46,
+    "end": 36.56,
+    "part": 1
+  },
+  {
+    "word": "perdedor.",
+    "start": 36.56,
+    "end": 37.16,
+    "part": 1
+  },
+  {
+    "word": "Y",
+    "start": 37.54,
+    "end": 38.06,
+    "part": 1
+  },
+  {
+    "word": "entonces",
+    "start": 38.06,
+    "end": 38.5,
+    "part": 1
+  },
+  {
+    "word": "comenzó",
+    "start": 38.5,
+    "end": 39.14,
+    "part": 1
+  },
+  {
+    "word": "el",
+    "start": 39.14,
+    "end": 39.24,
+    "part": 1
+  },
+  {
+    "word": "calvario.",
+    "start": 39.24,
+    "end": 39.76,
+    "part": 1
+  },
+  {
+    "word": "Año",
+    "start": 39.76,
+    "end": 40.66,
+    "part": 1
+  },
+  {
+    "word": "2015.",
+    "start": 40.66,
+    "end": 41.46,
+    "part": 1
+  },
+  {
+    "word": "Final",
+    "start": 41.72,
+    "end": 42.24,
+    "part": 1
+  },
+  {
+    "word": "de",
+    "start": 42.24,
+    "end": 42.48,
+    "part": 1
+  },
+  {
+    "word": "la",
+    "start": 42.48,
+    "end": 42.62,
+    "part": 1
+  },
+  {
+    "word": "Copa",
+    "start": 42.62,
+    "end": 42.94,
+    "part": 1
+  },
+  {
+    "word": "de",
+    "start": 42.94,
+    "end": 43.06,
+    "part": 1
+  },
+  {
+    "word": "la",
+    "start": 43.06,
+    "end": 43.18,
+    "part": 1
+  },
+  {
+    "word": "Liga",
+    "start": 43.18,
+    "end": 43.46,
+    "part": 1
+  },
+  {
+    "word": "ante",
+    "start": 43.46,
+    "end": 43.74,
+    "part": 1
+  },
+  {
+    "word": "el",
+    "start": 43.74,
+    "end": 43.92,
+    "part": 1
+  },
+  {
+    "word": "Chelsea",
+    "start": 43.92,
+    "end": 44.32,
+    "part": 1
+  },
+  {
+    "word": "de",
+    "start": 44.32,
+    "end": 44.54,
+    "part": 1
+  },
+  {
+    "word": "Mourinho.",
+    "start": 44.54,
+    "end": 45.02,
+    "part": 1
+  },
+  {
+    "word": "Año",
+    "start": 45.24,
+    "end": 45.5,
+    "part": 1
+  },
+  {
+    "word": "2019.",
+    "start": 45.5,
+    "end": 46.16,
+    "part": 1
+  },
+  {
+    "word": "La",
+    "start": 46.72,
+    "end": 46.9,
+    "part": 1
+  },
+  {
+    "word": "primera",
+    "start": 46.9,
+    "end": 47.24,
+    "part": 1
+  },
+  {
+    "word": "final",
+    "start": 47.24,
+    "end": 47.58,
+    "part": 1
+  },
+  {
+    "word": "de",
+    "start": 47.58,
+    "end": 47.78,
+    "part": 1
+  },
+  {
+    "word": "Champions",
+    "start": 47.78,
+    "end": 48.12,
+    "part": 1
+  },
+  {
+    "word": "League",
+    "start": 48.12,
+    "end": 48.62,
+    "part": 1
+  },
+  {
+    "word": "en",
+    "start": 48.62,
+    "end": 48.84,
+    "part": 1
+  },
+  {
+    "word": "Madrid.",
+    "start": 48.84,
+    "end": 49.16,
+    "part": 1
+  },
+  {
+    "word": "El",
+    "start": 49.44,
+    "end": 49.74,
+    "part": 1
+  },
+  {
+    "word": "Liverpool",
+    "start": 49.74,
+    "end": 50.14,
+    "part": 1
+  },
+  {
+    "word": "golpea",
+    "start": 50.14,
+    "end": 50.82,
+    "part": 1
+  },
+  {
+    "word": "en",
+    "start": 50.82,
+    "end": 50.98,
+    "part": 1
+  },
+  {
+    "word": "el",
+    "start": 50.98,
+    "end": 51.1,
+    "part": 1
+  },
+  {
+    "word": "primer",
+    "start": 51.1,
+    "end": 51.38,
+    "part": 1
+  },
+  {
+    "word": "minuto",
+    "start": 51.38,
+    "end": 51.78,
+    "part": 1
+  },
+  {
+    "word": "y",
+    "start": 51.78,
+    "end": 51.9,
+    "part": 1
+  },
+  {
+    "word": "Kane",
+    "start": 51.9,
+    "end": 52.1,
+    "part": 1
+  },
+  {
+    "word": "termina",
+    "start": 52.1,
+    "end": 52.6,
+    "part": 1
+  },
+  {
+    "word": "de",
+    "start": 52.6,
+    "end": 52.76,
+    "part": 1
+  },
+  {
+    "word": "rodillas",
+    "start": 52.76,
+    "end": 53.2,
+    "part": 1
+  },
+  {
+    "word": "en",
+    "start": 53.2,
+    "end": 53.4,
+    "part": 1
+  },
+  {
+    "word": "el",
+    "start": 53.4,
+    "end": 53.54,
+    "part": 1
+  },
+  {
+    "word": "pasto,",
+    "start": 53.54,
+    "end": 54.0,
+    "part": 1
+  },
+  {
+    "word": "con",
+    "start": 54.1,
+    "end": 54.3,
+    "part": 1
+  },
+  {
+    "word": "la",
+    "start": 54.3,
+    "end": 54.44,
+    "part": 1
+  },
+  {
+    "word": "mirada",
+    "start": 54.44,
+    "end": 54.82,
+    "part": 1
+  },
+  {
+    "word": "vacía.",
+    "start": 54.82,
+    "end": 55.3,
+    "part": 1
+  },
+  {
+    "word": "Año",
+    "start": 55.3,
+    "end": 56.26,
+    "part": 1
+  },
+  {
+    "word": "2021.",
+    "start": 56.26,
+    "end": 56.94,
+    "part": 1
+  },
+  {
+    "word": "Otra",
+    "start": 57.44,
+    "end": 57.8,
+    "part": 1
+  },
+  {
+    "word": "final",
+    "start": 57.8,
+    "end": 58.04,
+    "part": 1
+  },
+  {
+    "word": "de",
+    "start": 58.04,
+    "end": 58.22,
+    "part": 1
+  },
+  {
+    "word": "Copa",
+    "start": 58.22,
+    "end": 58.52,
+    "part": 1
+  },
+  {
+    "word": "ante",
+    "start": 58.52,
+    "end": 58.74,
+    "part": 1
+  },
+  {
+    "word": "el",
+    "start": 58.74,
+    "end": 58.9,
+    "part": 1
+  },
+  {
+    "word": "Manchester",
+    "start": 58.9,
+    "end": 59.28,
+    "part": 1
+  },
+  {
+    "word": "City.",
+    "start": 59.28,
+    "end": 59.76,
+    "part": 1
+  },
+  {
+    "word": "Verano",
+    "start": 60.04,
+    "end": 60.48,
+    "part": 1
+  },
+  {
+    "word": "de",
+    "start": 60.48,
+    "end": 60.62,
+    "part": 1
+  },
+  {
+    "word": "2021.",
+    "start": 60.62,
+    "end": 61.26,
+    "part": 1
+  },
+  {
+    "word": "La",
+    "start": 61.74,
+    "end": 61.98,
+    "part": 1
+  },
+  {
+    "word": "herida",
+    "start": 61.98,
+    "end": 62.3,
+    "part": 1
+  },
+  {
+    "word": "más",
+    "start": 62.3,
+    "end": 62.52,
+    "part": 1
+  },
+  {
+    "word": "profunda.",
+    "start": 62.52,
+    "end": 63.06,
+    "part": 1
+  },
+  {
+    "word": "La",
+    "start": 63.3,
+    "end": 63.54,
+    "part": 1
+  },
+  {
+    "word": "final",
+    "start": 63.54,
+    "end": 63.84,
+    "part": 1
+  },
+  {
+    "word": "de",
+    "start": 63.84,
+    "end": 63.98,
+    "part": 1
+  },
+  {
+    "word": "la",
+    "start": 63.98,
+    "end": 64.08,
+    "part": 1
+  },
+  {
+    "word": "Eurocopa",
+    "start": 64.08,
+    "end": 64.58,
+    "part": 1
+  },
+  {
+    "word": "en",
+    "start": 64.58,
+    "end": 64.7,
+    "part": 1
+  },
+  {
+    "word": "Wembley",
+    "start": 64.7,
+    "end": 65.14,
+    "part": 1
+  },
+  {
+    "word": "ante",
+    "start": 65.14,
+    "end": 65.36,
+    "part": 1
+  },
+  {
+    "word": "60",
+    "start": 65.36,
+    "end": 65.82,
+    "part": 1
+  },
+  {
+    "word": ".000",
+    "start": 65.82,
+    "end": 66.08,
+    "part": 1
+  },
+  {
+    "word": "compatriotas.",
+    "start": 66.08,
+    "end": 66.92,
+    "part": 1
+  },
+  {
+    "word": "Penales",
+    "start": 67.04,
+    "end": 67.4,
+    "part": 1
+  },
+  {
+    "word": "contra",
+    "start": 67.4,
+    "end": 67.68,
+    "part": 1
+  },
+  {
+    "word": "Italia,",
+    "start": 67.68,
+    "end": 68.12,
+    "part": 1
+  },
+  {
+    "word": "Inglaterra",
+    "start": 68.36,
+    "end": 68.94,
+    "part": 1
+  },
+  {
+    "word": "pierde",
+    "start": 68.94,
+    "end": 69.42,
+    "part": 1
+  },
+  {
+    "word": "y",
+    "start": 69.42,
+    "end": 69.7,
+    "part": 1
+  },
+  {
+    "word": "Kane",
+    "start": 69.7,
+    "end": 69.98,
+    "part": 1
+  },
+  {
+    "word": "ve",
+    "start": 69.98,
+    "end": 70.2,
+    "part": 1
+  },
+  {
+    "word": "escapar",
+    "start": 70.2,
+    "end": 70.64,
+    "part": 1
+  },
+  {
+    "word": "el",
+    "start": 70.64,
+    "end": 70.78,
+    "part": 1
+  },
+  {
+    "word": "trofeo",
+    "start": 70.78,
+    "end": 71.26,
+    "part": 1
+  },
+  {
+    "word": "entre",
+    "start": 71.26,
+    "end": 71.5,
+    "part": 1
+  },
+  {
+    "word": "sus",
+    "start": 71.5,
+    "end": 71.74,
+    "part": 1
+  },
+  {
+    "word": "dedos.",
+    "start": 71.74,
+    "end": 72.14,
+    "part": 1
+  },
+  {
+    "word": "Año",
+    "start": 72.14,
+    "end": 73.06,
+    "part": 1
+  },
+  {
+    "word": "2024.",
+    "start": 73.06,
+    "end": 73.64,
+    "part": 1
+  },
+  {
+    "word": "Final",
+    "start": 74.34,
+    "end": 74.66,
+    "part": 1
+  },
+  {
+    "word": "en",
+    "start": 74.66,
+    "end": 74.9,
+    "part": 1
+  },
+  {
+    "word": "Berlín",
+    "start": 74.9,
+    "end": 75.24,
+    "part": 1
+  },
+  {
+    "word": "frente",
+    "start": 75.24,
+    "end": 75.5,
+    "part": 1
+  },
+  {
+    "word": "a",
+    "start": 75.5,
+    "end": 75.64,
+    "part": 1
+  },
+  {
+    "word": "España.",
+    "start": 75.64,
+    "end": 75.98,
+    "part": 1
+  },
+  {
+    "word": "Y",
+    "start": 76.22,
+    "end": 76.36,
+    "part": 1
+  },
+  {
+    "word": "otra",
+    "start": 76.36,
+    "end": 76.56,
+    "part": 1
+  },
+  {
+    "word": "vez",
+    "start": 76.56,
+    "end": 76.74,
+    "part": 1
+  },
+  {
+    "word": "la",
+    "start": 76.74,
+    "end": 76.88,
+    "part": 1
+  },
+  {
+    "word": "misma",
+    "start": 76.88,
+    "end": 77.12,
+    "part": 1
+  },
+  {
+    "word": "escena",
+    "start": 77.12,
+    "end": 77.52,
+    "part": 1
+  },
+  {
+    "word": "desgarradora.",
+    "start": 77.52,
+    "end": 78.26,
+    "part": 1
+  },
+  {
+    "word": "Kane",
+    "start": 78.52,
+    "end": 78.86,
+    "part": 1
+  },
+  {
+    "word": "en",
+    "start": 78.86,
+    "end": 79.06,
+    "part": 1
+  },
+  {
+    "word": "el",
+    "start": 79.06,
+    "end": 79.18,
+    "part": 1
+  },
+  {
+    "word": "césped,",
+    "start": 79.18,
+    "end": 79.64,
+    "part": 1
+  },
+  {
+    "word": "derrotado,",
+    "start": 79.76,
+    "end": 80.26,
+    "part": 1
+  },
+  {
+    "word": "escuchando",
+    "start": 80.42,
+    "end": 80.98,
+    "part": 1
+  },
+  {
+    "word": "el",
+    "start": 80.98,
+    "end": 81.12,
+    "part": 1
+  },
+  {
+    "word": "silbatazo",
+    "start": 81.12,
+    "end": 81.78,
+    "part": 1
+  },
+  {
+    "word": "final.",
+    "start": 81.78,
+    "end": 82.1,
+    "part": 1
+  },
+  {
+    "word": "Seis",
+    "start": 82.92,
+    "end": 83.24,
+    "part": 1
+  },
+  {
+    "word": "finales",
+    "start": 83.24,
+    "end": 83.66,
+    "part": 1
+  },
+  {
+    "word": "consecutivas",
+    "start": 83.66,
+    "end": 84.34,
+    "part": 1
+  },
+  {
+    "word": "disputadas.",
+    "start": 84.34,
+    "end": 85.04,
+    "part": 1
+  },
+  {
+    "word": "Seis",
+    "start": 85.24,
+    "end": 85.46,
+    "part": 1
+  },
+  {
+    "word": "derrotas.",
+    "start": 85.46,
+    "end": 86.04,
+    "part": 1
+  },
+  {
+    "word": "Cero",
+    "start": 86.22,
+    "end": 86.44,
+    "part": 1
+  },
+  {
+    "word": "trofeos.",
+    "start": 86.44,
+    "end": 87.02,
+    "part": 1
+  },
+  {
+    "word": "Pregúntate",
+    "start": 87.19,
+    "end": 87.97,
+    "part": 2
+  },
+  {
+    "word": "esto.",
+    "start": 87.97,
+    "end": 88.35,
+    "part": 2
+  },
+  {
+    "word": "¿Qué",
+    "start": 88.55,
+    "end": 88.83,
+    "part": 2
+  },
+  {
+    "word": "haces",
+    "start": 88.83,
+    "end": 89.17,
+    "part": 2
+  },
+  {
+    "word": "cuando",
+    "start": 89.17,
+    "end": 89.47,
+    "part": 2
+  },
+  {
+    "word": "das",
+    "start": 89.47,
+    "end": 89.71,
+    "part": 2
+  },
+  {
+    "word": "tu",
+    "start": 89.71,
+    "end": 89.89,
+    "part": 2
+  },
+  {
+    "word": "100",
+    "start": 89.89,
+    "end": 90.17,
+    "part": 2
+  },
+  {
+    "word": "%",
+    "start": 90.17,
+    "end": 90.51,
+    "part": 2
+  },
+  {
+    "word": "y",
+    "start": 90.51,
+    "end": 90.93,
+    "part": 2
+  },
+  {
+    "word": "las",
+    "start": 90.93,
+    "end": 91.09,
+    "part": 2
+  },
+  {
+    "word": "cosas",
+    "start": 91.09,
+    "end": 91.41,
+    "part": 2
+  },
+  {
+    "word": "salen",
+    "start": 91.41,
+    "end": 91.83,
+    "part": 2
+  },
+  {
+    "word": "mal?",
+    "start": 91.83,
+    "end": 92.05,
+    "part": 2
+  },
+  {
+    "word": "¿Qué",
+    "start": 92.57,
+    "end": 93.13,
+    "part": 2
+  },
+  {
+    "word": "haces",
+    "start": 93.13,
+    "end": 93.49,
+    "part": 2
+  },
+  {
+    "word": "cuando",
+    "start": 93.49,
+    "end": 93.77,
+    "part": 2
+  },
+  {
+    "word": "te",
+    "start": 93.77,
+    "end": 93.95,
+    "part": 2
+  },
+  {
+    "word": "sacrificas",
+    "start": 93.95,
+    "end": 94.65,
+    "part": 2
+  },
+  {
+    "word": "durante",
+    "start": 94.65,
+    "end": 94.87,
+    "part": 2
+  },
+  {
+    "word": "meses",
+    "start": 94.87,
+    "end": 95.39,
+    "part": 2
+  },
+  {
+    "word": "comiendo",
+    "start": 95.39,
+    "end": 95.89,
+    "part": 2
+  },
+  {
+    "word": "limpio,",
+    "start": 95.89,
+    "end": 96.43,
+    "part": 2
+  },
+  {
+    "word": "entrenando",
+    "start": 96.69,
+    "end": 97.31,
+    "part": 2
+  },
+  {
+    "word": "con",
+    "start": 97.31,
+    "end": 97.55,
+    "part": 2
+  },
+  {
+    "word": "dolor,",
+    "start": 97.55,
+    "end": 97.81,
+    "part": 2
+  },
+  {
+    "word": "cuidando",
+    "start": 98.01,
+    "end": 98.39,
+    "part": 2
+  },
+  {
+    "word": "cada",
+    "start": 98.39,
+    "end": 98.67,
+    "part": 2
+  },
+  {
+    "word": "peso,",
+    "start": 98.67,
+    "end": 99.07,
+    "part": 2
+  },
+  {
+    "word": "y",
+    "start": 99.21,
+    "end": 99.53,
+    "part": 2
+  },
+  {
+    "word": "al",
+    "start": 99.53,
+    "end": 99.69,
+    "part": 2
+  },
+  {
+    "word": "final",
+    "start": 99.69,
+    "end": 99.97,
+    "part": 2
+  },
+  {
+    "word": "del",
+    "start": 99.97,
+    "end": 100.25,
+    "part": 2
+  },
+  {
+    "word": "año",
+    "start": 100.25,
+    "end": 100.49,
+    "part": 2
+  },
+  {
+    "word": "sientes",
+    "start": 100.49,
+    "end": 100.93,
+    "part": 2
+  },
+  {
+    "word": "que",
+    "start": 100.93,
+    "end": 101.15,
+    "part": 2
+  },
+  {
+    "word": "no",
+    "start": 101.15,
+    "end": 101.29,
+    "part": 2
+  },
+  {
+    "word": "avanzaste",
+    "start": 101.29,
+    "end": 101.89,
+    "part": 2
+  },
+  {
+    "word": "nada?",
+    "start": 101.89,
+    "end": 102.15,
+    "part": 2
+  },
+  {
+    "word": "La",
+    "start": 102.61,
+    "end": 102.95,
+    "part": 2
+  },
+  {
+    "word": "mayoría",
+    "start": 102.95,
+    "end": 103.25,
+    "part": 2
+  },
+  {
+    "word": "de",
+    "start": 103.25,
+    "end": 103.49,
+    "part": 2
+  },
+  {
+    "word": "la",
+    "start": 103.49,
+    "end": 103.59,
+    "part": 2
+  },
+  {
+    "word": "gente",
+    "start": 103.59,
+    "end": 103.87,
+    "part": 2
+  },
+  {
+    "word": "se",
+    "start": 103.87,
+    "end": 104.05,
+    "part": 2
+  },
+  {
+    "word": "derrumba,",
+    "start": 104.05,
+    "end": 104.51,
+    "part": 2
+  },
+  {
+    "word": "se",
+    "start": 104.69,
+    "end": 104.97,
+    "part": 2
+  },
+  {
+    "word": "hace",
+    "start": 104.97,
+    "end": 105.17,
+    "part": 2
+  },
+  {
+    "word": "la",
+    "start": 105.17,
+    "end": 105.31,
+    "part": 2
+  },
+  {
+    "word": "víctima,",
+    "start": 105.31,
+    "end": 105.75,
+    "part": 2
+  },
+  {
+    "word": "dice,",
+    "start": 105.97,
+    "end": 106.25,
+    "part": 2
+  },
+  {
+    "word": "el",
+    "start": 106.41,
+    "end": 106.63,
+    "part": 2
+  },
+  {
+    "word": "universo",
+    "start": 106.63,
+    "end": 107.01,
+    "part": 2
+  },
+  {
+    "word": "me",
+    "start": 107.01,
+    "end": 107.27,
+    "part": 2
+  },
+  {
+    "word": "odia,",
+    "start": 107.27,
+    "end": 107.57,
+    "part": 2
+  },
+  {
+    "word": "nací",
+    "start": 107.81,
+    "end": 108.05,
+    "part": 2
+  },
+  {
+    "word": "con",
+    "start": 108.05,
+    "end": 108.23,
+    "part": 2
+  },
+  {
+    "word": "mala",
+    "start": 108.23,
+    "end": 108.51,
+    "part": 2
+  },
+  {
+    "word": "suerte,",
+    "start": 108.51,
+    "end": 108.91,
+    "part": 2
+  },
+  {
+    "word": "tengo",
+    "start": 109.19,
+    "end": 109.43,
+    "part": 2
+  },
+  {
+    "word": "la",
+    "start": 109.43,
+    "end": 109.63,
+    "part": 2
+  },
+  {
+    "word": "genética",
+    "start": 109.63,
+    "end": 110.13,
+    "part": 2
+  },
+  {
+    "word": "equivocada.",
+    "start": 110.13,
+    "end": 110.77,
+    "part": 2
+  },
+  {
+    "word": "En",
+    "start": 110.77,
+    "end": 111.67,
+    "part": 2
+  },
+  {
+    "word": "ese",
+    "start": 111.67,
+    "end": 111.91,
+    "part": 2
+  },
+  {
+    "word": "instante",
+    "start": 111.91,
+    "end": 112.43,
+    "part": 2
+  },
+  {
+    "word": "es",
+    "start": 112.43,
+    "end": 112.71,
+    "part": 2
+  },
+  {
+    "word": "donde",
+    "start": 112.71,
+    "end": 113.01,
+    "part": 2
+  },
+  {
+    "word": "el",
+    "start": 113.01,
+    "end": 113.23,
+    "part": 2
+  },
+  {
+    "word": "99",
+    "start": 113.23,
+    "end": 113.67,
+    "part": 2
+  },
+  {
+    "word": "%",
+    "start": 113.67,
+    "end": 114.43,
+    "part": 2
+  },
+  {
+    "word": "de",
+    "start": 114.43,
+    "end": 114.91,
+    "part": 2
+  },
+  {
+    "word": "los",
+    "start": 114.91,
+    "end": 115.09,
+    "part": 2
+  },
+  {
+    "word": "hombres",
+    "start": 115.09,
+    "end": 115.43,
+    "part": 2
+  },
+  {
+    "word": "se",
+    "start": 115.43,
+    "end": 115.65,
+    "part": 2
+  },
+  {
+    "word": "rinden.",
+    "start": 115.65,
+    "end": 116.01,
+    "part": 2
+  },
+  {
+    "word": "Se",
+    "start": 116.33,
+    "end": 116.87,
+    "part": 2
+  },
+  {
+    "word": "conforman",
+    "start": 116.87,
+    "end": 117.47,
+    "part": 2
+  },
+  {
+    "word": "con",
+    "start": 117.47,
+    "end": 117.63,
+    "part": 2
+  },
+  {
+    "word": "la",
+    "start": 117.63,
+    "end": 117.77,
+    "part": 2
+  },
+  {
+    "word": "mediocridad",
+    "start": 117.77,
+    "end": 118.39,
+    "part": 2
+  },
+  {
+    "word": "porque",
+    "start": 118.39,
+    "end": 118.69,
+    "part": 2
+  },
+  {
+    "word": "conformarse",
+    "start": 118.69,
+    "end": 119.47,
+    "part": 2
+  },
+  {
+    "word": "duele",
+    "start": 119.47,
+    "end": 119.83,
+    "part": 2
+  },
+  {
+    "word": "menos",
+    "start": 119.83,
+    "end": 120.09,
+    "part": 2
+  },
+  {
+    "word": "que",
+    "start": 120.09,
+    "end": 120.31,
+    "part": 2
+  },
+  {
+    "word": "intentarlo",
+    "start": 120.31,
+    "end": 121.01,
+    "part": 2
+  },
+  {
+    "word": "y",
+    "start": 121.01,
+    "end": 121.17,
+    "part": 2
+  },
+  {
+    "word": "volver",
+    "start": 121.17,
+    "end": 121.45,
+    "part": 2
+  },
+  {
+    "word": "a",
+    "start": 121.45,
+    "end": 121.63,
+    "part": 2
+  },
+  {
+    "word": "fallar.",
+    "start": 121.63,
+    "end": 122.05,
+    "part": 2
+  },
+  {
+    "word": "Pero",
+    "start": 122.43,
+    "end": 123.01,
+    "part": 2
+  },
+  {
+    "word": "los",
+    "start": 123.01,
+    "end": 123.25,
+    "part": 2
+  },
+  {
+    "word": "hombres",
+    "start": 123.25,
+    "end": 123.57,
+    "part": 2
+  },
+  {
+    "word": "de",
+    "start": 123.57,
+    "end": 123.77,
+    "part": 2
+  },
+  {
+    "word": "hierro",
+    "start": 123.77,
+    "end": 124.25,
+    "part": 2
+  },
+  {
+    "word": "tienen",
+    "start": 124.25,
+    "end": 124.65,
+    "part": 2
+  },
+  {
+    "word": "un",
+    "start": 124.65,
+    "end": 124.93,
+    "part": 2
+  },
+  {
+    "word": "cableado",
+    "start": 124.93,
+    "end": 125.41,
+    "part": 2
+  },
+  {
+    "word": "mental",
+    "start": 125.41,
+    "end": 125.75,
+    "part": 2
+  },
+  {
+    "word": "diferente.",
+    "start": 125.75,
+    "end": 126.41,
+    "part": 2
+  },
+  {
+    "word": "No",
+    "start": 126.71,
+    "end": 126.91,
+    "part": 2
+  },
+  {
+    "word": "interpretan",
+    "start": 126.91,
+    "end": 127.61,
+    "part": 2
+  },
+  {
+    "word": "la",
+    "start": 127.61,
+    "end": 127.75,
+    "part": 2
+  },
+  {
+    "word": "derrota",
+    "start": 127.75,
+    "end": 128.19,
+    "part": 2
+  },
+  {
+    "word": "como",
+    "start": 128.19,
+    "end": 128.47,
+    "part": 2
+  },
+  {
+    "word": "una",
+    "start": 128.47,
+    "end": 128.73,
+    "part": 2
+  },
+  {
+    "word": "señal",
+    "start": 128.73,
+    "end": 129.15,
+    "part": 2
+  },
+  {
+    "word": "para",
+    "start": 129.15,
+    "end": 129.37,
+    "part": 2
+  },
+  {
+    "word": "parar,",
+    "start": 129.37,
+    "end": 129.73,
+    "part": 2
+  },
+  {
+    "word": "sino",
+    "start": 129.97,
+    "end": 130.25,
+    "part": 2
+  },
+  {
+    "word": "como",
+    "start": 130.25,
+    "end": 130.53,
+    "part": 2
+  },
+  {
+    "word": "una",
+    "start": 130.53,
+    "end": 130.79,
+    "part": 2
+  },
+  {
+    "word": "factura",
+    "start": 130.79,
+    "end": 131.31,
+    "part": 2
+  },
+  {
+    "word": "que",
+    "start": 131.31,
+    "end": 131.53,
+    "part": 2
+  },
+  {
+    "word": "todavía",
+    "start": 131.53,
+    "end": 131.91,
+    "part": 2
+  },
+  {
+    "word": "no",
+    "start": 131.91,
+    "end": 132.29,
+    "part": 2
+  },
+  {
+    "word": "han",
+    "start": 132.29,
+    "end": 132.49,
+    "part": 2
+  },
+  {
+    "word": "terminado",
+    "start": 132.49,
+    "end": 133.09,
+    "part": 2
+  },
+  {
+    "word": "de",
+    "start": 133.09,
+    "end": 133.23,
+    "part": 2
+  },
+  {
+    "word": "pagar.",
+    "start": 133.23,
+    "end": 133.47,
+    "part": 2
+  }
+]

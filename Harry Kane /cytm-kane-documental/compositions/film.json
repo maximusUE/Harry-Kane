@@ -1,0 +1,258 @@
+{
+  "storyboard": false,
+  "approved": null,
+  "intent": "transplant",
+  "angle": "Storyline A — La Maldición Rota: life before and after in hard-cut documentary rhythm",
+  "channel": "YouTube & X, 16:9",
+  "brand": "Memorias del Fútbol",
+  "feature": {
+    "name": "Memorias del Fútbol — Harry Kane",
+    "url": "https://www.youtube.com/watch?v=2zDVhx6LkjM",
+    "shipped": "You can now watch the Harry Kane documentary tracing his path from Arsenal rejection and a 15-year trophy curse to the Bundesliga title and 2026 Ballon d'Or",
+    "one_thing": "Quince años de espera terminaron en oro",
+    "viewer": "football fans who followed Harry Kane's 15-year quest for his first major trophy",
+    "task": "relive every chapter of Harry Kane's career from academy rejection to lifting the Bundesliga Meisterschale and the 2026 Ballon d'Or",
+    "before": "15 years mocked as a cursed striker with zero titles",
+    "after": "Bundesliga champion and 2026 Ballon d'Or winner",
+    "cta": "MEMORIAS DEL FÚTBOL"
+  },
+  "voice": "silent",
+  "duration": 29,
+  "ratio": "16:9",
+  "ground": "#08080A",
+  "ink": "#F2EFE9",
+  "accent": "#F5C518",
+  "fonts": {
+    "display": "Montserrat",
+    "body": "Inter"
+  },
+  "brandReveal": "cta",
+  "beats": [
+    {
+      "id": "hook",
+      "start": 0,
+      "end": 9.4,
+      "line": "Quince años persiguiendo la gloria",
+      "picture": "Golden-crimson stadium light sweeps through giant CERO and TÍTULOS glyphs, then a fast montage of arcs, discs, capsules and three Harry Kane documentary clips lands over three rows of HISTORIA wiping from bold to thin",
+      "route": "staged reveals",
+      "ui": [],
+      "vo": null,
+      "assets": [
+        {
+          "what": "Arsenal rejection, Spurs heartbreak, and 2026 Ballon d'Or clips from Memorias del Fútbol",
+          "bucket": "capture",
+          "have": true
+        }
+      ],
+      "shots": [
+        {
+          "at": 0.6,
+          "screen": "Giant CERO lit by sweeping golden-crimson stadium beam on dark stage",
+          "motion": "light front sweeps left to right across fixed glyphs leaving thin crimson-gold outlines",
+          "sfx": []
+        },
+        {
+          "at": 2.4,
+          "screen": "Quince años persiguiendo la gloria over rising golden stadium halo",
+          "motion": "hard cut to one-line phrase as white-gold light band sweeps across the words",
+          "sfx": []
+        },
+        {
+          "at": 4.1,
+          "screen": "Trophy-gold and crimson gradient disc grid widening across frame",
+          "motion": "hard cut to 5-row disc grid widening horizontally into capsule bars",
+          "sfx": []
+        },
+        {
+          "at": 7.5,
+          "screen": "Harry Kane lifting the 2026 Ballon d'Or in full-frame documentary footage",
+          "motion": "7-step rounded window opens on Arsenal clip, hard-cuts to Spurs heartbreak and Ballon d'Or",
+          "sfx": []
+        },
+        {
+          "at": 9.0,
+          "screen": "Three giant rows of HISTORIA drifting right and wiping from bold to thin",
+          "motion": "footage steps into a 6-frame rounded card as kinetic rows wipe in and drift right",
+          "sfx": []
+        }
+      ],
+      "seam": "whip",
+      "exit": {
+        "axis": "x",
+        "dir": 1
+      },
+      "entry": {
+        "axis": "z",
+        "dir": 1
+      },
+      "borrow": [
+        "M1416@0.20",
+        "M1416@5.44",
+        "M1416@8.54"
+      ],
+      "keep": [],
+      "moment": "M1416",
+      "port": "M1416: opticalWord() sweeps (0.20–2.00 s), phraseLight() (2.00–2.94 s), rising-arc/discGrid/PILLS montage (2.94–5.44 s), 7-step clip window + footage cuts (5.44–8.54 s), and .krow kinetic weight wipe (8.54–9.38 s)",
+      "subject": "Memorias del Fútbol documentary clips of young Harry Kane at Arsenal, Champions League heartbreak, and the 2026 Ballon d'Or, not M1416's grapefruit, fur and barley grass",
+      "carrier": "the Ballon d'Or card unfolds into the center portrait card of the archive carousel"
+    },
+    {
+      "id": "proof",
+      "start": 9.4,
+      "end": 14.7,
+      "line": "Del rechazo al Balón de Oro",
+      "picture": "A landscape documentary card unfolds into a portrait hero clip of Harry Kane flanked by 4 blurred chapter stills while a match-stats HUD drops in and the archive query types beneath",
+      "route": "staged reveals",
+      "ui": [
+        "archive card unfolds from 664×470 landscape to 456×672 portrait → 4 chapter preview cards slide in from both sides",
+        "career HUD slides down 93 px inside the hero card clip → displays 406 GOLES, BUNDESLIGA 2025, BALÓN DE ORO 2026",
+        "archive terminal line types in 2-frame chunks and swaps through 6 cipher states as carousel releases left with motion blur"
+      ],
+      "vo": null,
+      "assets": [
+        {
+          "what": "Hero portrait clip and 4 documentary chapter stills from Memorias del Fútbol",
+          "bucket": "capture",
+          "have": true
+        }
+      ],
+      "shots": [
+        {
+          "at": 10.3,
+          "screen": "5-card Memorias del Fútbol archive carousel with dropping career stats HUD and typed line Del rechazo al Balón de Oro",
+          "motion": "center card unfolds to portrait as side cards slide in, HUD drops from top clip, and prompt types in 2-frame steps",
+          "sfx": []
+        },
+        {
+          "at": 14.4,
+          "screen": "Carousel accelerating left with horizontal smear as archive line flips through cipher states",
+          "motion": "camera pushes in on the hero card, then accelerates left with 4 px focus blur and directional smear",
+          "sfx": []
+        }
+      ],
+      "seam": "whip",
+      "exit": {
+        "axis": "x",
+        "dir": -1
+      },
+      "entry": {
+        "axis": "x",
+        "dir": -1
+      },
+      "borrow": [
+        "M1381@0.00",
+        "M1381@0.37",
+        "M1381@0.10"
+      ],
+      "keep": [],
+      "moment": "M1381",
+      "port": "M1381: #card-center unfold and 5-card carousel TRACKS (0.00–5.30 s), #hud clipped drop (0.37–0.70 s), 2-frame stepped typeOn() and cipherSwap() (0.10–5.30 s)",
+      "subject": "Harry Kane's Memorias del Fútbol archive carousel, match-stats HUD (406 goles, Bundesliga 2025, Balón de Oro 2026), and documentary search query, not M1381's synthwave car and Dispatch 101 HUD",
+      "carrier": "the leftward smear whips into the dark stadium plate of Harry Kane"
+    },
+    {
+      "id": "turn",
+      "start": 14.7,
+      "end": 20.5,
+      "line": "LA MALDICIÓN TERMINÓ HOY",
+      "picture": "Oversized crimson words LA MALDICIÓN slam in front of Kane and TERMINÓ HOY splits behind his rotoscoped silhouette with white letter flashes and golden lens flare, cutting to scrolling career match telemetry",
+      "route": "staged reveals",
+      "ui": [],
+      "vo": null,
+      "assets": [
+        {
+          "what": "Harry Kane documentary plates and career telemetry logs from Memorias del Fútbol",
+          "bucket": "capture",
+          "have": true
+        }
+      ],
+      "shots": [
+        {
+          "at": 16.0,
+          "screen": "Oversized crimson LA MALDICIÓN slammed in across Harry Kane's back-view plate",
+          "motion": "each word arrives oversized and snaps down in 4 frames, shoving earlier words left with white letter flashes",
+          "sfx": []
+        },
+        {
+          "at": 17.3,
+          "screen": "TERMINÓ HOY split behind rotoscoped Harry Kane with glowing golden flare",
+          "motion": "directional blur spike and crimson-gold arcs as TERMINÓ and HOY snap in from left and right edges behind the silhouette",
+          "sfx": []
+        },
+        {
+          "at": 19.2,
+          "screen": "Ballon d'Or hands over scrolling two-column career match telemetry and status rows",
+          "motion": "hard cut to trophy hands as boot lines type in bursts and two archive columns scroll one whole row per step",
+          "sfx": []
+        }
+      ],
+      "seam": "match-cut",
+      "exit": {
+        "axis": "y",
+        "dir": -1
+      },
+      "entry": {
+        "axis": "y",
+        "dir": -1
+      },
+      "borrow": [
+        "M1186@0.54",
+        "M1186@1.87",
+        "M1186@3.12"
+      ],
+      "keep": [],
+      "moment": "M1186",
+      "port": "M1186: TITLES.hook and TITLES.logs frame-stepped word slams with letter flashes (0.54–3.04 s), #mb-turn-g directional blur + arcs (1.87–2.08 s), and TYPING + STREAM_STEPS + CLOSE_STEPS career telemetry logs (3.08–5.83 s)",
+      "subject": "Harry Kane's rotoscoped documentary plates and year-by-year career match archive logs, not M1186's office executive and Sazabi kernel telemetry",
+      "carrier": "rising telemetry hands off into the outgoing documentary frame of the end card"
+    },
+    {
+      "id": "cta",
+      "start": 20.5,
+      "end": 29.0,
+      "line": "Caer, resistir y hacer historia",
+      "picture": "The manifesto line Caer, resistir y hacer historia cuts in word by word, jumps ×1.79 larger in one frame, and rises out as the circular MDF football emblem blooms from gold seeds, shrinks, and docks left beside MEMORIAS DEL FÚTBOL",
+      "route": "staged reveals",
+      "ui": [],
+      "vo": null,
+      "assets": [
+        {
+          "what": "MDF circular vintage football emblem and MEMORIAS DEL FÚTBOL wordmark",
+          "bucket": "capture",
+          "have": true
+        }
+      ],
+      "shots": [
+        {
+          "at": 23.6,
+          "screen": "Caer, resistir y hacer historia built word by word and stepped ×1.79 larger across frame center",
+          "motion": "words cut in one by one from a fixed left edge every 0.58 s, then jump ×1.79 in one frame and accelerate upward",
+          "sfx": []
+        },
+        {
+          "at": 25.8,
+          "screen": "Circular MDF football emblem blooming from scattered golden ink seeds at frame center",
+          "motion": "emblem rises from below frame with strong ease-out as morphology erosion shrinks from 15.5 px to 0",
+          "sfx": []
+        },
+        {
+          "at": 28.0,
+          "screen": "Docked MDF football emblem beside MEMORIAS DEL FÚTBOL wordmark and @Memorias_Futbol badge",
+          "motion": "emblem contracts to 0.32 and slides left while MEMORIAS DEL FÚTBOL glyphs thicken left to right and hold still",
+          "sfx": []
+        }
+      ],
+      "seam": "end",
+      "borrow": [
+        "M1274@0.03",
+        "M1274@4.70",
+        "M1274@6.33"
+      ],
+      "keep": [],
+      "moment": "M1274",
+      "port": "M1274: stepped word-by-word tagline build (0.03–2.93 s), ×1.79 single-frame scale jump and upward exit (3.50–4.67 s), #bloom-erode ink-seed emblem bloom and leftward dock (4.70–7.80 s), and inkGrow() per-glyph wordmark stroke thicken (6.63–7.27 s)",
+      "subject": "the circular MDF vintage football crest and MEMORIAS DEL FÚTBOL wordmark, not M1274's Ideogram emblem and wordmark"
+    }
+  ],
+  "notes": []
+}

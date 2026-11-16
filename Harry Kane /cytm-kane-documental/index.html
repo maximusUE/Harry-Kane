@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1920, height=1080">
+    <title>CYTM Studios — Harry Kane: De la Maldición al Balón de Oro</title>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      @font-face {
+        font-family: "InterVar";
+        src: url("assets/fonts/InterVariable.woff2") format("woff2");
+        font-weight: 100 900;
+        font-style: normal;
+        font-display: block;
+      }
+
+      :root {
+        --ground: #08080A;
+        --ink: #F2EFE9;
+        --accent: #F5C518;
+        --accent-red: #EF002D;
+        --font-display: "Montserrat", "InterVar", "Inter", sans-serif;
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        margin: 0;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        background: var(--ground);
+        font-family: var(--font-display);
+      }
+
+      #root {
+        position: relative;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        background: var(--ground);
+      }
+
+      #ground-plate {
+        position: absolute;
+        inset: 0;
+        background: #08080A;
+        z-index: 0;
+      }
+
+      .beat-mount {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 1920px;
+        height: 1080px;
+      }
+    </style>
+  </head>
+  <body>
+    <div data-hf-id="hf-0i7w" id="root" data-composition-id="main" data-start="0" data-duration="29" data-width="1920" data-height="1080" data-layout-allow-overflow data-layout-allow-overlap>
+      <div data-hf-id="hf-i23n" id="ground-plate"></div>
+
+      <!-- Beat 1: Hook (M1416) 0.0s -> 9.4s -->
+      <div data-hf-id="hf-wv4g"
+        id="beat-hook"
+        class="clip beat-mount"
+        data-composition-id="hook"
+        data-start="0"
+        data-duration="9.4"
+        data-track-index="1"
+        data-track-kind="graphics"
+        data-composition-src="compositions/hook.html"
+        style="z-index: 1;"
+      ></div>
+
+      <!-- Beat 2: Proof (M1381) 9.4s -> 14.7s -->
+      <div data-hf-id="hf-z0q0"
+        id="beat-proof"
+        class="clip beat-mount"
+        data-composition-id="proof"
+        data-start="9.4"
+        data-duration="5.3"
+        data-track-index="1"
+        data-track-kind="graphics"
+        data-composition-src="compositions/proof.html"
+        style="z-index: 2;"
+      ></div>
+
+      <!-- Beat 3: Turn (M1186) 14.7s -> 20.5s -->
+      <div data-hf-id="hf-ks62"
+        id="beat-turn"
+        class="clip beat-mount"
+        data-composition-id="turn"
+        data-start="14.7"
+        data-duration="5.8"
+        data-track-index="1"
+        data-track-kind="graphics"
+        data-composition-src="compositions/turn.html"
+        style="z-index: 3;"
+      ></div>
+
+      <!-- Beat 4: Call to Action (M1274) 20.5s -> 29.0s -->
+      <div data-hf-id="hf-bm8n"
+        id="beat-cta"
+        class="clip beat-mount"
+        data-composition-id="cta"
+        data-start="20.5"
+        data-duration="8.5"
+        data-track-index="1"
+        data-track-kind="graphics"
+        data-composition-src="compositions/cta.html"
+        style="z-index: 4;"
+      ></div>
+
+      <!-- 🎙️ Pista Maestra de Voz CYTM (Normalizada Broadcast) -->
+      <audio data-hf-id="hf-voice-1"
+        id="cytm-voice"
+        class="clip"
+        src="assets/cytm_voiceover_29s.wav"
+        data-start="0.2"
+        data-duration="28.8"
+        data-volume="1.0"
+        data-track-index="1"
+        data-timeline-role="dialogue"
+      ></audio>
+
+      <!-- Background Score (0.0s -> 29.0s) con Ducking (-13 dB) -->
+      <audio data-hf-id="hf-30ah"
+        id="bg-music"
+        class="clip"
+        src="assets/Astral Generated Music 2cd73401.wav"
+        data-start="0"
+        data-duration="29"
+        data-media-start="0"
+        data-volume="0.22"
+        data-fade-in="0.6"
+        data-fade-out="1.8"
+        data-track-index="2"
+        data-timeline-role="music"
+      ></audio>
+
+      <!-- Seam & Impact SFX -->
+      <audio data-hf-id="hf-pv3y"
+        id="sfx-seam-1"
+        class="clip"
+        src="assets/Deep Whoosh 1.mp3"
+        data-start="8.91"
+        data-duration="1.4"
+        data-volume="0.65"
+        data-fade-out="0.3"
+        data-track-index="3"
+      ></audio>
+
+      <audio data-hf-id="hf-3nrl"
+        id="sfx-seam-2"
+        class="clip"
+        src="assets/Deep Whoosh 1.mp3"
+        data-start="14.21"
+        data-duration="1.4"
+        data-volume="0.7"
+        data-fade-out="0.3"
+        data-track-index="3"
+      ></audio>
+
+      <audio data-hf-id="hf-tupw"
+        id="sfx-slam-1"
+        class="clip"
+        src="assets/Swosh swoosh whoosh air sound free high quality.mp3"
+        data-start="15.30"
+        data-duration="0.49"
+        data-volume="0.75"
+        data-track-index="4"
+      ></audio>
+
+      <audio data-hf-id="hf-thsw"
+        id="sfx-slam-2"
+        class="clip"
+        src="assets/Swosh swoosh whoosh air sound free high quality.mp3"
+        data-start="16.50"
+        data-duration="0.49"
+        data-volume="0.75"
+        data-track-index="4"
+      ></audio>
+
+      <audio data-hf-id="hf-vs76"
+        id="sfx-seam-3"
+        class="clip"
+        src="assets/Deep Whoosh 1.mp3"
+        data-start="20.01"
+        data-duration="1.5"
+        data-volume="0.65"
+        data-fade-out="0.3"
+        data-track-index="3"
+      ></audio>
+
+      <audio data-hf-id="hf-nd4i"
+        id="sfx-bloom"
+        class="clip"
+        src="assets/Deep Whoosh 1.mp3"
+        data-start="24.75"
+        data-duration="1.8"
+        data-volume="0.55"
+        data-fade-in="0.2"
+        data-fade-out="0.5"
+        data-track-index="3"
+      ></audio>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

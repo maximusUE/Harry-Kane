@@ -1,0 +1,1185 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.63,
+    "text": "Escúchame con claridad,",
+    "words": [
+      {
+        "word": "Escúchame",
+        "start": 0.0,
+        "end": 0.74
+      },
+      {
+        "word": "con",
+        "start": 0.74,
+        "end": 0.96
+      },
+      {
+        "word": "claridad,",
+        "start": 0.96,
+        "end": 1.48
+      }
+    ]
+  },
+  {
+    "start": 1.72,
+    "end": 2.95,
+    "text": "la gloria no está",
+    "words": [
+      {
+        "word": "la",
+        "start": 1.72,
+        "end": 1.94
+      },
+      {
+        "word": "gloria",
+        "start": 1.94,
+        "end": 2.34
+      },
+      {
+        "word": "no",
+        "start": 2.34,
+        "end": 2.54
+      },
+      {
+        "word": "está",
+        "start": 2.54,
+        "end": 2.8
+      }
+    ]
+  },
+  {
+    "start": 2.8,
+    "end": 4.33,
+    "text": "reservada para los niños",
+    "words": [
+      {
+        "word": "reservada",
+        "start": 2.8,
+        "end": 3.4
+      },
+      {
+        "word": "para",
+        "start": 3.4,
+        "end": 3.64
+      },
+      {
+        "word": "los",
+        "start": 3.64,
+        "end": 3.88
+      },
+      {
+        "word": "niños",
+        "start": 3.88,
+        "end": 4.18
+      }
+    ]
+  },
+  {
+    "start": 4.18,
+    "end": 4.99,
+    "text": "prodigio.",
+    "words": [
+      {
+        "word": "prodigio.",
+        "start": 4.18,
+        "end": 4.84
+      }
+    ]
+  },
+  {
+    "start": 5.1,
+    "end": 6.95,
+    "text": "La gloria está reservada",
+    "words": [
+      {
+        "word": "La",
+        "start": 5.1,
+        "end": 5.5
+      },
+      {
+        "word": "gloria",
+        "start": 5.5,
+        "end": 5.92
+      },
+      {
+        "word": "está",
+        "start": 5.92,
+        "end": 6.18
+      },
+      {
+        "word": "reservada",
+        "start": 6.18,
+        "end": 6.8
+      }
+    ]
+  },
+  {
+    "start": 6.8,
+    "end": 8.25,
+    "text": "para los hombres tercos,",
+    "words": [
+      {
+        "word": "para",
+        "start": 6.8,
+        "end": 7.02
+      },
+      {
+        "word": "los",
+        "start": 7.02,
+        "end": 7.22
+      },
+      {
+        "word": "hombres",
+        "start": 7.22,
+        "end": 7.56
+      },
+      {
+        "word": "tercos,",
+        "start": 7.56,
+        "end": 8.1
+      }
+    ]
+  },
+  {
+    "start": 8.34,
+    "end": 9.41,
+    "text": "para los que caen",
+    "words": [
+      {
+        "word": "para",
+        "start": 8.34,
+        "end": 8.58
+      },
+      {
+        "word": "los",
+        "start": 8.58,
+        "end": 8.78
+      },
+      {
+        "word": "que",
+        "start": 8.78,
+        "end": 8.94
+      },
+      {
+        "word": "caen",
+        "start": 8.94,
+        "end": 9.26
+      }
+    ]
+  },
+  {
+    "start": 9.26,
+    "end": 10.39,
+    "text": "cinco veces y se",
+    "words": [
+      {
+        "word": "cinco",
+        "start": 9.26,
+        "end": 9.6
+      },
+      {
+        "word": "veces",
+        "start": 9.6,
+        "end": 9.92
+      },
+      {
+        "word": "y",
+        "start": 9.92,
+        "end": 10.12
+      },
+      {
+        "word": "se",
+        "start": 10.12,
+        "end": 10.24
+      }
+    ]
+  },
+  {
+    "start": 10.24,
+    "end": 11.61,
+    "text": "levantan seis con la",
+    "words": [
+      {
+        "word": "levantan",
+        "start": 10.24,
+        "end": 10.76
+      },
+      {
+        "word": "seis",
+        "start": 10.76,
+        "end": 11.04
+      },
+      {
+        "word": "con",
+        "start": 11.04,
+        "end": 11.3
+      },
+      {
+        "word": "la",
+        "start": 11.3,
+        "end": 11.46
+      }
+    ]
+  },
+  {
+    "start": 11.46,
+    "end": 12.69,
+    "text": "mandíbula apretada.",
+    "words": [
+      {
+        "word": "mandíbula",
+        "start": 11.46,
+        "end": 11.98
+      },
+      {
+        "word": "apretada.",
+        "start": 11.98,
+        "end": 12.54
+      }
+    ]
+  },
+  {
+    "start": 12.72,
+    "end": 14.29,
+    "text": "No me importa si",
+    "words": [
+      {
+        "word": "No",
+        "start": 12.72,
+        "end": 13.3
+      },
+      {
+        "word": "me",
+        "start": 13.3,
+        "end": 13.46
+      },
+      {
+        "word": "importa",
+        "start": 13.46,
+        "end": 13.9
+      },
+      {
+        "word": "si",
+        "start": 13.9,
+        "end": 14.14
+      }
+    ]
+  },
+  {
+    "start": 14.14,
+    "end": 15.55,
+    "text": "hoy tienes 20 kilos",
+    "words": [
+      {
+        "word": "hoy",
+        "start": 14.14,
+        "end": 14.28
+      },
+      {
+        "word": "tienes",
+        "start": 14.28,
+        "end": 14.68
+      },
+      {
+        "word": "20",
+        "start": 14.68,
+        "end": 15.02
+      },
+      {
+        "word": "kilos",
+        "start": 15.02,
+        "end": 15.4
+      }
+    ]
+  },
+  {
+    "start": 15.4,
+    "end": 16.05,
+    "text": "de más,",
+    "words": [
+      {
+        "word": "de",
+        "start": 15.4,
+        "end": 15.62
+      },
+      {
+        "word": "más,",
+        "start": 15.62,
+        "end": 15.9
+      }
+    ]
+  },
+  {
+    "start": 16.16,
+    "end": 17.25,
+    "text": "sal a caminar esta",
+    "words": [
+      {
+        "word": "sal",
+        "start": 16.16,
+        "end": 16.26
+      },
+      {
+        "word": "a",
+        "start": 16.26,
+        "end": 16.38
+      },
+      {
+        "word": "caminar",
+        "start": 16.38,
+        "end": 16.78
+      },
+      {
+        "word": "esta",
+        "start": 16.78,
+        "end": 17.1
+      }
+    ]
+  },
+  {
+    "start": 17.1,
+    "end": 17.99,
+    "text": "misma noche.",
+    "words": [
+      {
+        "word": "misma",
+        "start": 17.1,
+        "end": 17.46
+      },
+      {
+        "word": "noche.",
+        "start": 17.46,
+        "end": 17.84
+      }
+    ]
+  },
+  {
+    "start": 18.2,
+    "end": 19.61,
+    "text": "No me importa si",
+    "words": [
+      {
+        "word": "No",
+        "start": 18.2,
+        "end": 18.68
+      },
+      {
+        "word": "me",
+        "start": 18.68,
+        "end": 18.82
+      },
+      {
+        "word": "importa",
+        "start": 18.82,
+        "end": 19.26
+      },
+      {
+        "word": "si",
+        "start": 19.26,
+        "end": 19.46
+      }
+    ]
+  },
+  {
+    "start": 19.46,
+    "end": 20.53,
+    "text": "tu cuenta de banco",
+    "words": [
+      {
+        "word": "tu",
+        "start": 19.46,
+        "end": 19.6
+      },
+      {
+        "word": "cuenta",
+        "start": 19.6,
+        "end": 19.92
+      },
+      {
+        "word": "de",
+        "start": 19.92,
+        "end": 20.08
+      },
+      {
+        "word": "banco",
+        "start": 20.08,
+        "end": 20.38
+      }
+    ]
+  },
+  {
+    "start": 20.38,
+    "end": 21.79,
+    "text": "está en números rojos,",
+    "words": [
+      {
+        "word": "está",
+        "start": 20.38,
+        "end": 20.68
+      },
+      {
+        "word": "en",
+        "start": 20.68,
+        "end": 20.84
+      },
+      {
+        "word": "números",
+        "start": 20.84,
+        "end": 21.16
+      },
+      {
+        "word": "rojos,",
+        "start": 21.16,
+        "end": 21.64
+      }
+    ]
+  },
+  {
+    "start": 21.94,
+    "end": 23.47,
+    "text": "hace ese plan financiero",
+    "words": [
+      {
+        "word": "hace",
+        "start": 21.94,
+        "end": 22.14
+      },
+      {
+        "word": "ese",
+        "start": 22.14,
+        "end": 22.34
+      },
+      {
+        "word": "plan",
+        "start": 22.34,
+        "end": 22.6
+      },
+      {
+        "word": "financiero",
+        "start": 22.6,
+        "end": 23.32
+      }
+    ]
+  },
+  {
+    "start": 23.32,
+    "end": 24.59,
+    "text": "hoy y recorta los",
+    "words": [
+      {
+        "word": "hoy",
+        "start": 23.32,
+        "end": 23.58
+      },
+      {
+        "word": "y",
+        "start": 23.58,
+        "end": 23.76
+      },
+      {
+        "word": "recorta",
+        "start": 23.76,
+        "end": 24.18
+      },
+      {
+        "word": "los",
+        "start": 24.18,
+        "end": 24.44
+      }
+    ]
+  },
+  {
+    "start": 24.44,
+    "end": 25.85,
+    "text": "gastos innecesarios.",
+    "words": [
+      {
+        "word": "gastos",
+        "start": 24.44,
+        "end": 24.88
+      },
+      {
+        "word": "innecesarios.",
+        "start": 24.88,
+        "end": 25.7
+      }
+    ]
+  },
+  {
+    "start": 25.7,
+    "end": 27.61,
+    "text": "No me importa si",
+    "words": [
+      {
+        "word": "No",
+        "start": 25.7,
+        "end": 26.68
+      },
+      {
+        "word": "me",
+        "start": 26.68,
+        "end": 26.84
+      },
+      {
+        "word": "importa",
+        "start": 26.84,
+        "end": 27.26
+      },
+      {
+        "word": "si",
+        "start": 27.26,
+        "end": 27.46
+      }
+    ]
+  },
+  {
+    "start": 27.46,
+    "end": 29.05,
+    "text": "tu cuerpo está lesionado,",
+    "words": [
+      {
+        "word": "tu",
+        "start": 27.46,
+        "end": 27.62
+      },
+      {
+        "word": "cuerpo",
+        "start": 27.62,
+        "end": 27.96
+      },
+      {
+        "word": "está",
+        "start": 27.96,
+        "end": 28.24
+      },
+      {
+        "word": "lesionado,",
+        "start": 28.24,
+        "end": 28.9
+      }
+    ]
+  },
+  {
+    "start": 29.3,
+    "end": 31.69,
+    "text": "rehabilítate con disciplina milimétrica",
+    "words": [
+      {
+        "word": "rehabilítate",
+        "start": 29.3,
+        "end": 30.04
+      },
+      {
+        "word": "con",
+        "start": 30.04,
+        "end": 30.28
+      },
+      {
+        "word": "disciplina",
+        "start": 30.28,
+        "end": 30.86
+      },
+      {
+        "word": "milimétrica",
+        "start": 30.86,
+        "end": 31.54
+      }
+    ]
+  },
+  {
+    "start": 31.54,
+    "end": 32.55,
+    "text": "día tras día.",
+    "words": [
+      {
+        "word": "día",
+        "start": 31.54,
+        "end": 31.8
+      },
+      {
+        "word": "tras",
+        "start": 31.8,
+        "end": 32.04
+      },
+      {
+        "word": "día.",
+        "start": 32.04,
+        "end": 32.4
+      }
+    ]
+  },
+  {
+    "start": 32.8,
+    "end": 34.57,
+    "text": "Harry Kane esperó 15",
+    "words": [
+      {
+        "word": "Harry",
+        "start": 32.8,
+        "end": 33.36
+      },
+      {
+        "word": "Kane",
+        "start": 33.36,
+        "end": 33.68
+      },
+      {
+        "word": "esperó",
+        "start": 33.68,
+        "end": 34.1
+      },
+      {
+        "word": "15",
+        "start": 34.1,
+        "end": 34.42
+      }
+    ]
+  },
+  {
+    "start": 34.42,
+    "end": 35.87,
+    "text": "años en la oscuridad",
+    "words": [
+      {
+        "word": "años",
+        "start": 34.42,
+        "end": 34.78
+      },
+      {
+        "word": "en",
+        "start": 34.78,
+        "end": 35.0
+      },
+      {
+        "word": "la",
+        "start": 35.0,
+        "end": 35.12
+      },
+      {
+        "word": "oscuridad",
+        "start": 35.12,
+        "end": 35.72
+      }
+    ]
+  },
+  {
+    "start": 35.72,
+    "end": 37.05,
+    "text": "para vivir su noche",
+    "words": [
+      {
+        "word": "para",
+        "start": 35.72,
+        "end": 36.02
+      },
+      {
+        "word": "vivir",
+        "start": 36.02,
+        "end": 36.32
+      },
+      {
+        "word": "su",
+        "start": 36.32,
+        "end": 36.6
+      },
+      {
+        "word": "noche",
+        "start": 36.6,
+        "end": 36.9
+      }
+    ]
+  },
+  {
+    "start": 36.9,
+    "end": 37.67,
+    "text": "en París.",
+    "words": [
+      {
+        "word": "en",
+        "start": 36.9,
+        "end": 37.1
+      },
+      {
+        "word": "París.",
+        "start": 37.1,
+        "end": 37.52
+      }
+    ]
+  },
+  {
+    "start": 37.88,
+    "end": 39.03,
+    "text": "Tu partido no ha",
+    "words": [
+      {
+        "word": "Tu",
+        "start": 37.88,
+        "end": 38.14
+      },
+      {
+        "word": "partido",
+        "start": 38.14,
+        "end": 38.56
+      },
+      {
+        "word": "no",
+        "start": 38.56,
+        "end": 38.76
+      },
+      {
+        "word": "ha",
+        "start": 38.76,
+        "end": 38.88
+      }
+    ]
+  },
+  {
+    "start": 38.88,
+    "end": 39.63,
+    "text": "terminado,",
+    "words": [
+      {
+        "word": "terminado,",
+        "start": 38.88,
+        "end": 39.48
+      }
+    ]
+  },
+  {
+    "start": 39.74,
+    "end": 41.19,
+    "text": "tu historia apenas está",
+    "words": [
+      {
+        "word": "tu",
+        "start": 39.74,
+        "end": 39.9
+      },
+      {
+        "word": "historia",
+        "start": 39.9,
+        "end": 40.3
+      },
+      {
+        "word": "apenas",
+        "start": 40.3,
+        "end": 40.68
+      },
+      {
+        "word": "está",
+        "start": 40.68,
+        "end": 41.04
+      }
+    ]
+  },
+  {
+    "start": 41.04,
+    "end": 42.59,
+    "text": "empezando en este minuto.",
+    "words": [
+      {
+        "word": "empezando",
+        "start": 41.04,
+        "end": 41.64
+      },
+      {
+        "word": "en",
+        "start": 41.64,
+        "end": 41.8
+      },
+      {
+        "word": "este",
+        "start": 41.8,
+        "end": 42.02
+      },
+      {
+        "word": "minuto.",
+        "start": 42.02,
+        "end": 42.44
+      }
+    ]
+  },
+  {
+    "start": 43.02,
+    "end": 44.17,
+    "text": "Apaga este video,",
+    "words": [
+      {
+        "word": "Apaga",
+        "start": 43.02,
+        "end": 43.42
+      },
+      {
+        "word": "este",
+        "start": 43.42,
+        "end": 43.68
+      },
+      {
+        "word": "video,",
+        "start": 43.68,
+        "end": 44.02
+      }
+    ]
+  },
+  {
+    "start": 44.26,
+    "end": 45.73,
+    "text": "levántate de esa silla",
+    "words": [
+      {
+        "word": "levántate",
+        "start": 44.26,
+        "end": 44.82
+      },
+      {
+        "word": "de",
+        "start": 44.82,
+        "end": 44.96
+      },
+      {
+        "word": "esa",
+        "start": 44.96,
+        "end": 45.2
+      },
+      {
+        "word": "silla",
+        "start": 45.2,
+        "end": 45.58
+      }
+    ]
+  },
+  {
+    "start": 45.58,
+    "end": 47.21,
+    "text": "y sal a demostrarle",
+    "words": [
+      {
+        "word": "y",
+        "start": 45.58,
+        "end": 46.06
+      },
+      {
+        "word": "sal",
+        "start": 46.06,
+        "end": 46.3
+      },
+      {
+        "word": "a",
+        "start": 46.3,
+        "end": 46.42
+      },
+      {
+        "word": "demostrarle",
+        "start": 46.42,
+        "end": 47.06
+      }
+    ]
+  },
+  {
+    "start": 47.06,
+    "end": 47.95,
+    "text": "al mundo de qué",
+    "words": [
+      {
+        "word": "al",
+        "start": 47.06,
+        "end": 47.22
+      },
+      {
+        "word": "mundo",
+        "start": 47.22,
+        "end": 47.5
+      },
+      {
+        "word": "de",
+        "start": 47.5,
+        "end": 47.64
+      },
+      {
+        "word": "qué",
+        "start": 47.64,
+        "end": 47.8
+      }
+    ]
+  },
+  {
+    "start": 47.8,
+    "end": 48.55,
+    "text": "estás hecho.",
+    "words": [
+      {
+        "word": "estás",
+        "start": 47.8,
+        "end": 48.06
+      },
+      {
+        "word": "hecho.",
+        "start": 48.06,
+        "end": 48.4
+      }
+    ]
+  },
+  {
+    "start": 48.58,
+    "end": 50.73,
+    "text": "Si este mensaje encendió",
+    "words": [
+      {
+        "word": "Si",
+        "start": 48.58,
+        "end": 49.22
+      },
+      {
+        "word": "este",
+        "start": 49.22,
+        "end": 49.48
+      },
+      {
+        "word": "mensaje",
+        "start": 49.48,
+        "end": 50.0
+      },
+      {
+        "word": "encendió",
+        "start": 50.0,
+        "end": 50.58
+      }
+    ]
+  },
+  {
+    "start": 50.58,
+    "end": 51.71,
+    "text": "algo en tu interior",
+    "words": [
+      {
+        "word": "algo",
+        "start": 50.58,
+        "end": 50.9
+      },
+      {
+        "word": "en",
+        "start": 50.9,
+        "end": 51.04
+      },
+      {
+        "word": "tu",
+        "start": 51.04,
+        "end": 51.16
+      },
+      {
+        "word": "interior",
+        "start": 51.16,
+        "end": 51.56
+      }
+    ]
+  },
+  {
+    "start": 51.56,
+    "end": 52.77,
+    "text": "que estaba dormido,",
+    "words": [
+      {
+        "word": "que",
+        "start": 51.56,
+        "end": 51.78
+      },
+      {
+        "word": "estaba",
+        "start": 51.78,
+        "end": 52.08
+      },
+      {
+        "word": "dormido,",
+        "start": 52.08,
+        "end": 52.62
+      }
+    ]
+  },
+  {
+    "start": 53.0,
+    "end": 54.47,
+    "text": "suscríbete y déjame en",
+    "words": [
+      {
+        "word": "suscríbete",
+        "start": 53.0,
+        "end": 53.6
+      },
+      {
+        "word": "y",
+        "start": 53.6,
+        "end": 53.78
+      },
+      {
+        "word": "déjame",
+        "start": 53.78,
+        "end": 54.18
+      },
+      {
+        "word": "en",
+        "start": 54.18,
+        "end": 54.32
+      }
+    ]
+  },
+  {
+    "start": 54.32,
+    "end": 55.19,
+    "text": "los comentarios.",
+    "words": [
+      {
+        "word": "los",
+        "start": 54.32,
+        "end": 54.48
+      },
+      {
+        "word": "comentarios.",
+        "start": 54.48,
+        "end": 55.04
+      }
+    ]
+  },
+  {
+    "start": 55.04,
+    "end": 56.71,
+    "text": "¿Cuál es esa batalla",
+    "words": [
+      {
+        "word": "¿Cuál",
+        "start": 55.04,
+        "end": 55.8
+      },
+      {
+        "word": "es",
+        "start": 55.8,
+        "end": 55.94
+      },
+      {
+        "word": "esa",
+        "start": 55.94,
+        "end": 56.14
+      },
+      {
+        "word": "batalla",
+        "start": 56.14,
+        "end": 56.56
+      }
+    ]
+  },
+  {
+    "start": 56.56,
+    "end": 57.83,
+    "text": "que prometes ganar a",
+    "words": [
+      {
+        "word": "que",
+        "start": 56.56,
+        "end": 56.74
+      },
+      {
+        "word": "prometes",
+        "start": 56.74,
+        "end": 57.26
+      },
+      {
+        "word": "ganar",
+        "start": 57.26,
+        "end": 57.6
+      },
+      {
+        "word": "a",
+        "start": 57.6,
+        "end": 57.68
+      }
+    ]
+  },
+  {
+    "start": 57.68,
+    "end": 58.63,
+    "text": "partir de hoy?",
+    "words": [
+      {
+        "word": "partir",
+        "start": 57.68,
+        "end": 58.0
+      },
+      {
+        "word": "de",
+        "start": 58.0,
+        "end": 58.24
+      },
+      {
+        "word": "hoy?",
+        "start": 58.24,
+        "end": 58.48
+      }
+    ]
+  },
+  {
+    "start": 58.72,
+    "end": 59.63,
+    "text": "Te leo abajo.",
+    "words": [
+      {
+        "word": "Te",
+        "start": 58.72,
+        "end": 58.92
+      },
+      {
+        "word": "leo",
+        "start": 58.92,
+        "end": 59.18
+      },
+      {
+        "word": "abajo.",
+        "start": 59.18,
+        "end": 59.48
+      }
+    ]
+  },
+  {
+    "start": 59.76,
+    "end": 60.79,
+    "text": "Nos vemos en el",
+    "words": [
+      {
+        "word": "Nos",
+        "start": 59.76,
+        "end": 59.98
+      },
+      {
+        "word": "vemos",
+        "start": 59.98,
+        "end": 60.26
+      },
+      {
+        "word": "en",
+        "start": 60.26,
+        "end": 60.52
+      },
+      {
+        "word": "el",
+        "start": 60.52,
+        "end": 60.64
+      }
+    ]
+  },
+  {
+    "start": 60.64,
+    "end": 61.87,
+    "text": "próximo episodio.",
+    "words": [
+      {
+        "word": "próximo",
+        "start": 60.64,
+        "end": 61.0
+      },
+      {
+        "word": "episodio.",
+        "start": 61.0,
+        "end": 61.72
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# OS & Temp
+.DS_Store
+**/.DS_Store
+Thumbs.db
+*.tmp
+**/STILLS_BLOQUE*/
+**/STILLS_BLOQUE*/**
+
+# Large video/audio assets & renders (stored in Google Drive)
+**/*.mp4
+**/*.mov
+**/*.wav
+**/*.zip
+04_VIDEO_FINAL/*.mp4
+03_CLIPS_FLOW/01_JUGADAS_PARTIDOS/*.mp4
+03_CLIPS_FLOW/*/01_JUGADAS_PARTIDOS/*.mp4
+motion-studio/public/broll/*.mp4
+motion-studio/public/b3_*.mp4
+00_VOZ_OFICIAL_DON_CESAR/BLOQUE_3_RAW/
+cytm-kane-documental/assets/*.mp4
+
+# Builds & Remotion
+dist/
+build/
+.cache/
+**/node_modules/
+**/.remotion/
+**/out/
+**/04_VIDEO_FINAL/*.mp4
+**/.env
+**/.env.*
+

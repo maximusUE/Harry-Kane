@@ -1,0 +1,174 @@
+{
+  "bloque": "Bloque 3: El Purgatorio de las 6 Finales",
+  "total_archivos": 28,
+  "recursos": [
+    {
+      "archivo": "titular_bild_kane_fluch_supercup.png",
+      "ruta_relativa": "02_PRENSA_TITULARES/titular_bild_kane_fluch_supercup.png",
+      "tipo": "imagen",
+      "tamano_kb": 550.5
+    },
+    {
+      "archivo": "titular_dailymail_euro2020_wembley_heartbreak.png",
+      "ruta_relativa": "02_PRENSA_TITULARES/titular_dailymail_euro2020_wembley_heartbreak.png",
+      "tipo": "imagen",
+      "tamano_kb": 568.2
+    },
+    {
+      "archivo": "titular_guardian_euro2024_berlin_defeat.png",
+      "ruta_relativa": "02_PRENSA_TITULARES/titular_guardian_euro2024_berlin_defeat.png",
+      "tipo": "imagen",
+      "tamano_kb": 572.2
+    },
+    {
+      "archivo": "titular_telegraph_champions_madrid_2019.png",
+      "ruta_relativa": "02_PRENSA_TITULARES/titular_telegraph_champions_madrid_2019.png",
+      "tipo": "imagen",
+      "tamano_kb": 582.1
+    },
+    {
+      "archivo": "cesped_confeti_derrota_final.jpg",
+      "ruta_relativa": "04_ATMOSFERA_LIBRE_USO/cesped_confeti_derrota_final.jpg",
+      "tipo": "imagen",
+      "tamano_kb": 925.9
+    },
+    {
+      "archivo": "estadio_lluvia_nocturna_focos.jpg",
+      "ruta_relativa": "04_ATMOSFERA_LIBRE_USO/estadio_lluvia_nocturna_focos.jpg",
+      "tipo": "imagen",
+      "tamano_kb": 904.0
+    },
+    {
+      "archivo": "hombre_resiliencia_ventana_lluvia.jpg",
+      "ruta_relativa": "04_ATMOSFERA_LIBRE_USO/hombre_resiliencia_ventana_lluvia.jpg",
+      "tipo": "imagen",
+      "tamano_kb": 790.1
+    },
+    {
+      "archivo": "tunel_vestuarios_silueta_derrota.jpg",
+      "ruta_relativa": "04_ATMOSFERA_LIBRE_USO/tunel_vestuarios_silueta_derrota.jpg",
+      "tipo": "imagen",
+      "tamano_kb": 814.6
+    },
+    {
+      "archivo": "harry_kane_despair_cutout.png",
+      "ruta_relativa": "03_FOTOS_PNG_CUTOUTS/harry_kane_despair_cutout.png",
+      "tipo": "imagen",
+      "tamano_kb": 925.4
+    },
+    {
+      "archivo": "harry_kane_england_cutout.png",
+      "ruta_relativa": "03_FOTOS_PNG_CUTOUTS/harry_kane_england_cutout.png",
+      "tipo": "imagen",
+      "tamano_kb": 860.8
+    },
+    {
+      "archivo": "harry_kane_spurs_cutout.png",
+      "ruta_relativa": "03_FOTOS_PNG_CUTOUTS/harry_kane_spurs_cutout.png",
+      "tipo": "imagen",
+      "tamano_kb": 625.7
+    },
+    {
+      "archivo": "kane_berlin_defeat_turf_2024.png",
+      "ruta_relativa": "03_FOTOS_PNG_CUTOUTS/kane_berlin_defeat_turf_2024.png",
+      "tipo": "imagen",
+      "tamano_kb": 1527.7
+    },
+    {
+      "archivo": "kane_madrid_empty_gaze_2019.png",
+      "ruta_relativa": "03_FOTOS_PNG_CUTOUTS/kane_madrid_empty_gaze_2019.png",
+      "tipo": "imagen",
+      "tamano_kb": 703.9
+    },
+    {
+      "archivo": "kane_madrid_lawn_kneeling_2019.png",
+      "ruta_relativa": "03_FOTOS_PNG_CUTOUTS/kane_madrid_lawn_kneeling_2019.png",
+      "tipo": "imagen",
+      "tamano_kb": 816.5
+    },
+    {
+      "archivo": "kane_premier_golden_boot.png",
+      "ruta_relativa": "03_FOTOS_PNG_CUTOUTS/kane_premier_golden_boot.png",
+      "tipo": "imagen",
+      "tamano_kb": 2043.8
+    },
+    {
+      "archivo": "kane_supercup_bench_sorrow_2023.png",
+      "ruta_relativa": "03_FOTOS_PNG_CUTOUTS/kane_supercup_bench_sorrow_2023.png",
+      "tipo": "imagen",
+      "tamano_kb": 960.3
+    },
+    {
+      "archivo": "kane_wembley_trophy_walk_2021.png",
+      "ruta_relativa": "03_FOTOS_PNG_CUTOUTS/kane_wembley_trophy_walk_2021.png",
+      "tipo": "imagen",
+      "tamano_kb": 1947.7
+    },
+    {
+      "archivo": "kane_worldcup_golden_boot_2018.png",
+      "ruta_relativa": "03_FOTOS_PNG_CUTOUTS/kane_worldcup_golden_boot_2018.png",
+      "tipo": "imagen",
+      "tamano_kb": 755.8
+    },
+    {
+      "archivo": "b3_01_spurs_breakthrough.mp4",
+      "ruta_relativa": "01_JUGADAS_PARTIDOS/b3_01_spurs_breakthrough.mp4",
+      "tipo": "video",
+      "tamano_kb": 2130.8
+    },
+    {
+      "archivo": "b3_02_derby_north_london.mp4",
+      "ruta_relativa": "01_JUGADAS_PARTIDOS/b3_02_derby_north_london.mp4",
+      "tipo": "video",
+      "tamano_kb": 1370.7
+    },
+    {
+      "archivo": "b3_03_golden_boot_trio.mp4",
+      "ruta_relativa": "01_JUGADAS_PARTIDOS/b3_03_golden_boot_trio.mp4",
+      "tipo": "video",
+      "tamano_kb": 992.4
+    },
+    {
+      "archivo": "b3_04_champions_madrid_2019.mp4",
+      "ruta_relativa": "01_JUGADAS_PARTIDOS/b3_04_champions_madrid_2019.mp4",
+      "tipo": "video",
+      "tamano_kb": 1295.7
+    },
+    {
+      "archivo": "b3_05_kneeling_defeat_lawn.mp4",
+      "ruta_relativa": "01_JUGADAS_PARTIDOS/b3_05_kneeling_defeat_lawn.mp4",
+      "tipo": "video",
+      "tamano_kb": 1540.8
+    },
+    {
+      "archivo": "b3_06_bayern_curse_doubt.mp4",
+      "ruta_relativa": "01_JUGADAS_PARTIDOS/b3_06_bayern_curse_doubt.mp4",
+      "tipo": "video",
+      "tamano_kb": 2265.7
+    },
+    {
+      "archivo": "b3_07_russia2018_goal_england.mp4",
+      "ruta_relativa": "01_JUGADAS_PARTIDOS/b3_07_russia2018_goal_england.mp4",
+      "tipo": "video",
+      "tamano_kb": 1557.3
+    },
+    {
+      "archivo": "b3_08_wembley2021_final_heartbreak.mp4",
+      "ruta_relativa": "01_JUGADAS_PARTIDOS/b3_08_wembley2021_final_heartbreak.mp4",
+      "tipo": "video",
+      "tamano_kb": 3797.9
+    },
+    {
+      "archivo": "b3_09_supercup2023_leipzig_loss.mp4",
+      "ruta_relativa": "01_JUGADAS_PARTIDOS/b3_09_supercup2023_leipzig_loss.mp4",
+      "tipo": "video",
+      "tamano_kb": 2333.9
+    },
+    {
+      "archivo": "b3_10_euro2024_berlin_defeat.mp4",
+      "ruta_relativa": "01_JUGADAS_PARTIDOS/b3_10_euro2024_berlin_defeat.mp4",
+      "tipo": "video",
+      "tamano_kb": 2859.5
+    }
+  ]
+}

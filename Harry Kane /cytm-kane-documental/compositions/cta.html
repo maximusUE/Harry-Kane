@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>CTA — Caer, resistir y hacer historia</title>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+<style>
+  @font-face {
+    font-family: "InterVar";
+    src: url("assets/fonts/InterVariable.woff2") format("woff2");
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: block;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+    background: #08080A;
+    font-family: "Montserrat", "InterVar", "Inter", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  #root {
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+    background: #08080A;
+  }
+
+  .bg-plate {
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(circle at 50% 48%, rgba(245, 197, 24, 0.16) 0%, rgba(239, 0, 45, 0.07) 42%, rgba(8, 8, 10, 0.98) 78%),
+      #08080A;
+    z-index: 0;
+  }
+
+  /* Persistent archival header so no transition frame is ever empty */
+  #archival-bar {
+    position: absolute;
+    top: 36px;
+    left: 64px;
+    right: 64px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 25;
+    pointer-events: none;
+  }
+  .archival-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 6px 16px;
+    border-radius: 999px;
+    background: rgba(18, 18, 22, 0.88);
+    border: 1px solid rgba(245, 197, 24, 0.48);
+    color: #F2EFE9;
+    font-family: "Montserrat", "Inter", sans-serif;
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+  .archival-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #F5C518;
+  }
+
+  /* Outgoing shot handoff at 0.00s - 0.25s */
+  #prev-shot {
+    position: absolute;
+    left: 198px;
+    top: -120px;
+    width: 1524px;
+    height: 856px;
+    border-radius: 28px;
+    overflow: hidden;
+    border: 2px solid rgba(245, 197, 24, 0.55);
+    box-shadow: 0 24px 64px rgba(0, 0, 0, 0.75);
+    z-index: 15;
+  }
+  #prev-shot img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  #prev-shot .cap {
+    position: absolute;
+    bottom: 28px;
+    font-family: "Montserrat", "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #F2EFE9;
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.9);
+  }
+  #prev-shot .cap.left  { left: 40px; }
+  #prev-shot .cap.right { right: 40px; color: #F5C518; }
+
+  /* Phase 1: Tagline ("Caer, resistir y hacer historia") */
+  #tagline {
+    position: absolute;
+    left: 50%;
+    top: 540px;
+    display: inline-flex;
+    align-items: baseline;
+    gap: 18px;
+    white-space: nowrap;
+    font-family: "Montserrat", "InterVar", sans-serif;
+    font-size: 56px;
+    font-weight: 800;
+    letter-spacing: -0.025em;
+    line-height: 1.15;
+    color: #F2EFE9;
+    z-index: 10;
+  }
+  #tagline .word {
+    display: inline-block;
+    opacity: 0;
+  }
+  #tagline .word.gold {
+    color: #F5C518;
+  }
+
+  /* Phase 2 & 3: Ink-bloom MDF circular emblem */
+  #logo {
+    position: absolute;
+    left: 960px;
+    top: 515px;
+    width: 360px;
+    height: 360px;
+    border-radius: 50%;
+    opacity: 0;
+    z-index: 12;
+  }
+  #logo img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border-radius: 50%;
+    filter: url(#ink-bloom);
+  }
+
+  /* Phase 3: Horizontal lockup wordmark ("MEMORIAS DEL FÚTBOL") */
+  #wordmark {
+    position: absolute;
+    left: 646px;
+    top: 515px;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    z-index: 12;
+    pointer-events: none;
+  }
+  #wordmark-row {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-family: "Montserrat", "InterVar", sans-serif;
+    font-weight: 900;
+    font-size: 58px;
+    letter-spacing: -0.02em;
+    color: #F2EFE9;
+    white-space: nowrap;
+  }
+  .wm-char {
+    display: inline-block;
+    opacity: 0;
+    filter: url(#char-bloom);
+  }
+  .wm-char.gold {
+    color: #F5C518;
+  }
+  .wm-space {
+    display: inline-block;
+    width: 18px;
+  }
+
+  #cta-subline {
+    font-family: "Montserrat", "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: 0.04em;
+    color: #FFE2A1;
+    opacity: 0;
+  }
+</style>
+</head>
+<body>
+  <div data-hf-id="hf-ug85" id="root" data-composition-id="cta" data-width="1920" data-height="1080" data-start="0" data-duration="8.5" data-layout-allow-overflow data-layout-allow-overlap>
+    <div data-hf-id="hf-0ie6" class="bg-plate"></div>
+
+    <div data-hf-id="hf-xewb" id="archival-bar" data-layout-allow-overlap>
+      <div data-hf-id="hf-lg7i" class="archival-pill">
+        <span data-hf-id="hf-q4e5" class="archival-dot"></span>
+        <span data-hf-id="hf-zck2">CYTM MOTIVACIÓN · SUSCRÍBETE</span>
+      </div>
+      <div data-hf-id="hf-jk2a" class="archival-pill">
+        <span data-hf-id="hf-gyiw">NUEVO DOCUMENTAL</span>
+      </div>
+    </div>
+
+    <!-- SVG Filters from M1274: morphological erosion ink-bloom flooded with championship gold -->
+    <svg data-hf-id="hf-8rgt" width="0" height="0" style="position:absolute">
+      <defs data-hf-id="hf-mh0t">
+        <filter data-hf-id="hf-5r8h" id="ink-bloom" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+          <feColorMatrix data-hf-id="hf-kjbx" in="SourceGraphic" type="matrix"
+            values="2.13 7.15 0.72 0 -3.2
+                    2.13 7.15 0.72 0 -3.2
+                    2.13 7.15 0.72 0 -3.2
+                    2.13 7.15 0.72 0 -3.2" result="mask"/>
+          <feMorphology data-hf-id="hf-j98l" id="erode" in="mask" operator="erode" radius="4.5" result="eroded"/>
+          <feGaussianBlur data-hf-id="hf-8hzo" id="soften" in="eroded" stdDeviation="0.55" result="soft"/>
+          <feComponentTransfer data-hf-id="hf-ki5q" in="soft" result="crisp">
+            <feFuncA data-hf-id="hf-xhwu" type="linear" slope="6" intercept="-2"/>
+          </feComponentTransfer>
+          <feFlood data-hf-id="hf-1hl1" flood-color="#F5C518" result="ink"/>
+          <feComposite data-hf-id="hf-4vvz" in="ink" in2="crisp" operator="in"/>
+        </filter>
+
+        <filter data-hf-id="hf-y5yp" id="char-bloom" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
+          <feMorphology data-hf-id="hf-bksz" in="SourceGraphic" operator="erode" radius="0" result="ce"/>
+          <feGaussianBlur data-hf-id="hf-3los" in="ce" stdDeviation="0.3" result="cb"/>
+          <feComponentTransfer data-hf-id="hf-52lk" in="cb">
+            <feFuncA data-hf-id="hf-77gr" type="linear" slope="4" intercept="-1"/>
+          </feComponentTransfer>
+        </filter>
+      </defs>
+    </svg>
+
+    <!-- Outgoing documentary card sliding up at 0.00s - 0.25s -->
+    <div data-hf-id="hf-8oje" id="prev-shot" data-layout-allow-overflow data-layout-allow-occlusion>
+      <img data-hf-id="hf-h19z" src="assets/ui/frame-ballon-dor-14s.png" alt="Harry Kane Balón de Oro">
+      <div data-hf-id="hf-d304" class="cap left">15 años de espera</div>
+      <div data-hf-id="hf-u18x" class="cap right">Balón de Oro 2026</div>
+    </div>
+
+    <!-- Phase 1: Tagline ("Caer, resistir y hacer historia") -->
+    <div data-hf-id="hf-m4u9" id="tagline" data-layout-allow-overlap>
+      <span data-hf-id="hf-xkro" id="w1" class="word">Caer,</span>
+      <span data-hf-id="hf-js81" id="w2" class="word">resistir</span>
+      <span data-hf-id="hf-x1mv" id="w3" class="word">y hacer</span>
+      <span data-hf-id="hf-mssh" id="w4" class="word gold">historia</span>
+    </div>
+
+    <!-- Phase 2 & 3: CYTM Studios Emblem with data-brand-mark="true" -->
+    <div data-hf-id="hf-c9an" id="logo" data-brand-mark="true" data-layout-allow-overlap>
+      <img data-hf-id="hf-88ne" src="assets/brand/cytm-emblem.svg" alt="CYTM Studios Emblem">
+    </div>
+
+    <!-- Phase 3: CYTM STUDIOS Wordmark + Beat Subline -->
+    <div data-hf-id="hf-qhz9" id="wordmark" data-brand-mark="true" data-layout-allow-overlap>
+      <div data-hf-id="hf-77k5" id="wordmark-row">
+        <span data-hf-id="hf-vh3d" class="wm-char gold">C</span>
+        <span data-hf-id="hf-san5" class="wm-char gold">Y</span>
+        <span data-hf-id="hf-si7x" class="wm-char gold">T</span>
+        <span data-hf-id="hf-w9pf" class="wm-char gold">M</span>
+        <span data-hf-id="hf-z9gw" class="wm-space"></span>
+        <span data-hf-id="hf-y98k" class="wm-char">S</span>
+        <span data-hf-id="hf-tvv9" class="wm-char">T</span>
+        <span data-hf-id="hf-qpf1" class="wm-char">U</span>
+        <span data-hf-id="hf-xuxj" class="wm-char">D</span>
+        <span data-hf-id="hf-soy6" class="wm-char">I</span>
+        <span data-hf-id="hf-lcz9" class="wm-char">O</span>
+        <span data-hf-id="hf-vvee" class="wm-char">S</span>
+      </div>
+      <div data-hf-id="hf-1y97" id="cta-subline">Caer, resistir y vencer</div>
+    </div>
+  </div>
+
+<script>
+(function () {
+  window.__timelines = window.__timelines || {};
+  const tl = gsap.timeline({ paused: true });
+
+  // Phase 0 (0.00s - 0.28s): Outgoing documentary card slides up out of frame across 20.5s seam
+  tl.fromTo("#prev-shot",
+    { y: 0, opacity: 1 },
+    { y: -920, opacity: 0, duration: 0.28, ease: "power2.in" },
+    0.0
+  );
+
+  // Phase 1 (0.06s - 4.63s): Tagline builds word by word (constant width on each span -> 0% creep)
+  tl.set("#tagline", { xPercent: -50, yPercent: -50, x: 0, y: 0, scale: 1, opacity: 1 }, 0);
+
+  tl.fromTo("#w1",
+    { y: 42, opacity: 0 },
+    { y: 0,  opacity: 1, duration: 0.28, ease: "power3.out" },
+    0.06
+  );
+  tl.fromTo("#w2",
+    { y: 42, opacity: 0 },
+    { y: 0,  opacity: 1, duration: 0.28, ease: "power3.out" },
+    0.85
+  );
+  tl.fromTo("#w3",
+    { y: 42, opacity: 0 },
+    { y: 0,  opacity: 1, duration: 0.28, ease: "power3.out" },
+    1.65
+  );
+  tl.fromTo("#w4",
+    { y: 42, opacity: 0 },
+    { y: 0,  opacity: 1, duration: 0.28, ease: "power3.out" },
+    2.45
+  );
+
+  // Instant 1-frame scale cut at 3.50s (M1274 signature jump cut)
+  tl.set("#tagline", { scale: 1.72 }, 3.50);
+
+  // Accelerating upward launch + fade (3.67s - 4.63s, constant scale -> 0% width creep)
+  tl.to("#tagline",
+    { y: -520, opacity: 0, duration: 0.96, ease: "power3.in" },
+    3.67
+  );
+
+  // Phase 2 (4.65s - 6.00s): MDF Emblem blooms out of golden ink seeds at constant scale(1)
+  const erodeEl = document.getElementById("erode");
+  const softenEl = document.getElementById("soften");
+  const bloomState = { r: 4.5, b: 0.55 };
+
+  tl.set("#logo", { xPercent: -50, yPercent: -50, x: 0, y: 0, scale: 1, opacity: 1 }, 4.65);
+  tl.to(bloomState, {
+    r: 0,
+    b: 0.25,
+    duration: 0.90,
+    ease: "power2.out",
+    onUpdate: function () {
+      erodeEl.setAttribute("radius", bloomState.r.toFixed(3));
+      softenEl.setAttribute("stdDeviation", bloomState.b.toFixed(3));
+    }
+  }, 4.65);
+
+  // Phase 3 (5.55s - 8.50s): Fast shrink (5.55s - 6.00s, >120%/s rate) + horizontal dock + glyph reveal
+  tl.to("#logo", {
+    scale: 0.42,
+    duration: 0.45,
+    ease: "power3.inOut"
+  }, 5.55);
+
+  tl.to("#logo", {
+    x: -425,
+    duration: 0.90,
+    ease: "power3.inOut"
+  }, 5.75);
+
+  const chars = document.querySelectorAll(".wm-char");
+  chars.forEach((ch, idx) => {
+    tl.fromTo(ch,
+      { opacity: 0, y: 12 },
+      { opacity: 1, y: 0, duration: 0.18, ease: "power2.out" },
+      5.85 + idx * 0.022
+    );
+  });
+
+  tl.fromTo("#cta-subline",
+    { opacity: 0, y: 10 },
+    { opacity: 1, y: 0, duration: 0.25, ease: "power2.out" },
+    6.15
+  );
+
+  // Hold clean brand lockup from 6.40s to 8.50s (2.10s hold: >= 2.0s floor & <= 3.0s max endHold)
+  window.__timelines["cta"] = tl;
+})();
+</script>
+</body>
+</html>

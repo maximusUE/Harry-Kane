@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="25%" stop-color="#F5DE88" />
+      <stop offset="60%" stop-color="#F5C518" />
+      <stop offset="100%" stop-color="#997A15" />
+    </linearGradient>
+    <filter id="goldGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Outer Ring -->
+  <circle cx="250" cy="250" r="230" fill="none" stroke="url(#goldGrad)" stroke-width="6" opacity="0.9" filter="url(#goldGlow)" />
+  <circle cx="250" cy="250" r="215" fill="none" stroke="url(#goldGrad)" stroke-width="2" stroke-dasharray="8 6" opacity="0.6" />
+
+  <!-- Stars -->
+  <g fill="url(#goldGrad)">
+    <polygon points="250,55 254,68 268,68 257,76 261,89 250,81 239,89 243,76 232,68 246,68" />
+    <polygon points="210,65 213,75 224,75 215,81 218,91 210,85 202,91 205,81 196,75 207,75" transform="scale(0.85) translate(30, 10)" />
+    <polygon points="290,65 293,75 304,75 295,81 298,91 290,85 282,91 285,81 276,75 287,75" transform="scale(0.85) translate(50, 10)" />
+  </g>
+
+  <!-- CYTM Monogram -->
+  <text x="250" y="275" font-family="'Montserrat', 'Inter', sans-serif" font-weight="900" font-size="118" fill="url(#goldGrad)" text-anchor="middle" letter-spacing="4" filter="url(#goldGlow)">CYTM</text>
+  
+  <!-- Underline Accent -->
+  <line x1="140" y1="305" x2="360" y2="305" stroke="url(#goldGrad)" stroke-width="4" />
+
+  <!-- Subtitle Ribbon -->
+  <text x="250" y="345" font-family="'Inter', sans-serif" font-weight="800" font-size="28" fill="#F2EFE9" text-anchor="middle" letter-spacing="10">STUDIOS</text>
+  <text x="250" y="380" font-family="'Inter', sans-serif" font-weight="600" font-size="16" fill="url(#goldGrad)" text-anchor="middle" letter-spacing="6">MOTIVACIÓN &amp; ACCIÓN</text>
+</svg>

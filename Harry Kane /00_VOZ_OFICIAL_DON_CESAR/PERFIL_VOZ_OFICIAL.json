@@ -1,0 +1,14 @@
+{
+  "voice_name": "Don César - Voz Oficial MX",
+  "profile_id": "6f7285dd",
+  "language": "es",
+  "dialect": "Castellano Neutro / Mexicano",
+  "style": "40-year-old authentic baritone, sports documentary, natural cadence, audible human breathing",
+  "reference_text": "Para entender la mente de un titán, hay que viajar al momento exacto en que el mundo decidió ponerle una etiqueta.",
+  "reference_audio_file": "03_MUESTRA_REFERENCIA_7S.wav",
+  "master_voice_file": "02_AUDIO_MASTER_BROADCAST.wav",
+  "original_take_file": "01_AUDIO_ORIGINAL_COMPLETO.wav",
+  "target_loudness": "-14 LUFS broadcast / -12 dB mean",
+  "date_created": "2026-11-01"
+}
+

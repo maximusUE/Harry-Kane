@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CYTM Prensa - Arsenal Chubby Kane</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Inter:wght@400;600;800&family=Oswald:wght@700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      background: #0d0f12;
+      color: #111;
+      font-family: 'Inter', sans-serif;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 40px;
+      overflow: hidden;
+    }
+
+    /* Fondo cinemático con viñeta y textura oscura */
+    .viewport {
+      position: relative;
+      width: 1920px;
+      height: 1080px;
+      background: radial-gradient(circle at 60% 40%, #1a1e24 0%, #08090b 100%);
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      padding: 0 100px;
+      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.9);
+      overflow: hidden;
+    }
+
+    /* Iluminación de fondo sutil (glow dorado/azul) */
+    .glow-bg {
+      position: absolute;
+      top: -20%;
+      right: -10%;
+      width: 800px;
+      height: 800px;
+      background: radial-gradient(circle, rgba(212, 175, 55, 0.12) 0%, transparent 70%);
+      pointer-events: none;
+    }
+
+    /* Tarjeta de prensa auténtica */
+    .press-card {
+      position: relative;
+      width: 1050px;
+      background: #fdfcf7; /* Papel prensa marfil de alta calidad */
+      padding: 45px 55px;
+      border-radius: 4px;
+      box-shadow: 0 30px 60px rgba(0,0,0,0.6), 0 0 0 1px rgba(0,0,0,0.08);
+      z-index: 2;
+      border-left: 6px solid #d4af37;
+      transform: perspective(1000px) rotateY(-2deg) rotateX(1deg);
+      transition: transform 0.3s ease;
+    }
+
+    /* Cabecera del periódico */
+    .newspaper-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 2px solid #111;
+      padding-bottom: 15px;
+      margin-bottom: 25px;
+    }
+
+    .masthead-dailymail {
+      font-family: 'Playfair Display', serif;
+      font-size: 38px;
+      font-weight: 900;
+      letter-spacing: -0.5px;
+      color: #000;
+      text-transform: uppercase;
+    }
+
+    .masthead-dailymail span {
+      background: #004b97;
+      color: #fff;
+      padding: 2px 10px;
+      margin-left: 8px;
+      font-family: 'Oswald', sans-serif;
+      font-size: 26px;
+      letter-spacing: 1px;
+    }
+
+    .meta-date {
+      font-size: 13px;
+      font-weight: 600;
+      color: #666;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    /* Categoría de noticia */
+    .category-tag {
+      display: inline-block;
+      background: #b91c1c;
+      color: #fff;
+      font-size: 12px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      padding: 4px 10px;
+      border-radius: 2px;
+      margin-bottom: 18px;
+    }
+
+    /* Titular de gran impacto */
+    .headline {
+      font-family: 'Playfair Display', serif;
+      font-size: 46px;
+      line-height: 1.15;
+      font-weight: 900;
+      color: #0f172a;
+      margin-bottom: 20px;
+      letter-spacing: -0.5px;
+    }
+
+    /* Subrayado con marcador amarillo fosforito animado */
+    .highlight {
+      background: linear-gradient(120deg, rgba(254, 240, 138, 0) 0%, rgba(254, 240, 138, 0.95) 15%, rgba(250, 204, 21, 0.95) 85%, rgba(254, 240, 138, 0) 100%);
+      background-repeat: no-repeat;
+      background-size: 100% 90%;
+      background-position: 0 88%;
+      padding: 0 6px;
+      color: #000;
+      box-decoration-break: clone;
+      -webkit-box-decoration-break: clone;
+    }
+
+    /* Bajada o resumen de la noticia */
+    .standfirst {
+      font-size: 20px;
+      line-height: 1.45;
+      color: #334155;
+      font-weight: 400;
+      border-left: 3px solid #cbd5e1;
+      padding-left: 18px;
+      margin-bottom: 25px;
+    }
+
+    .standfirst strong {
+      color: #0f172a;
+      font-weight: 700;
+    }
+
+    /* Autor y firma */
+    .byline {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      font-size: 13px;
+      color: #64748b;
+      font-weight: 600;
+      border-top: 1px solid #e2e8f0;
+      padding-top: 15px;
+    }
+
+    .byline-author {
+      color: #0f172a;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    /* Recorte de Harry Kane en primer plano (2.5D Parallax) */
+    .player-cutout {
+      position: absolute;
+      right: 40px;
+      bottom: -40px;
+      height: 980px;
+      z-index: 3;
+      filter: drop-shadow(-20px 20px 35px rgba(0,0,0,0.7));
+      pointer-events: none;
+    }
+
+    /* Marca de agua sutil CYTM */
+    .cytm-watermark {
+      position: absolute;
+      top: 40px;
+      right: 60px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      background: rgba(15, 23, 42, 0.65);
+      backdrop-filter: blur(8px);
+      padding: 8px 16px;
+      border-radius: 9999px;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      z-index: 10;
+    }
+
+    .cytm-dot {
+      width: 8px;
+      height: 8px;
+      background: #d4af37;
+      border-radius: 50%;
+    }
+
+    .cytm-text {
+      color: #f8fafc;
+      font-size: 13px;
+      font-weight: 800;
+      letter-spacing: 1.5px;
+      font-family: 'Cinzel', serif;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="viewport">
+    <div class="glow-bg"></div>
+
+    <!-- Marca de agua de la agencia -->
+    <div class="cytm-watermark">
+      <div class="cytm-dot"></div>
+      <div class="cytm-text">CYTM ARCHIVO HISTÓRICO</div>
+    </div>
+
+    <!-- Tarjeta de Prensa -->
+    <div class="press-card">
+      <div class="newspaper-header">
+        <div class="masthead-dailymail">
+          Daily Mail <span>SPORT</span>
+        </div>
+        <div class="meta-date">EXCLUSIVA ACADÉMICA • NORTH LONDON</div>
+      </div>
+
+      <div class="category-tag">ARCHIVOS DE RECHAZO (2001)</div>
+
+      <h1 class="headline">
+        Arsenal released Harry Kane at 8 because he was <span class="highlight">'a bit chubby' and 'not athletic'</span>, reveals Liam Brady
+      </h1>
+
+      <p class="standfirst">
+        El ex director de la academia de los Gunners admite el error histórico más costoso de Londres: 
+        <strong>"No era muy rápido y tenía algo de sobrepeso... nos equivocamos por completo."</strong>
+      </p>
+
+      <div class="byline">
+        <span class="byline-author">Por Martin Samuel</span>
+        <span>•</span>
+        <span>INVESTIGACIÓN DOCUMENTAL CYTM</span>
+      </div>
+    </div>
+
+    <!-- Silueta HD de Harry Kane (usando el render que descargamos) -->
+    <img src="../03_FOTOS_PNG_CUTOUTS/harry_kane_85.png" alt="Harry Kane Cutout" class="player-cutout">
+  </div>
+
+</body>
+</html>
+

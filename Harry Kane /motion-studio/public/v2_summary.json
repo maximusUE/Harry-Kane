@@ -1,0 +1,38 @@
+{
+  "1": {
+    "duration": 121.08,
+    "frames": 3632,
+    "words": 316,
+    "chunks": 94
+  },
+  "2": {
+    "duration": 160.54,
+    "frames": 4816,
+    "words": 401,
+    "chunks": 122
+  },
+  "3": {
+    "duration": 148.92,
+    "frames": 4468,
+    "words": 381,
+    "chunks": 108
+  },
+  "4": {
+    "duration": 134.93,
+    "frames": 4048,
+    "words": 334,
+    "chunks": 100
+  },
+  "5": {
+    "duration": 71.93,
+    "frames": 2158,
+    "words": 174,
+    "chunks": 50
+  },
+  "6": {
+    "duration": 138.91,
+    "frames": 4167,
+    "words": 351,
+    "chunks": 103
+  }
+}

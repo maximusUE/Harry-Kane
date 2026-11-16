@@ -1,0 +1,734 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.49,
+    "text": "Si un guionista de",
+    "words": [
+      {
+        "word": "Si",
+        "start": 0.0,
+        "end": 0.38
+      },
+      {
+        "word": "un",
+        "start": 0.38,
+        "end": 0.58
+      },
+      {
+        "word": "guionista",
+        "start": 0.58,
+        "end": 1.14
+      },
+      {
+        "word": "de",
+        "start": 1.14,
+        "end": 1.34
+      }
+    ]
+  },
+  {
+    "start": 1.34,
+    "end": 2.89,
+    "text": "cine hubiera querido quebrar",
+    "words": [
+      {
+        "word": "cine",
+        "start": 1.34,
+        "end": 1.56
+      },
+      {
+        "word": "hubiera",
+        "start": 1.56,
+        "end": 1.98
+      },
+      {
+        "word": "querido",
+        "start": 1.98,
+        "end": 2.36
+      },
+      {
+        "word": "quebrar",
+        "start": 2.36,
+        "end": 2.74
+      }
+    ]
+  },
+  {
+    "start": 2.74,
+    "end": 4.93,
+    "text": "psicológicamente a un personaje,",
+    "words": [
+      {
+        "word": "psicológicamente",
+        "start": 2.74,
+        "end": 3.86
+      },
+      {
+        "word": "a",
+        "start": 3.86,
+        "end": 4.06
+      },
+      {
+        "word": "un",
+        "start": 4.06,
+        "end": 4.18
+      },
+      {
+        "word": "personaje,",
+        "start": 4.18,
+        "end": 4.78
+      }
+    ]
+  },
+  {
+    "start": 5.02,
+    "end": 6.49,
+    "text": "no habría escrito un",
+    "words": [
+      {
+        "word": "no",
+        "start": 5.02,
+        "end": 5.38
+      },
+      {
+        "word": "habría",
+        "start": 5.38,
+        "end": 5.72
+      },
+      {
+        "word": "escrito",
+        "start": 5.72,
+        "end": 6.14
+      },
+      {
+        "word": "un",
+        "start": 6.14,
+        "end": 6.34
+      }
+    ]
+  },
+  {
+    "start": 6.34,
+    "end": 7.45,
+    "text": "guión más cruel.",
+    "words": [
+      {
+        "word": "guión",
+        "start": 6.34,
+        "end": 6.66
+      },
+      {
+        "word": "más",
+        "start": 6.66,
+        "end": 6.96
+      },
+      {
+        "word": "cruel.",
+        "start": 6.96,
+        "end": 7.3
+      }
+    ]
+  },
+  {
+    "start": 7.7,
+    "end": 9.05,
+    "text": "Pero aquí está la",
+    "words": [
+      {
+        "word": "Pero",
+        "start": 7.7,
+        "end": 8.18
+      },
+      {
+        "word": "aquí",
+        "start": 8.18,
+        "end": 8.44
+      },
+      {
+        "word": "está",
+        "start": 8.44,
+        "end": 8.74
+      },
+      {
+        "word": "la",
+        "start": 8.74,
+        "end": 8.9
+      }
+    ]
+  },
+  {
+    "start": 8.9,
+    "end": 9.77,
+    "text": "gran lección.",
+    "words": [
+      {
+        "word": "gran",
+        "start": 8.9,
+        "end": 9.14
+      },
+      {
+        "word": "lección.",
+        "start": 9.14,
+        "end": 9.62
+      }
+    ]
+  },
+  {
+    "start": 9.9,
+    "end": 11.31,
+    "text": "Mientras la prensa se",
+    "words": [
+      {
+        "word": "Mientras",
+        "start": 9.9,
+        "end": 10.3
+      },
+      {
+        "word": "la",
+        "start": 10.3,
+        "end": 10.56
+      },
+      {
+        "word": "prensa",
+        "start": 10.56,
+        "end": 10.94
+      },
+      {
+        "word": "se",
+        "start": 10.94,
+        "end": 11.16
+      }
+    ]
+  },
+  {
+    "start": 11.16,
+    "end": 11.69,
+    "text": "reía,",
+    "words": [
+      {
+        "word": "reía,",
+        "start": 11.16,
+        "end": 11.54
+      }
+    ]
+  },
+  {
+    "start": 11.88,
+    "end": 12.85,
+    "text": "Kane no dio una",
+    "words": [
+      {
+        "word": "Kane",
+        "start": 11.88,
+        "end": 12.04
+      },
+      {
+        "word": "no",
+        "start": 12.04,
+        "end": 12.24
+      },
+      {
+        "word": "dio",
+        "start": 12.24,
+        "end": 12.44
+      },
+      {
+        "word": "una",
+        "start": 12.44,
+        "end": 12.7
+      }
+    ]
+  },
+  {
+    "start": 12.7,
+    "end": 14.43,
+    "text": "sola conferencia de prensa",
+    "words": [
+      {
+        "word": "sola",
+        "start": 12.7,
+        "end": 12.98
+      },
+      {
+        "word": "conferencia",
+        "start": 12.98,
+        "end": 13.7
+      },
+      {
+        "word": "de",
+        "start": 13.7,
+        "end": 13.86
+      },
+      {
+        "word": "prensa",
+        "start": 13.86,
+        "end": 14.28
+      }
+    ]
+  },
+  {
+    "start": 14.28,
+    "end": 15.57,
+    "text": "para poner pretextos.",
+    "words": [
+      {
+        "word": "para",
+        "start": 14.28,
+        "end": 14.5
+      },
+      {
+        "word": "poner",
+        "start": 14.5,
+        "end": 14.82
+      },
+      {
+        "word": "pretextos.",
+        "start": 14.82,
+        "end": 15.42
+      }
+    ]
+  },
+  {
+    "start": 15.56,
+    "end": 16.47,
+    "text": "No culpó a sus",
+    "words": [
+      {
+        "word": "No",
+        "start": 15.56,
+        "end": 15.7
+      },
+      {
+        "word": "culpó",
+        "start": 15.7,
+        "end": 16.06
+      },
+      {
+        "word": "a",
+        "start": 16.06,
+        "end": 16.16
+      },
+      {
+        "word": "sus",
+        "start": 16.16,
+        "end": 16.32
+      }
+    ]
+  },
+  {
+    "start": 16.32,
+    "end": 17.17,
+    "text": "compañeros.",
+    "words": [
+      {
+        "word": "compañeros.",
+        "start": 16.32,
+        "end": 17.02
+      }
+    ]
+  },
+  {
+    "start": 17.24,
+    "end": 18.73,
+    "text": "No culpó al entrenador.",
+    "words": [
+      {
+        "word": "No",
+        "start": 17.24,
+        "end": 17.5
+      },
+      {
+        "word": "culpó",
+        "start": 17.5,
+        "end": 17.88
+      },
+      {
+        "word": "al",
+        "start": 17.88,
+        "end": 18.02
+      },
+      {
+        "word": "entrenador.",
+        "start": 18.02,
+        "end": 18.58
+      }
+    ]
+  },
+  {
+    "start": 18.88,
+    "end": 20.29,
+    "text": "Se encerró en el",
+    "words": [
+      {
+        "word": "Se",
+        "start": 18.88,
+        "end": 19.44
+      },
+      {
+        "word": "encerró",
+        "start": 19.44,
+        "end": 19.9
+      },
+      {
+        "word": "en",
+        "start": 19.9,
+        "end": 20.04
+      },
+      {
+        "word": "el",
+        "start": 20.04,
+        "end": 20.14
+      }
+    ]
+  },
+  {
+    "start": 20.14,
+    "end": 21.41,
+    "text": "gimnasio del club a",
+    "words": [
+      {
+        "word": "gimnasio",
+        "start": 20.14,
+        "end": 20.68
+      },
+      {
+        "word": "del",
+        "start": 20.68,
+        "end": 20.86
+      },
+      {
+        "word": "club",
+        "start": 20.86,
+        "end": 21.1
+      },
+      {
+        "word": "a",
+        "start": 21.1,
+        "end": 21.26
+      }
+    ]
+  },
+  {
+    "start": 21.26,
+    "end": 22.13,
+    "text": "las seis de la",
+    "words": [
+      {
+        "word": "las",
+        "start": 21.26,
+        "end": 21.46
+      },
+      {
+        "word": "seis",
+        "start": 21.46,
+        "end": 21.66
+      },
+      {
+        "word": "de",
+        "start": 21.66,
+        "end": 21.84
+      },
+      {
+        "word": "la",
+        "start": 21.84,
+        "end": 21.98
+      }
+    ]
+  },
+  {
+    "start": 21.98,
+    "end": 22.57,
+    "text": "mañana.",
+    "words": [
+      {
+        "word": "mañana.",
+        "start": 21.98,
+        "end": 22.42
+      }
+    ]
+  },
+  {
+    "start": 22.98,
+    "end": 24.55,
+    "text": "Perfeccionó cada detalle de",
+    "words": [
+      {
+        "word": "Perfeccionó",
+        "start": 22.98,
+        "end": 23.54
+      },
+      {
+        "word": "cada",
+        "start": 23.54,
+        "end": 23.8
+      },
+      {
+        "word": "detalle",
+        "start": 23.8,
+        "end": 24.26
+      },
+      {
+        "word": "de",
+        "start": 24.26,
+        "end": 24.4
+      }
+    ]
+  },
+  {
+    "start": 24.4,
+    "end": 25.35,
+    "text": "su nutrición.",
+    "words": [
+      {
+        "word": "su",
+        "start": 24.4,
+        "end": 24.56
+      },
+      {
+        "word": "nutrición.",
+        "start": 24.56,
+        "end": 25.2
+      }
+    ]
+  },
+  {
+    "start": 25.56,
+    "end": 27.39,
+    "text": "Trabajó la fuerza explosiva",
+    "words": [
+      {
+        "word": "Trabajó",
+        "start": 25.56,
+        "end": 26.1
+      },
+      {
+        "word": "la",
+        "start": 26.1,
+        "end": 26.24
+      },
+      {
+        "word": "fuerza",
+        "start": 26.24,
+        "end": 26.58
+      },
+      {
+        "word": "explosiva",
+        "start": 26.58,
+        "end": 27.24
+      }
+    ]
+  },
+  {
+    "start": 27.24,
+    "end": 27.99,
+    "text": "en la nieve.",
+    "words": [
+      {
+        "word": "en",
+        "start": 27.24,
+        "end": 27.38
+      },
+      {
+        "word": "la",
+        "start": 27.38,
+        "end": 27.5
+      },
+      {
+        "word": "nieve.",
+        "start": 27.5,
+        "end": 27.84
+      }
+    ]
+  },
+  {
+    "start": 28.06,
+    "end": 29.45,
+    "text": "Y en la siguiente",
+    "words": [
+      {
+        "word": "Y",
+        "start": 28.06,
+        "end": 28.62
+      },
+      {
+        "word": "en",
+        "start": 28.62,
+        "end": 28.76
+      },
+      {
+        "word": "la",
+        "start": 28.76,
+        "end": 28.9
+      },
+      {
+        "word": "siguiente",
+        "start": 28.9,
+        "end": 29.3
+      }
+    ]
+  },
+  {
+    "start": 29.3,
+    "end": 31.31,
+    "text": "temporada destrozó todos los",
+    "words": [
+      {
+        "word": "temporada",
+        "start": 29.3,
+        "end": 29.9
+      },
+      {
+        "word": "destrozó",
+        "start": 29.9,
+        "end": 30.62
+      },
+      {
+        "word": "todos",
+        "start": 30.62,
+        "end": 30.94
+      },
+      {
+        "word": "los",
+        "start": 30.94,
+        "end": 31.16
+      }
+    ]
+  },
+  {
+    "start": 31.16,
+    "end": 32.87,
+    "text": "registros goleadores de la",
+    "words": [
+      {
+        "word": "registros",
+        "start": 31.16,
+        "end": 31.76
+      },
+      {
+        "word": "goleadores",
+        "start": 31.76,
+        "end": 32.36
+      },
+      {
+        "word": "de",
+        "start": 32.36,
+        "end": 32.58
+      },
+      {
+        "word": "la",
+        "start": 32.58,
+        "end": 32.72
+      }
+    ]
+  },
+  {
+    "start": 32.72,
+    "end": 33.61,
+    "text": "liga alemana,",
+    "words": [
+      {
+        "word": "liga",
+        "start": 32.72,
+        "end": 32.98
+      },
+      {
+        "word": "alemana,",
+        "start": 32.98,
+        "end": 33.46
+      }
+    ]
+  },
+  {
+    "start": 33.84,
+    "end": 35.21,
+    "text": "liderando al equipo no",
+    "words": [
+      {
+        "word": "liderando",
+        "start": 33.84,
+        "end": 34.36
+      },
+      {
+        "word": "al",
+        "start": 34.36,
+        "end": 34.52
+      },
+      {
+        "word": "equipo",
+        "start": 34.52,
+        "end": 34.84
+      },
+      {
+        "word": "no",
+        "start": 34.84,
+        "end": 35.06
+      }
+    ]
+  },
+  {
+    "start": 35.06,
+    "end": 35.91,
+    "text": "con palabras,",
+    "words": [
+      {
+        "word": "con",
+        "start": 35.06,
+        "end": 35.26
+      },
+      {
+        "word": "palabras,",
+        "start": 35.26,
+        "end": 35.76
+      }
+    ]
+  },
+  {
+    "start": 36.06,
+    "end": 37.39,
+    "text": "sino con un apetito",
+    "words": [
+      {
+        "word": "sino",
+        "start": 36.06,
+        "end": 36.34
+      },
+      {
+        "word": "con",
+        "start": 36.34,
+        "end": 36.6
+      },
+      {
+        "word": "un",
+        "start": 36.6,
+        "end": 36.74
+      },
+      {
+        "word": "apetito",
+        "start": 36.74,
+        "end": 37.24
+      }
+    ]
+  },
+  {
+    "start": 37.24,
+    "end": 38.59,
+    "text": "voraz e insaciable.",
+    "words": [
+      {
+        "word": "voraz",
+        "start": 37.24,
+        "end": 37.66
+      },
+      {
+        "word": "e",
+        "start": 37.66,
+        "end": 37.76
+      },
+      {
+        "word": "insaciable.",
+        "start": 37.76,
+        "end": 38.44
+      }
+    ]
+  }
+]

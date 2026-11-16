@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Hook — Quince años persiguiendo la gloria</title>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+<style>
+  @font-face {
+    font-family: "InterVar";
+    src: url("assets/fonts/InterVariable.woff2") format("woff2");
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: block;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body {
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+    background: #08080A;
+    font-family: "InterVar", "Montserrat", "Inter", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  #root {
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+    background: #08080A;
+  }
+
+  .bg-plate {
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(circle at 50% 18%, rgba(245, 197, 24, 0.14) 0%, rgba(239, 0, 45, 0.08) 38%, rgba(8, 8, 10, 0.98) 76%),
+      #08080A;
+    z-index: 0;
+  }
+
+  /* Persistent archival header so no frame is ever empty */
+  #archival-bar {
+    position: absolute;
+    top: 36px;
+    left: 64px;
+    right: 64px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 25;
+    pointer-events: none;
+  }
+  .archival-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    padding: 6px 16px;
+    border-radius: 999px;
+    background: rgba(18, 18, 22, 0.86);
+    border: 1px solid rgba(245, 197, 24, 0.45);
+    color: #F2EFE9;
+    font-family: "Montserrat", "Inter", sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+  .archival-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #F5C518;
+    box-shadow: 0 0 10px #F5C518;
+  }
+  .archival-tag {
+    color: #F5C518;
+    font-family: "Montserrat", "Inter", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+  }
+
+  .scene {
+    position: absolute;
+    inset: 0;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  /* Scene 1 & 2: Light-band word reveals (M1416 isolate + multiply) */
+  .iso-stage {
+    isolation: isolate;
+    background: #08080A;
+  }
+
+  .hero-word {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Montserrat", "InterVar", sans-serif;
+    font-weight: 900;
+    font-size: 210px;
+    letter-spacing: -0.04em;
+    color: #FFFFFF;
+    white-space: nowrap;
+    line-height: 1;
+    user-select: none;
+  }
+
+  .light-band {
+    position: absolute;
+    top: -160px;
+    left: 50%;
+    width: 1180px;
+    height: 1400px;
+    mix-blend-mode: multiply;
+    pointer-events: none;
+    background: linear-gradient(
+      90deg,
+      rgba(8, 8, 10, 0.92) 0%,
+      rgba(120, 12, 28, 0.88) 18%,
+      rgba(239, 0, 45, 0.92) 30%,
+      rgba(245, 197, 24, 0.98) 43%,
+      rgba(255, 250, 235, 1) 50%,
+      rgba(245, 197, 24, 0.98) 57%,
+      rgba(239, 0, 45, 0.92) 70%,
+      rgba(24, 52, 130, 0.88) 84%,
+      rgba(8, 8, 10, 0.92) 100%
+    );
+    filter: blur(24px);
+  }
+
+  /* Scene 3: "Quince años persiguiendo la gloria" over rising golden-crimson halo */
+  #s3 {
+    background: #08080A;
+  }
+  #s3-glow {
+    position: absolute;
+    left: 50%;
+    top: 62%;
+    width: 1960px;
+    height: 1120px;
+    background:
+      radial-gradient(ellipse 52% 45% at 50% 45%,
+        rgba(255, 245, 210, 0.96) 0%,
+        rgba(245, 197, 24, 0.88) 28%,
+        rgba(239, 0, 45, 0.65) 56%,
+        rgba(8, 8, 10, 0) 82%);
+    filter: blur(28px);
+  }
+  #phrase-zoom {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #s3-phrase {
+    font-family: "Montserrat", "InterVar", sans-serif;
+    font-weight: 800;
+    font-size: 92px;
+    letter-spacing: -0.03em;
+    color: #08080A;
+    text-shadow: 0 2px 28px rgba(255, 255, 255, 0.55);
+    white-space: nowrap;
+    line-height: 1.08;
+    padding: 12px 32px;
+  }
+
+  /* Persistent beat-line banner for scenes 4-8 so the beat line stays readable */
+  #hook-line-pill {
+    position: absolute;
+    bottom: 42px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px 28px;
+    border-radius: 999px;
+    background: rgba(8, 8, 10, 0.88);
+    border: 1px solid rgba(245, 197, 24, 0.55);
+    color: #F2EFE9;
+    font-family: "Montserrat", "Inter", sans-serif;
+    font-weight: 800;
+    font-size: 24px;
+    letter-spacing: -0.01em;
+    white-space: nowrap;
+    z-index: 30;
+    opacity: 0;
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.65);
+  }
+
+  /* Scene 4: Rising dark stadium arc with gold/crimson rim */
+  #s4 {
+    background: #08080A;
+  }
+  #s4-ambient {
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse 68% 44% at 50% 42%,
+      rgba(245, 197, 24, 0.65) 0%,
+      rgba(239, 0, 45, 0.52) 38%,
+      rgba(8, 8, 10, 0) 76%);
+    filter: blur(20px);
+  }
+  #s4-circle {
+    position: absolute;
+    left: 50%;
+    top: 100px;
+    width: 1900px;
+    height: 1900px;
+    border-radius: 50%;
+    background: #08080A;
+    box-shadow:
+      0 -28px 64px 12px rgba(245, 197, 24, 0.85),
+      0 -64px 120px 32px rgba(239, 0, 45, 0.65);
+  }
+
+  /* Scene 5: Two soft gradient discs converging */
+  #s5 {
+    background: #08080A;
+  }
+  .s5-disc {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 820px;
+    height: 820px;
+    border-radius: 50%;
+    filter: blur(16px);
+    mix-blend-mode: screen;
+  }
+  #s5-left {
+    background: radial-gradient(circle at 60% 48%,
+      rgba(255, 248, 220, 0.98) 0%,
+      rgba(245, 197, 24, 0.92) 36%,
+      rgba(210, 110, 15, 0.72) 68%,
+      rgba(210, 110, 15, 0) 78%);
+  }
+  #s5-right {
+    background: radial-gradient(circle at 40% 50%,
+      rgba(239, 0, 45, 0.95) 0%,
+      rgba(165, 15, 65, 0.85) 45%,
+      rgba(28, 70, 180, 0.65) 70%,
+      rgba(28, 70, 180, 0) 80%);
+  }
+
+  /* Scene 6: Two overlapping horizontal capsules */
+  #s6 {
+    background: #08080A;
+  }
+  #s6-wrap {
+    position: absolute;
+    inset: 0;
+  }
+  .s6-pill {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 1120px;
+    height: 520px;
+    border-radius: 260px;
+    filter: blur(18px);
+    mix-blend-mode: screen;
+  }
+  #s6-left {
+    background: linear-gradient(90deg,
+      rgba(20, 55, 160, 0.92) 0%,
+      rgba(245, 197, 24, 0.95) 60%,
+      rgba(255, 245, 210, 0.98) 100%);
+  }
+  #s6-right {
+    background: linear-gradient(90deg,
+      rgba(255, 245, 210, 0.98) 0%,
+      rgba(245, 197, 24, 0.92) 38%,
+      rgba(239, 0, 45, 0.92) 100%);
+  }
+
+  /* Scene 7 & 8: Stepped rounded documentary window over HISTORIA rows */
+  #s78 {
+    background: #08080A;
+  }
+  #s8-bg {
+    position: absolute;
+    inset: 0;
+    background: #08080A;
+    overflow: hidden;
+    opacity: 0;
+  }
+  .typo-row {
+    position: absolute;
+    left: 0;
+    white-space: nowrap;
+    font-family: "InterVar", "Montserrat", sans-serif;
+    font-size: 290px;
+    line-height: 0.92;
+    letter-spacing: -0.04em;
+    color: #F2EFE9;
+    user-select: none;
+    --split: 50%;
+  }
+  .typo-row .layer-bold {
+    font-weight: 800;
+    color: #F2EFE9;
+    clip-path: inset(0 calc(100% - var(--split)) 0 0);
+  }
+  .typo-row .layer-thin {
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-weight: 200;
+    color: #F5C518;
+    clip-path: inset(0 0 0 var(--split));
+  }
+
+  #s7-card {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 580px;
+    height: 360px;
+    border-radius: 36px;
+    transform: translate(-50%, -50%);
+    overflow: hidden;
+    background: #121216;
+    border: 2px solid rgba(245, 197, 24, 0.55);
+    box-shadow: 0 24px 80px rgba(0, 0, 0, 0.85);
+    z-index: 10;
+  }
+  #s7-card video {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 1920px;
+    height: 1080px;
+    transform: translate(-50%, -50%);
+    object-fit: cover;
+  }
+</style>
+</head>
+<body>
+  <div data-hf-id="hf-5qki" id="root" data-composition-id="hook" data-width="1920" data-height="1080" data-start="0" data-duration="9.4" data-layout-allow-overflow data-layout-allow-overlap>
+    <div data-hf-id="hf-0ie6" class="bg-plate"></div>
+
+    <div data-hf-id="hf-xewb" id="archival-bar" data-layout-allow-overlap>
+      <div data-hf-id="hf-lg7i" class="archival-pill">
+        <span data-hf-id="hf-q4e5" class="archival-dot"></span>
+        <span data-hf-id="hf-vw9s">CYTM MOTIVACIÓN</span>
+      </div>
+      <div data-hf-id="hf-b99t" class="archival-tag">EXPEDIENTE: HARRY KANE · 2004–2026</div>
+    </div>
+
+    <!-- Scene 1: "CERO" light sweep -->
+    <div data-hf-id="hf-1bul" id="s1" class="scene iso-stage" data-layout-allow-overflow data-layout-allow-overlap>
+      <div data-hf-id="hf-8y10" id="great-word" class="hero-word">CERO</div>
+      <div data-hf-id="hf-3div" id="great-band" class="light-band"></div>
+    </div>
+
+    <!-- Scene 2: "TÍTULOS" light sweep -->
+    <div data-hf-id="hf-59ym" id="s2" class="scene iso-stage" data-layout-allow-overflow data-layout-allow-overlap>
+      <div data-hf-id="hf-wyec" id="design-word" class="hero-word">TÍTULOS</div>
+      <div data-hf-id="hf-1sg0" id="design-band" class="light-band"></div>
+    </div>
+
+    <!-- Scene 3: "Quince años persiguiendo la gloria" over rising halo -->
+    <div data-hf-id="hf-mvut" id="s3" class="scene" data-layout-allow-overflow data-layout-allow-overlap>
+      <div data-hf-id="hf-aa0z" id="s3-glow"></div>
+      <div data-hf-id="hf-7gty" id="phrase-zoom">
+        <div data-hf-id="hf-vwf7" id="s3-phrase">Quince años persiguiendo la gloria</div>
+      </div>
+    </div>
+
+    <!-- Scene 4: Rising dark eclipse arc -->
+    <div data-hf-id="hf-5nki" id="s4" class="scene" data-layout-allow-overflow data-layout-allow-overlap>
+      <div data-hf-id="hf-diqj" id="s4-ambient"></div>
+      <div data-hf-id="hf-dav9" id="s4-circle"></div>
+    </div>
+
+    <!-- Scene 5: Converging gold & crimson discs -->
+    <div data-hf-id="hf-9loj" id="s5" class="scene" data-layout-allow-overflow data-layout-allow-overlap>
+      <div data-hf-id="hf-9ecq" id="s5-left" class="s5-disc"></div>
+      <div data-hf-id="hf-g75l" id="s5-right" class="s5-disc"></div>
+    </div>
+
+    <!-- Scene 6: Sliding capsules -->
+    <div data-hf-id="hf-yq6w" id="s6" class="scene" data-layout-allow-overflow data-layout-allow-overlap>
+      <div data-hf-id="hf-0cv7" id="s6-wrap">
+        <div data-hf-id="hf-rqaa" id="s6-left" class="s6-pill"></div>
+        <div data-hf-id="hf-1jup" id="s6-right" class="s6-pill"></div>
+      </div>
+    </div>
+
+    <!-- Scene 7 & 8: Stepped rounded documentary montage + HISTORIA rows -->
+    <div data-hf-id="hf-mcxv" id="s78" class="scene" data-layout-allow-overflow data-layout-allow-overlap>
+      <div data-hf-id="hf-fgi9" id="s8-bg" data-layout-allow-overflow data-layout-allow-overlap>
+        <div data-hf-id="hf-7aie" id="s8-row-0" class="typo-row" style="top: 42px;">
+          <div data-hf-id="hf-4vks" class="layer-bold">HISTORIA HISTORIA HISTORIA</div>
+          <div data-hf-id="hf-ma5g" class="layer-thin">HISTORIA HISTORIA HISTORIA</div>
+        </div>
+        <div data-hf-id="hf-goed" id="s8-row-1" class="typo-row" style="top: 392px;">
+          <div data-hf-id="hf-s72s" class="layer-bold">HISTORIA HISTORIA HISTORIA</div>
+          <div data-hf-id="hf-3wkc" class="layer-thin">HISTORIA HISTORIA HISTORIA</div>
+        </div>
+        <div data-hf-id="hf-o5p7" id="s8-row-2" class="typo-row" style="top: 742px;">
+          <div data-hf-id="hf-r05p" class="layer-bold">HISTORIA HISTORIA HISTORIA</div>
+          <div data-hf-id="hf-2pn9" class="layer-thin">HISTORIA HISTORIA HISTORIA</div>
+        </div>
+      </div>
+
+      <div data-hf-id="hf-og53" id="s7-card" data-layout-allow-overflow data-layout-allow-occlusion>
+        <video data-hf-id="hf-touu" id="vid-arsenal" src="assets/ui/kane-arsenal-clip.mp4" data-start="5.43" data-duration="0.67" muted playsinline preload="auto"></video>
+        <video data-hf-id="hf-495a" id="vid-spurs" src="assets/ui/kane-spurs-curse.mp4" data-start="6.10" data-duration="0.60" muted playsinline preload="auto"></video>
+        <video data-hf-id="hf-ox9e" id="vid-ballon" src="assets/ui/kane-ballon-dor.mp4" data-start="6.70" data-duration="2.70" muted playsinline preload="auto"></video>
+      </div>
+    </div>
+
+    <!-- Persistent beat line pill during visual montage (2.93s - 9.40s) -->
+    <div data-hf-id="hf-gur5" id="hook-line-pill" data-layout-allow-overlap>Quince años persiguiendo la gloria</div>
+  </div>
+
+<script>
+(function () {
+  window.__timelines = window.__timelines || {};
+  const tl = gsap.timeline({ paused: true });
+
+  // Initial states
+  tl.set("#s1", { opacity: 1 }, 0);
+  tl.set("#s2, #s3, #s4, #s5, #s6, #s78", { opacity: 0 }, 0);
+  tl.set("#hook-line-pill", { opacity: 0 }, 0);
+
+  // SCENE 1 (0.00s - 1.02s): "CERO" light band sweeps left -> right (no width creep on word)
+  tl.fromTo("#great-band",
+    { xPercent: -50, x: -620 },
+    { xPercent: -50, x: 620, duration: 1.02, ease: "none" },
+    0.0
+  );
+  tl.set("#s1", { opacity: 0 }, 1.02);
+
+  // SCENE 2 (1.02s - 1.99s): "TÍTULOS" light band sweeps right -> left
+  tl.set("#s2", { opacity: 1 }, 1.02);
+  tl.fromTo("#design-band",
+    { xPercent: -50, x: 560 },
+    { xPercent: -50, x: -540, duration: 0.97, ease: "none" },
+    1.02
+  );
+  tl.set("#s2", { opacity: 0 }, 1.99);
+
+  // SCENE 3 (1.99s - 2.93s): "Quince años persiguiendo la gloria" over rising halo
+  tl.set("#s3", { opacity: 1 }, 1.99);
+  tl.fromTo("#s3-glow",
+    { xPercent: -50, yPercent: -50, y: 120 },
+    { xPercent: -50, yPercent: -50, y: -110, duration: 0.94, ease: "power1.out" },
+    1.99
+  );
+  tl.set("#s3", { opacity: 0 }, 2.93);
+
+  // Keep beat line pill visible across 2.93s - 9.40s
+  tl.set("#hook-line-pill", { opacity: 1 }, 2.93);
+
+  // SCENE 4 (2.93s - 3.56s): Rising dark stadium arc
+  tl.set("#s4", { opacity: 1 }, 2.93);
+  tl.fromTo("#s4-circle",
+    { xPercent: -50, y: 440 },
+    { xPercent: -50, y: 40, duration: 0.63, ease: "power2.out" },
+    2.93
+  );
+  tl.set("#s4", { opacity: 0 }, 3.56);
+
+  // SCENE 5 (3.56s - 4.43s): Two soft gradient discs converging horizontally
+  tl.set("#s5", { opacity: 1 }, 3.56);
+  tl.fromTo("#s5-left",
+    { xPercent: -50, yPercent: -50, x: -650 },
+    { xPercent: -50, yPercent: -50, x: -305, duration: 0.87, ease: "power1.out" },
+    3.56
+  );
+  tl.fromTo("#s5-right",
+    { xPercent: -50, yPercent: -50, x: 650 },
+    { xPercent: -50, yPercent: -50, x: 305, duration: 0.87, ease: "power1.out" },
+    3.56
+  );
+  tl.set("#s5", { opacity: 0 }, 4.43);
+
+  // SCENE 6 (4.43s - 5.43s): Overlapping horizontal capsules sliding across each other
+  tl.set("#s6", { opacity: 1 }, 4.43);
+  tl.fromTo("#s6-left",
+    { xPercent: -50, yPercent: -50, x: 230 },
+    { xPercent: -50, yPercent: -50, x: -345, duration: 1.00, ease: "power1.inOut" },
+    4.43
+  );
+  tl.fromTo("#s6-right",
+    { xPercent: -50, yPercent: -50, x: -230 },
+    { xPercent: -50, yPercent: -50, x: 345, duration: 1.00, ease: "power1.inOut" },
+    4.43
+  );
+  tl.set("#s6", { opacity: 0 }, 5.43);
+
+  // SCENE 7 & 8 (5.43s - 9.40s): Discrete frame-stepped card reveal + HISTORIA rows
+  tl.set("#s78", { opacity: 1 }, 5.43);
+  tl.set("#s8-bg", { opacity: 0 }, 5.43);
+
+  // 7-step discrete expansion (5.43s -> 5.96s)
+  const expandSteps = [
+    { t: 5.43, w: 580,  h: 360,  r: 36 },
+    { t: 5.52, w: 940,  h: 580,  r: 44 },
+    { t: 5.61, w: 1320, h: 800,  r: 48 },
+    { t: 5.70, w: 1640, h: 960,  r: 40 },
+    { t: 5.79, w: 1840, h: 1040, r: 24 },
+    { t: 5.88, w: 1920, h: 1080, r: 0  }
+  ];
+  expandSteps.forEach((s) => {
+    tl.set("#s7-card", { width: s.w, height: s.h, borderRadius: s.r }, s.t);
+  });
+
+  // Discrete stepped shrink into Scene 8 (8.53s -> 8.93s) revealing HISTORIA rows
+  tl.set("#s8-bg", { opacity: 1 }, 8.53);
+  const shrinkSteps = [
+    { t: 8.53, w: 1760, h: 990, r: 28 },
+    { t: 8.63, w: 1480, h: 832, r: 36 },
+    { t: 8.73, w: 1180, h: 664, r: 40 },
+    { t: 8.83, w: 920,  h: 518, r: 38 },
+    { t: 8.93, w: 738,  h: 415, r: 36 }
+  ];
+  shrinkSteps.forEach((s) => {
+    tl.set("#s7-card", { width: s.w, height: s.h, borderRadius: s.r }, s.t);
+  });
+
+  // HISTORIA rows horizontal drift + bold-to-thin weight wipe right up to 9.40s seam
+  tl.fromTo(["#s8-row-0", "#s8-row-2"],
+    { x: -1160, "--split": "12%" },
+    { x: -820,  "--split": "94%", duration: 0.87, ease: "none" },
+    8.53
+  );
+  tl.fromTo("#s8-row-1",
+    { x: -1780, "--split": "18%" },
+    { x: -1440, "--split": "96%", duration: 0.87, ease: "none" },
+    8.53
+  );
+
+  window.__timelines["hook"] = tl;
+})();
+</script>
+</body>
+</html>

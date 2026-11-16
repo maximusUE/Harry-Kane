@@ -1,0 +1,2116 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.43,
+    "text": "Para entender la mente",
+    "words": [
+      {
+        "word": "Para",
+        "start": 0.0,
+        "end": 0.34,
+        "part": 1
+      },
+      {
+        "word": "entender",
+        "start": 0.34,
+        "end": 0.74,
+        "part": 1
+      },
+      {
+        "word": "la",
+        "start": 0.74,
+        "end": 1.0,
+        "part": 1
+      },
+      {
+        "word": "mente",
+        "start": 1.0,
+        "end": 1.28,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 1.28,
+    "end": 2.19,
+    "text": "de un titán,",
+    "words": [
+      {
+        "word": "de",
+        "start": 1.28,
+        "end": 1.46,
+        "part": 1
+      },
+      {
+        "word": "un",
+        "start": 1.46,
+        "end": 1.6,
+        "part": 1
+      },
+      {
+        "word": "titán,",
+        "start": 1.6,
+        "end": 2.04,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 2.32,
+    "end": 3.29,
+    "text": "hay que viajar al",
+    "words": [
+      {
+        "word": "hay",
+        "start": 2.32,
+        "end": 2.4,
+        "part": 1
+      },
+      {
+        "word": "que",
+        "start": 2.4,
+        "end": 2.54,
+        "part": 1
+      },
+      {
+        "word": "viajar",
+        "start": 2.54,
+        "end": 3.0,
+        "part": 1
+      },
+      {
+        "word": "al",
+        "start": 3.0,
+        "end": 3.14,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 3.14,
+    "end": 4.53,
+    "text": "momento exacto en que",
+    "words": [
+      {
+        "word": "momento",
+        "start": 3.14,
+        "end": 3.52,
+        "part": 1
+      },
+      {
+        "word": "exacto",
+        "start": 3.52,
+        "end": 4.08,
+        "part": 1
+      },
+      {
+        "word": "en",
+        "start": 4.08,
+        "end": 4.24,
+        "part": 1
+      },
+      {
+        "word": "que",
+        "start": 4.24,
+        "end": 4.38,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 4.38,
+    "end": 6.21,
+    "text": "el mundo decidió ponerle",
+    "words": [
+      {
+        "word": "el",
+        "start": 4.38,
+        "end": 4.58,
+        "part": 1
+      },
+      {
+        "word": "mundo",
+        "start": 4.58,
+        "end": 4.92,
+        "part": 1
+      },
+      {
+        "word": "decidió",
+        "start": 4.92,
+        "end": 5.48,
+        "part": 1
+      },
+      {
+        "word": "ponerle",
+        "start": 5.48,
+        "end": 6.06,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 6.06,
+    "end": 6.99,
+    "text": "una etiqueta.",
+    "words": [
+      {
+        "word": "una",
+        "start": 6.06,
+        "end": 6.26,
+        "part": 1
+      },
+      {
+        "word": "etiqueta.",
+        "start": 6.26,
+        "end": 6.84,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 7.38,
+    "end": 8.19,
+    "text": "Londres,",
+    "words": [
+      {
+        "word": "Londres,",
+        "start": 7.38,
+        "end": 8.04,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 8.24,
+    "end": 9.23,
+    "text": "año 2001.",
+    "words": [
+      {
+        "word": "año",
+        "start": 8.24,
+        "end": 8.44,
+        "part": 1
+      },
+      {
+        "word": "2001.",
+        "start": 8.44,
+        "end": 9.08,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 9.84,
+    "end": 11.950000000000001,
+    "text": "Harry tiene apenas ocho",
+    "words": [
+      {
+        "word": "Harry",
+        "start": 9.84,
+        "end": 10.5,
+        "part": 1
+      },
+      {
+        "word": "tiene",
+        "start": 10.5,
+        "end": 10.84,
+        "part": 1
+      },
+      {
+        "word": "apenas",
+        "start": 10.84,
+        "end": 11.3,
+        "part": 1
+      },
+      {
+        "word": "ocho",
+        "start": 11.3,
+        "end": 11.8,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 11.8,
+    "end": 13.01,
+    "text": "años y viste con",
+    "words": [
+      {
+        "word": "años",
+        "start": 11.8,
+        "end": 12.12,
+        "part": 1
+      },
+      {
+        "word": "y",
+        "start": 12.12,
+        "end": 12.38,
+        "part": 1
+      },
+      {
+        "word": "viste",
+        "start": 12.38,
+        "end": 12.64,
+        "part": 1
+      },
+      {
+        "word": "con",
+        "start": 12.64,
+        "end": 12.86,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 12.86,
+    "end": 14.31,
+    "text": "orgullo la camiseta de",
+    "words": [
+      {
+        "word": "orgullo",
+        "start": 12.86,
+        "end": 13.28,
+        "part": 1
+      },
+      {
+        "word": "la",
+        "start": 13.28,
+        "end": 13.44,
+        "part": 1
+      },
+      {
+        "word": "camiseta",
+        "start": 13.44,
+        "end": 14.02,
+        "part": 1
+      },
+      {
+        "word": "de",
+        "start": 14.02,
+        "end": 14.16,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 14.16,
+    "end": 15.73,
+    "text": "las fuerzas básicas del",
+    "words": [
+      {
+        "word": "las",
+        "start": 14.16,
+        "end": 14.36,
+        "part": 1
+      },
+      {
+        "word": "fuerzas",
+        "start": 14.36,
+        "end": 14.82,
+        "part": 1
+      },
+      {
+        "word": "básicas",
+        "start": 14.82,
+        "end": 15.38,
+        "part": 1
+      },
+      {
+        "word": "del",
+        "start": 15.38,
+        "end": 15.58,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 15.58,
+    "end": 16.169999999999998,
+    "text": "arsenal.",
+    "words": [
+      {
+        "word": "arsenal.",
+        "start": 15.58,
+        "end": 16.02,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 17.06,
+    "end": 19.25,
+    "text": "Sueña despierto con convertirse",
+    "words": [
+      {
+        "word": "Sueña",
+        "start": 17.06,
+        "end": 17.44,
+        "part": 1
+      },
+      {
+        "word": "despierto",
+        "start": 17.44,
+        "end": 18.06,
+        "part": 1
+      },
+      {
+        "word": "con",
+        "start": 18.06,
+        "end": 18.3,
+        "part": 1
+      },
+      {
+        "word": "convertirse",
+        "start": 18.3,
+        "end": 19.1,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 19.1,
+    "end": 20.33,
+    "text": "en el próximo gran",
+    "words": [
+      {
+        "word": "en",
+        "start": 19.1,
+        "end": 19.28,
+        "part": 1
+      },
+      {
+        "word": "el",
+        "start": 19.28,
+        "end": 19.4,
+        "part": 1
+      },
+      {
+        "word": "próximo",
+        "start": 19.4,
+        "end": 19.8,
+        "part": 1
+      },
+      {
+        "word": "gran",
+        "start": 19.8,
+        "end": 20.18,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 20.18,
+    "end": 20.97,
+    "text": "goleador,",
+    "words": [
+      {
+        "word": "goleador,",
+        "start": 20.18,
+        "end": 20.82,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 21.06,
+    "end": 22.669999999999998,
+    "text": "pero una tarde gris,",
+    "words": [
+      {
+        "word": "pero",
+        "start": 21.06,
+        "end": 21.48,
+        "part": 1
+      },
+      {
+        "word": "una",
+        "start": 21.48,
+        "end": 21.74,
+        "part": 1
+      },
+      {
+        "word": "tarde",
+        "start": 21.74,
+        "end": 22.04,
+        "part": 1
+      },
+      {
+        "word": "gris,",
+        "start": 22.04,
+        "end": 22.52,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 22.8,
+    "end": 23.709999999999997,
+    "text": "Liam Brady,",
+    "words": [
+      {
+        "word": "Liam",
+        "start": 22.8,
+        "end": 23.1,
+        "part": 1
+      },
+      {
+        "word": "Brady,",
+        "start": 23.1,
+        "end": 23.56,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 23.98,
+    "end": 25.31,
+    "text": "el director del club,",
+    "words": [
+      {
+        "word": "el",
+        "start": 23.98,
+        "end": 24.16,
+        "part": 1
+      },
+      {
+        "word": "director",
+        "start": 24.16,
+        "end": 24.56,
+        "part": 1
+      },
+      {
+        "word": "del",
+        "start": 24.56,
+        "end": 24.84,
+        "part": 1
+      },
+      {
+        "word": "club,",
+        "start": 24.84,
+        "end": 25.16,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 25.52,
+    "end": 26.81,
+    "text": "convoca a sus padres",
+    "words": [
+      {
+        "word": "convoca",
+        "start": 25.52,
+        "end": 25.98,
+        "part": 1
+      },
+      {
+        "word": "a",
+        "start": 25.98,
+        "end": 26.1,
+        "part": 1
+      },
+      {
+        "word": "sus",
+        "start": 26.1,
+        "end": 26.3,
+        "part": 1
+      },
+      {
+        "word": "padres",
+        "start": 26.3,
+        "end": 26.66,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 26.66,
+    "end": 28.509999999999998,
+    "text": "con una sentencia lapidaria",
+    "words": [
+      {
+        "word": "con",
+        "start": 26.66,
+        "end": 26.94,
+        "part": 1
+      },
+      {
+        "word": "una",
+        "start": 26.94,
+        "end": 27.14,
+        "part": 1
+      },
+      {
+        "word": "sentencia",
+        "start": 27.14,
+        "end": 27.78,
+        "part": 1
+      },
+      {
+        "word": "lapidaria",
+        "start": 27.78,
+        "end": 28.36,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 28.36,
+    "end": 29.83,
+    "text": "que quedaría grabada para",
+    "words": [
+      {
+        "word": "que",
+        "start": 28.36,
+        "end": 28.56,
+        "part": 1
+      },
+      {
+        "word": "quedaría",
+        "start": 28.56,
+        "end": 29.0,
+        "part": 1
+      },
+      {
+        "word": "grabada",
+        "start": 29.0,
+        "end": 29.46,
+        "part": 1
+      },
+      {
+        "word": "para",
+        "start": 29.46,
+        "end": 29.68,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 29.68,
+    "end": 30.27,
+    "text": "siempre.",
+    "words": [
+      {
+        "word": "siempre.",
+        "start": 29.68,
+        "end": 30.12,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 30.56,
+    "end": 32.39,
+    "text": "Un poco gordito y",
+    "words": [
+      {
+        "word": "Un",
+        "start": 30.56,
+        "end": 31.16,
+        "part": 1
+      },
+      {
+        "word": "poco",
+        "start": 31.16,
+        "end": 31.5,
+        "part": 1
+      },
+      {
+        "word": "gordito",
+        "start": 31.5,
+        "end": 32.06,
+        "part": 1
+      },
+      {
+        "word": "y",
+        "start": 32.06,
+        "end": 32.24,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 32.24,
+    "end": 33.33,
+    "text": "poco atlético.",
+    "words": [
+      {
+        "word": "poco",
+        "start": 32.24,
+        "end": 32.56,
+        "part": 1
+      },
+      {
+        "word": "atlético.",
+        "start": 32.56,
+        "end": 33.18,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 33.44,
+    "end": 34.73,
+    "text": "A bit chubby and",
+    "words": [
+      {
+        "word": "A",
+        "start": 33.44,
+        "end": 33.68,
+        "part": 1
+      },
+      {
+        "word": "bit",
+        "start": 33.68,
+        "end": 33.9,
+        "part": 1
+      },
+      {
+        "word": "chubby",
+        "start": 33.9,
+        "end": 34.32,
+        "part": 1
+      },
+      {
+        "word": "and",
+        "start": 34.32,
+        "end": 34.58,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 34.58,
+    "end": 35.41,
+    "text": "not athletic.",
+    "words": [
+      {
+        "word": "not",
+        "start": 34.58,
+        "end": 34.82,
+        "part": 1
+      },
+      {
+        "word": "athletic.",
+        "start": 34.82,
+        "end": 35.26,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 36.34,
+    "end": 37.17,
+    "text": "Despedido.",
+    "words": [
+      {
+        "word": "Despedido.",
+        "start": 36.34,
+        "end": 37.02,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 37.34,
+    "end": 38.43,
+    "text": "Fuera del club.",
+    "words": [
+      {
+        "word": "Fuera",
+        "start": 37.34,
+        "end": 37.82,
+        "part": 1
+      },
+      {
+        "word": "del",
+        "start": 37.82,
+        "end": 38.02,
+        "part": 1
+      },
+      {
+        "word": "club.",
+        "start": 38.02,
+        "end": 38.28,
+        "part": 1
+      }
+    ]
+  },
+  {
+    "start": 38.49,
+    "end": 39.78,
+    "text": "ponte en el lugar",
+    "words": [
+      {
+        "word": "ponte",
+        "start": 38.49,
+        "end": 39.03,
+        "part": 2
+      },
+      {
+        "word": "en",
+        "start": 39.03,
+        "end": 39.23,
+        "part": 2
+      },
+      {
+        "word": "el",
+        "start": 39.23,
+        "end": 39.33,
+        "part": 2
+      },
+      {
+        "word": "lugar",
+        "start": 39.33,
+        "end": 39.63,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 39.63,
+    "end": 40.559999999999995,
+    "text": "de ese niño.",
+    "words": [
+      {
+        "word": "de",
+        "start": 39.63,
+        "end": 39.83,
+        "part": 2
+      },
+      {
+        "word": "ese",
+        "start": 39.83,
+        "end": 40.07,
+        "part": 2
+      },
+      {
+        "word": "niño.",
+        "start": 40.07,
+        "end": 40.41,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 40.71,
+    "end": 42.0,
+    "text": "Escuchar a los ocho",
+    "words": [
+      {
+        "word": "Escuchar",
+        "start": 40.71,
+        "end": 41.23,
+        "part": 2
+      },
+      {
+        "word": "a",
+        "start": 41.23,
+        "end": 41.37,
+        "part": 2
+      },
+      {
+        "word": "los",
+        "start": 41.37,
+        "end": 41.55,
+        "part": 2
+      },
+      {
+        "word": "ocho",
+        "start": 41.55,
+        "end": 41.85,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 41.85,
+    "end": 43.059999999999995,
+    "text": "años que tu cuerpo",
+    "words": [
+      {
+        "word": "años",
+        "start": 41.85,
+        "end": 42.17,
+        "part": 2
+      },
+      {
+        "word": "que",
+        "start": 42.17,
+        "end": 42.37,
+        "part": 2
+      },
+      {
+        "word": "tu",
+        "start": 42.37,
+        "end": 42.55,
+        "part": 2
+      },
+      {
+        "word": "cuerpo",
+        "start": 42.55,
+        "end": 42.91,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 42.91,
+    "end": 43.699999999999996,
+    "text": "no sirve,",
+    "words": [
+      {
+        "word": "no",
+        "start": 42.91,
+        "end": 43.13,
+        "part": 2
+      },
+      {
+        "word": "sirve,",
+        "start": 43.13,
+        "end": 43.55,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 43.75,
+    "end": 44.86,
+    "text": "que la genética te",
+    "words": [
+      {
+        "word": "que",
+        "start": 43.75,
+        "end": 43.89,
+        "part": 2
+      },
+      {
+        "word": "la",
+        "start": 43.89,
+        "end": 44.03,
+        "part": 2
+      },
+      {
+        "word": "genética",
+        "start": 44.03,
+        "end": 44.51,
+        "part": 2
+      },
+      {
+        "word": "te",
+        "start": 44.51,
+        "end": 44.71,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 44.71,
+    "end": 46.14,
+    "text": "cerró las puertas antes",
+    "words": [
+      {
+        "word": "cerró",
+        "start": 44.71,
+        "end": 45.03,
+        "part": 2
+      },
+      {
+        "word": "las",
+        "start": 45.03,
+        "end": 45.25,
+        "part": 2
+      },
+      {
+        "word": "puertas",
+        "start": 45.25,
+        "end": 45.65,
+        "part": 2
+      },
+      {
+        "word": "antes",
+        "start": 45.65,
+        "end": 45.99,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 45.99,
+    "end": 46.879999999999995,
+    "text": "de empezar.",
+    "words": [
+      {
+        "word": "de",
+        "start": 45.99,
+        "end": 46.19,
+        "part": 2
+      },
+      {
+        "word": "empezar.",
+        "start": 46.19,
+        "end": 46.73,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 47.05,
+    "end": 48.1,
+    "text": "Nueve de cada diez",
+    "words": [
+      {
+        "word": "Nueve",
+        "start": 47.05,
+        "end": 47.33,
+        "part": 2
+      },
+      {
+        "word": "de",
+        "start": 47.33,
+        "end": 47.49,
+        "part": 2
+      },
+      {
+        "word": "cada",
+        "start": 47.49,
+        "end": 47.69,
+        "part": 2
+      },
+      {
+        "word": "diez",
+        "start": 47.69,
+        "end": 47.95,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 47.95,
+    "end": 49.6,
+    "text": "niños habrían tirado los",
+    "words": [
+      {
+        "word": "niños",
+        "start": 47.95,
+        "end": 48.31,
+        "part": 2
+      },
+      {
+        "word": "habrían",
+        "start": 48.31,
+        "end": 48.81,
+        "part": 2
+      },
+      {
+        "word": "tirado",
+        "start": 48.81,
+        "end": 49.23,
+        "part": 2
+      },
+      {
+        "word": "los",
+        "start": 49.23,
+        "end": 49.45,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 49.45,
+    "end": 50.86,
+    "text": "tacos al closet para",
+    "words": [
+      {
+        "word": "tacos",
+        "start": 49.45,
+        "end": 49.73,
+        "part": 2
+      },
+      {
+        "word": "al",
+        "start": 49.73,
+        "end": 50.01,
+        "part": 2
+      },
+      {
+        "word": "closet",
+        "start": 50.01,
+        "end": 50.37,
+        "part": 2
+      },
+      {
+        "word": "para",
+        "start": 50.37,
+        "end": 50.71,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 50.71,
+    "end": 51.839999999999996,
+    "text": "no volver a pisar",
+    "words": [
+      {
+        "word": "no",
+        "start": 50.71,
+        "end": 50.87,
+        "part": 2
+      },
+      {
+        "word": "volver",
+        "start": 50.87,
+        "end": 51.17,
+        "part": 2
+      },
+      {
+        "word": "a",
+        "start": 51.17,
+        "end": 51.35,
+        "part": 2
+      },
+      {
+        "word": "pisar",
+        "start": 51.35,
+        "end": 51.69,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 51.69,
+    "end": 52.48,
+    "text": "una cancha.",
+    "words": [
+      {
+        "word": "una",
+        "start": 51.69,
+        "end": 51.87,
+        "part": 2
+      },
+      {
+        "word": "cancha.",
+        "start": 51.87,
+        "end": 52.33,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 52.51,
+    "end": 53.8,
+    "text": "Pero Kane no derramó",
+    "words": [
+      {
+        "word": "Pero",
+        "start": 52.51,
+        "end": 52.75,
+        "part": 2
+      },
+      {
+        "word": "Kane",
+        "start": 52.75,
+        "end": 53.01,
+        "part": 2
+      },
+      {
+        "word": "no",
+        "start": 53.01,
+        "end": 53.23,
+        "part": 2
+      },
+      {
+        "word": "derramó",
+        "start": 53.23,
+        "end": 53.65,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 53.65,
+    "end": 55.04,
+    "text": "una sola lágrima en",
+    "words": [
+      {
+        "word": "una",
+        "start": 53.65,
+        "end": 53.85,
+        "part": 2
+      },
+      {
+        "word": "sola",
+        "start": 53.85,
+        "end": 54.11,
+        "part": 2
+      },
+      {
+        "word": "lágrima",
+        "start": 54.11,
+        "end": 54.63,
+        "part": 2
+      },
+      {
+        "word": "en",
+        "start": 54.63,
+        "end": 54.89,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 54.89,
+    "end": 55.5,
+    "text": "público.",
+    "words": [
+      {
+        "word": "público.",
+        "start": 54.89,
+        "end": 55.35,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 55.61,
+    "end": 57.339999999999996,
+    "text": "Hizo algo desconcertante,",
+    "words": [
+      {
+        "word": "Hizo",
+        "start": 55.61,
+        "end": 55.97,
+        "part": 2
+      },
+      {
+        "word": "algo",
+        "start": 55.97,
+        "end": 56.25,
+        "part": 2
+      },
+      {
+        "word": "desconcertante,",
+        "start": 56.25,
+        "end": 57.19,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 57.31,
+    "end": 58.48,
+    "text": "se calzó los tenis",
+    "words": [
+      {
+        "word": "se",
+        "start": 57.31,
+        "end": 57.41,
+        "part": 2
+      },
+      {
+        "word": "calzó",
+        "start": 57.41,
+        "end": 57.79,
+        "part": 2
+      },
+      {
+        "word": "los",
+        "start": 57.79,
+        "end": 58.01,
+        "part": 2
+      },
+      {
+        "word": "tenis",
+        "start": 58.01,
+        "end": 58.33,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 58.33,
+    "end": 59.12,
+    "text": "y se fue al",
+    "words": [
+      {
+        "word": "y",
+        "start": 58.33,
+        "end": 58.47,
+        "part": 2
+      },
+      {
+        "word": "se",
+        "start": 58.47,
+        "end": 58.63,
+        "part": 2
+      },
+      {
+        "word": "fue",
+        "start": 58.63,
+        "end": 58.79,
+        "part": 2
+      },
+      {
+        "word": "al",
+        "start": 58.79,
+        "end": 58.97,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 58.97,
+    "end": 60.16,
+    "text": "parque a correr bajo",
+    "words": [
+      {
+        "word": "parque",
+        "start": 58.97,
+        "end": 59.27,
+        "part": 2
+      },
+      {
+        "word": "a",
+        "start": 59.27,
+        "end": 59.41,
+        "part": 2
+      },
+      {
+        "word": "correr",
+        "start": 59.41,
+        "end": 59.71,
+        "part": 2
+      },
+      {
+        "word": "bajo",
+        "start": 59.71,
+        "end": 60.01,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 60.01,
+    "end": 61.12,
+    "text": "una lluvia helada.",
+    "words": [
+      {
+        "word": "una",
+        "start": 60.01,
+        "end": 60.25,
+        "part": 2
+      },
+      {
+        "word": "lluvia",
+        "start": 60.25,
+        "end": 60.59,
+        "part": 2
+      },
+      {
+        "word": "helada.",
+        "start": 60.59,
+        "end": 60.97,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 61.13,
+    "end": 62.379999999999995,
+    "text": "Si le falta velocidad,",
+    "words": [
+      {
+        "word": "Si",
+        "start": 61.13,
+        "end": 61.35,
+        "part": 2
+      },
+      {
+        "word": "le",
+        "start": 61.35,
+        "end": 61.47,
+        "part": 2
+      },
+      {
+        "word": "falta",
+        "start": 61.47,
+        "end": 61.75,
+        "part": 2
+      },
+      {
+        "word": "velocidad,",
+        "start": 61.75,
+        "end": 62.23,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 62.55,
+    "end": 63.92,
+    "text": "la fabricaría a puro",
+    "words": [
+      {
+        "word": "la",
+        "start": 62.55,
+        "end": 62.77,
+        "part": 2
+      },
+      {
+        "word": "fabricaría",
+        "start": 62.77,
+        "end": 63.37,
+        "part": 2
+      },
+      {
+        "word": "a",
+        "start": 63.37,
+        "end": 63.57,
+        "part": 2
+      },
+      {
+        "word": "puro",
+        "start": 63.57,
+        "end": 63.77,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 63.77,
+    "end": 64.4,
+    "text": "pulmón.",
+    "words": [
+      {
+        "word": "pulmón.",
+        "start": 63.77,
+        "end": 64.25,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 64.39,
+    "end": 65.9,
+    "text": "Si le sobraba peso,",
+    "words": [
+      {
+        "word": "Si",
+        "start": 64.39,
+        "end": 64.79,
+        "part": 2
+      },
+      {
+        "word": "le",
+        "start": 64.79,
+        "end": 64.95,
+        "part": 2
+      },
+      {
+        "word": "sobraba",
+        "start": 64.95,
+        "end": 65.37,
+        "part": 2
+      },
+      {
+        "word": "peso,",
+        "start": 65.37,
+        "end": 65.75,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 66.07,
+    "end": 67.06,
+    "text": "lo quemaría en el",
+    "words": [
+      {
+        "word": "lo",
+        "start": 66.07,
+        "end": 66.17,
+        "part": 2
+      },
+      {
+        "word": "quemaría",
+        "start": 66.17,
+        "end": 66.61,
+        "part": 2
+      },
+      {
+        "word": "en",
+        "start": 66.61,
+        "end": 66.79,
+        "part": 2
+      },
+      {
+        "word": "el",
+        "start": 66.79,
+        "end": 66.91,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 66.91,
+    "end": 67.32000000000001,
+    "text": "lodo.",
+    "words": [
+      {
+        "word": "lodo.",
+        "start": 66.91,
+        "end": 67.17,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 67.63,
+    "end": 68.92,
+    "text": "Pero el camino no",
+    "words": [
+      {
+        "word": "Pero",
+        "start": 67.63,
+        "end": 68.05,
+        "part": 2
+      },
+      {
+        "word": "el",
+        "start": 68.05,
+        "end": 68.21,
+        "part": 2
+      },
+      {
+        "word": "camino",
+        "start": 68.21,
+        "end": 68.55,
+        "part": 2
+      },
+      {
+        "word": "no",
+        "start": 68.55,
+        "end": 68.77,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 68.77,
+    "end": 70.0,
+    "text": "fue una película de",
+    "words": [
+      {
+        "word": "fue",
+        "start": 68.77,
+        "end": 68.99,
+        "part": 2
+      },
+      {
+        "word": "una",
+        "start": 68.99,
+        "end": 69.21,
+        "part": 2
+      },
+      {
+        "word": "película",
+        "start": 69.21,
+        "end": 69.61,
+        "part": 2
+      },
+      {
+        "word": "de",
+        "start": 69.61,
+        "end": 69.85,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 69.85,
+    "end": 71.26,
+    "text": "redención inmediata.",
+    "words": [
+      {
+        "word": "redención",
+        "start": 69.85,
+        "end": 70.41,
+        "part": 2
+      },
+      {
+        "word": "inmediata.",
+        "start": 70.41,
+        "end": 71.11,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 71.43,
+    "end": 72.80000000000001,
+    "text": "Pasaron los años y",
+    "words": [
+      {
+        "word": "Pasaron",
+        "start": 71.43,
+        "end": 71.91,
+        "part": 2
+      },
+      {
+        "word": "los",
+        "start": 71.91,
+        "end": 72.11,
+        "part": 2
+      },
+      {
+        "word": "años",
+        "start": 72.11,
+        "end": 72.43,
+        "part": 2
+      },
+      {
+        "word": "y",
+        "start": 72.43,
+        "end": 72.65,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 72.65,
+    "end": 74.42,
+    "text": "comenzó el verdadero calvario",
+    "words": [
+      {
+        "word": "comenzó",
+        "start": 72.65,
+        "end": 73.11,
+        "part": 2
+      },
+      {
+        "word": "el",
+        "start": 73.11,
+        "end": 73.25,
+        "part": 2
+      },
+      {
+        "word": "verdadero",
+        "start": 73.25,
+        "end": 73.77,
+        "part": 2
+      },
+      {
+        "word": "calvario",
+        "start": 73.77,
+        "end": 74.27,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 74.27,
+    "end": 75.26,
+    "text": "de las sesiones.",
+    "words": [
+      {
+        "word": "de",
+        "start": 74.27,
+        "end": 74.43,
+        "part": 2
+      },
+      {
+        "word": "las",
+        "start": 74.43,
+        "end": 74.57,
+        "part": 2
+      },
+      {
+        "word": "sesiones.",
+        "start": 74.57,
+        "end": 75.11,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 75.37,
+    "end": 76.44000000000001,
+    "text": "El lodo y la",
+    "words": [
+      {
+        "word": "El",
+        "start": 75.37,
+        "end": 75.73,
+        "part": 2
+      },
+      {
+        "word": "lodo",
+        "start": 75.73,
+        "end": 76.03,
+        "part": 2
+      },
+      {
+        "word": "y",
+        "start": 76.03,
+        "end": 76.17,
+        "part": 2
+      },
+      {
+        "word": "la",
+        "start": 76.17,
+        "end": 76.29,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 76.29,
+    "end": 77.7,
+    "text": "hostilidad de la tercera",
+    "words": [
+      {
+        "word": "hostilidad",
+        "start": 76.29,
+        "end": 76.85,
+        "part": 2
+      },
+      {
+        "word": "de",
+        "start": 76.85,
+        "end": 76.99,
+        "part": 2
+      },
+      {
+        "word": "la",
+        "start": 76.99,
+        "end": 77.11,
+        "part": 2
+      },
+      {
+        "word": "tercera",
+        "start": 77.11,
+        "end": 77.55,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 77.55,
+    "end": 79.04,
+    "text": "división con el Leighton,",
+    "words": [
+      {
+        "word": "división",
+        "start": 77.55,
+        "end": 78.09,
+        "part": 2
+      },
+      {
+        "word": "con",
+        "start": 78.09,
+        "end": 78.29,
+        "part": 2
+      },
+      {
+        "word": "el",
+        "start": 78.29,
+        "end": 78.45,
+        "part": 2
+      },
+      {
+        "word": "Leighton,",
+        "start": 78.45,
+        "end": 78.89,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 79.09,
+    "end": 80.56,
+    "text": "la caldera salvaje del",
+    "words": [
+      {
+        "word": "la",
+        "start": 79.09,
+        "end": 79.17,
+        "part": 2
+      },
+      {
+        "word": "caldera",
+        "start": 79.17,
+        "end": 79.67,
+        "part": 2
+      },
+      {
+        "word": "salvaje",
+        "start": 79.67,
+        "end": 80.19,
+        "part": 2
+      },
+      {
+        "word": "del",
+        "start": 80.19,
+        "end": 80.41,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 80.41,
+    "end": 81.12,
+    "text": "Millwall,",
+    "words": [
+      {
+        "word": "Millwall,",
+        "start": 80.41,
+        "end": 80.97,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 81.19,
+    "end": 82.86,
+    "text": "donde los defensas rivales",
+    "words": [
+      {
+        "word": "donde",
+        "start": 81.19,
+        "end": 81.39,
+        "part": 2
+      },
+      {
+        "word": "los",
+        "start": 81.39,
+        "end": 81.63,
+        "part": 2
+      },
+      {
+        "word": "defensas",
+        "start": 81.63,
+        "end": 82.21,
+        "part": 2
+      },
+      {
+        "word": "rivales",
+        "start": 82.21,
+        "end": 82.71,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 82.71,
+    "end": 84.24000000000001,
+    "text": "salían a reventarte las",
+    "words": [
+      {
+        "word": "salían",
+        "start": 82.71,
+        "end": 83.15,
+        "part": 2
+      },
+      {
+        "word": "a",
+        "start": 83.15,
+        "end": 83.29,
+        "part": 2
+      },
+      {
+        "word": "reventarte",
+        "start": 83.29,
+        "end": 83.87,
+        "part": 2
+      },
+      {
+        "word": "las",
+        "start": 83.87,
+        "end": 84.09,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 84.09,
+    "end": 84.9,
+    "text": "espinillas,",
+    "words": [
+      {
+        "word": "espinillas,",
+        "start": 84.09,
+        "end": 84.75,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 84.99,
+    "end": 86.2,
+    "text": "y la dura lesión",
+    "words": [
+      {
+        "word": "y",
+        "start": 84.99,
+        "end": 85.25,
+        "part": 2
+      },
+      {
+        "word": "la",
+        "start": 85.25,
+        "end": 85.37,
+        "part": 2
+      },
+      {
+        "word": "dura",
+        "start": 85.37,
+        "end": 85.61,
+        "part": 2
+      },
+      {
+        "word": "lesión",
+        "start": 85.61,
+        "end": 86.05,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 86.05,
+    "end": 87.5,
+    "text": "de pie en 2013",
+    "words": [
+      {
+        "word": "de",
+        "start": 86.05,
+        "end": 86.21,
+        "part": 2
+      },
+      {
+        "word": "pie",
+        "start": 86.21,
+        "end": 86.43,
+        "part": 2
+      },
+      {
+        "word": "en",
+        "start": 86.43,
+        "end": 86.61,
+        "part": 2
+      },
+      {
+        "word": "2013",
+        "start": 86.61,
+        "end": 87.35,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 87.35,
+    "end": 88.72,
+    "text": "que frenó en seco",
+    "words": [
+      {
+        "word": "que",
+        "start": 87.35,
+        "end": 87.67,
+        "part": 2
+      },
+      {
+        "word": "frenó",
+        "start": 87.67,
+        "end": 88.09,
+        "part": 2
+      },
+      {
+        "word": "en",
+        "start": 88.09,
+        "end": 88.27,
+        "part": 2
+      },
+      {
+        "word": "seco",
+        "start": 88.27,
+        "end": 88.57,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 88.57,
+    "end": 89.26,
+    "text": "su cuerpo.",
+    "words": [
+      {
+        "word": "su",
+        "start": 88.57,
+        "end": 88.73,
+        "part": 2
+      },
+      {
+        "word": "cuerpo.",
+        "start": 88.73,
+        "end": 89.11,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 89.51,
+    "end": 91.0,
+    "text": "En los despachos del",
+    "words": [
+      {
+        "word": "En",
+        "start": 89.51,
+        "end": 89.89,
+        "part": 2
+      },
+      {
+        "word": "los",
+        "start": 89.89,
+        "end": 90.09,
+        "part": 2
+      },
+      {
+        "word": "despachos",
+        "start": 90.09,
+        "end": 90.67,
+        "part": 2
+      },
+      {
+        "word": "del",
+        "start": 90.67,
+        "end": 90.85,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 90.85,
+    "end": 91.86,
+    "text": "club la duda era",
+    "words": [
+      {
+        "word": "club",
+        "start": 90.85,
+        "end": 91.09,
+        "part": 2
+      },
+      {
+        "word": "la",
+        "start": 91.09,
+        "end": 91.27,
+        "part": 2
+      },
+      {
+        "word": "duda",
+        "start": 91.27,
+        "end": 91.49,
+        "part": 2
+      },
+      {
+        "word": "era",
+        "start": 91.49,
+        "end": 91.71,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 91.71,
+    "end": 92.36,
+    "text": "letal.",
+    "words": [
+      {
+        "word": "letal.",
+        "start": 91.71,
+        "end": 92.21,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 92.35,
+    "end": 94.30000000000001,
+    "text": "¿Harry realmente tiene nivel",
+    "words": [
+      {
+        "word": "¿Harry",
+        "start": 92.35,
+        "end": 92.93,
+        "part": 2
+      },
+      {
+        "word": "realmente",
+        "start": 92.93,
+        "end": 93.47,
+        "part": 2
+      },
+      {
+        "word": "tiene",
+        "start": 93.47,
+        "end": 93.83,
+        "part": 2
+      },
+      {
+        "word": "nivel",
+        "start": 93.83,
+        "end": 94.15,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 94.15,
+    "end": 95.2,
+    "text": "para jugar en la",
+    "words": [
+      {
+        "word": "para",
+        "start": 94.15,
+        "end": 94.41,
+        "part": 2
+      },
+      {
+        "word": "jugar",
+        "start": 94.41,
+        "end": 94.73,
+        "part": 2
+      },
+      {
+        "word": "en",
+        "start": 94.73,
+        "end": 94.93,
+        "part": 2
+      },
+      {
+        "word": "la",
+        "start": 94.93,
+        "end": 95.05,
+        "part": 2
+      }
+    ]
+  },
+  {
+    "start": 95.05,
+    "end": 95.80000000000001,
+    "text": "Liga Premier?",
+    "words": [
+      {
+        "word": "Liga",
+        "start": 95.05,
+        "end": 95.31,
+        "part": 2
+      },
+      {
+        "word": "Premier?",
+        "start": 95.31,
+        "end": 95.65,
+        "part": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,917 @@
+[
+  {
+    "word": "Pero",
+    "start": 0.0,
+    "end": 0.3
+  },
+  {
+    "word": "este",
+    "start": 0.3,
+    "end": 0.56
+  },
+  {
+    "word": "video",
+    "start": 0.56,
+    "end": 0.86
+  },
+  {
+    "word": "no",
+    "start": 0.86,
+    "end": 1.1
+  },
+  {
+    "word": "se",
+    "start": 1.1,
+    "end": 1.26
+  },
+  {
+    "word": "trata",
+    "start": 1.26,
+    "end": 1.56
+  },
+  {
+    "word": "de",
+    "start": 1.56,
+    "end": 1.74
+  },
+  {
+    "word": "Harry",
+    "start": 1.74,
+    "end": 2.06
+  },
+  {
+    "word": "Kane,",
+    "start": 2.06,
+    "end": 2.44
+  },
+  {
+    "word": "este",
+    "start": 2.7,
+    "end": 2.94
+  },
+  {
+    "word": "video",
+    "start": 2.94,
+    "end": 3.3
+  },
+  {
+    "word": "se",
+    "start": 3.3,
+    "end": 3.52
+  },
+  {
+    "word": "trata",
+    "start": 3.52,
+    "end": 3.82
+  },
+  {
+    "word": "de",
+    "start": 3.82,
+    "end": 3.98
+  },
+  {
+    "word": "ti.",
+    "start": 3.98,
+    "end": 4.16
+  },
+  {
+    "word": "Detente",
+    "start": 4.8,
+    "end": 5.24
+  },
+  {
+    "word": "un",
+    "start": 5.24,
+    "end": 5.44
+  },
+  {
+    "word": "segundo",
+    "start": 5.44,
+    "end": 5.86
+  },
+  {
+    "word": "y",
+    "start": 5.86,
+    "end": 6.12
+  },
+  {
+    "word": "sé",
+    "start": 6.12,
+    "end": 6.22
+  },
+  {
+    "word": "honesto",
+    "start": 6.22,
+    "end": 6.72
+  },
+  {
+    "word": "contigo",
+    "start": 6.72,
+    "end": 7.14
+  },
+  {
+    "word": "mismo.",
+    "start": 7.14,
+    "end": 7.52
+  },
+  {
+    "word": "¿Cuántas",
+    "start": 8.1,
+    "end": 8.62
+  },
+  {
+    "word": "veces",
+    "start": 8.62,
+    "end": 8.9
+  },
+  {
+    "word": "en",
+    "start": 8.9,
+    "end": 9.16
+  },
+  {
+    "word": "tu",
+    "start": 9.16,
+    "end": 9.28
+  },
+  {
+    "word": "vida",
+    "start": 9.28,
+    "end": 9.54
+  },
+  {
+    "word": "has",
+    "start": 9.54,
+    "end": 9.74
+  },
+  {
+    "word": "sentido",
+    "start": 9.74,
+    "end": 10.14
+  },
+  {
+    "word": "que",
+    "start": 10.14,
+    "end": 10.42
+  },
+  {
+    "word": "estás",
+    "start": 10.42,
+    "end": 10.68
+  },
+  {
+    "word": "en",
+    "start": 10.68,
+    "end": 10.88
+  },
+  {
+    "word": "un",
+    "start": 10.88,
+    "end": 11.02
+  },
+  {
+    "word": "callejón",
+    "start": 11.02,
+    "end": 11.5
+  },
+  {
+    "word": "sin",
+    "start": 11.5,
+    "end": 11.76
+  },
+  {
+    "word": "salida?",
+    "start": 11.76,
+    "end": 12.2
+  },
+  {
+    "word": "A",
+    "start": 12.44,
+    "end": 12.96
+  },
+  {
+    "word": "lo",
+    "start": 12.96,
+    "end": 13.08
+  },
+  {
+    "word": "mejor",
+    "start": 13.08,
+    "end": 13.32
+  },
+  {
+    "word": "hoy,",
+    "start": 13.32,
+    "end": 13.62
+  },
+  {
+    "word": "mientras",
+    "start": 13.84,
+    "end": 14.24
+  },
+  {
+    "word": "me",
+    "start": 14.24,
+    "end": 14.48
+  },
+  {
+    "word": "escuchas,",
+    "start": 14.48,
+    "end": 15.02
+  },
+  {
+    "word": "te",
+    "start": 15.2,
+    "end": 15.38
+  },
+  {
+    "word": "sobran",
+    "start": 15.38,
+    "end": 15.74
+  },
+  {
+    "word": "20",
+    "start": 15.74,
+    "end": 16.06
+  },
+  {
+    "word": "kilos",
+    "start": 16.06,
+    "end": 16.48
+  },
+  {
+    "word": "y",
+    "start": 16.48,
+    "end": 16.7
+  },
+  {
+    "word": "te",
+    "start": 16.7,
+    "end": 16.82
+  },
+  {
+    "word": "da",
+    "start": 16.82,
+    "end": 16.96
+  },
+  {
+    "word": "vergüenza",
+    "start": 16.96,
+    "end": 17.52
+  },
+  {
+    "word": "mirarte",
+    "start": 17.52,
+    "end": 18.04
+  },
+  {
+    "word": "al",
+    "start": 18.04,
+    "end": 18.22
+  },
+  {
+    "word": "espejo",
+    "start": 18.22,
+    "end": 18.62
+  },
+  {
+    "word": "en",
+    "start": 18.62,
+    "end": 18.76
+  },
+  {
+    "word": "las",
+    "start": 18.76,
+    "end": 18.94
+  },
+  {
+    "word": "mañanas.",
+    "start": 18.94,
+    "end": 19.46
+  },
+  {
+    "word": "A",
+    "start": 19.78,
+    "end": 20.3
+  },
+  {
+    "word": "lo",
+    "start": 20.3,
+    "end": 20.44
+  },
+  {
+    "word": "mejor",
+    "start": 20.44,
+    "end": 20.78
+  },
+  {
+    "word": "sufriste",
+    "start": 20.78,
+    "end": 21.4
+  },
+  {
+    "word": "una",
+    "start": 21.4,
+    "end": 21.64
+  },
+  {
+    "word": "lesión",
+    "start": 21.64,
+    "end": 22.1
+  },
+  {
+    "word": "que",
+    "start": 22.1,
+    "end": 22.26
+  },
+  {
+    "word": "te",
+    "start": 22.26,
+    "end": 22.4
+  },
+  {
+    "word": "apartó",
+    "start": 22.4,
+    "end": 22.82
+  },
+  {
+    "word": "del",
+    "start": 22.82,
+    "end": 23.02
+  },
+  {
+    "word": "deporte",
+    "start": 23.02,
+    "end": 23.48
+  },
+  {
+    "word": "que",
+    "start": 23.48,
+    "end": 23.64
+  },
+  {
+    "word": "amabas",
+    "start": 23.64,
+    "end": 24.1
+  },
+  {
+    "word": "y",
+    "start": 24.1,
+    "end": 24.26
+  },
+  {
+    "word": "sientes",
+    "start": 24.26,
+    "end": 24.64
+  },
+  {
+    "word": "que",
+    "start": 24.64,
+    "end": 24.86
+  },
+  {
+    "word": "tu",
+    "start": 24.86,
+    "end": 25.02
+  },
+  {
+    "word": "cuerpo",
+    "start": 25.02,
+    "end": 25.38
+  },
+  {
+    "word": "te",
+    "start": 25.38,
+    "end": 25.56
+  },
+  {
+    "word": "traicionó.",
+    "start": 25.56,
+    "end": 26.2
+  },
+  {
+    "word": "O",
+    "start": 26.2,
+    "end": 27.08
+  },
+  {
+    "word": "tal",
+    "start": 27.08,
+    "end": 27.28
+  },
+  {
+    "word": "vez",
+    "start": 27.28,
+    "end": 27.5
+  },
+  {
+    "word": "tu",
+    "start": 27.5,
+    "end": 27.66
+  },
+  {
+    "word": "negocio",
+    "start": 27.66,
+    "end": 28.12
+  },
+  {
+    "word": "quebró,",
+    "start": 28.12,
+    "end": 28.56
+  },
+  {
+    "word": "estás",
+    "start": 28.88,
+    "end": 29.16
+  },
+  {
+    "word": "endeudado",
+    "start": 29.16,
+    "end": 29.8
+  },
+  {
+    "word": "hasta",
+    "start": 29.8,
+    "end": 30.02
+  },
+  {
+    "word": "el",
+    "start": 30.02,
+    "end": 30.16
+  },
+  {
+    "word": "cuello,",
+    "start": 30.16,
+    "end": 30.58
+  },
+  {
+    "word": "y",
+    "start": 30.74,
+    "end": 31.08
+  },
+  {
+    "word": "la",
+    "start": 31.08,
+    "end": 31.24
+  },
+  {
+    "word": "gente",
+    "start": 31.24,
+    "end": 31.58
+  },
+  {
+    "word": "que",
+    "start": 31.58,
+    "end": 31.76
+  },
+  {
+    "word": "te",
+    "start": 31.76,
+    "end": 31.88
+  },
+  {
+    "word": "rodea",
+    "start": 31.88,
+    "end": 32.26
+  },
+  {
+    "word": "te",
+    "start": 32.26,
+    "end": 32.38
+  },
+  {
+    "word": "mira",
+    "start": 32.38,
+    "end": 32.62
+  },
+  {
+    "word": "con",
+    "start": 32.62,
+    "end": 32.86
+  },
+  {
+    "word": "esa",
+    "start": 32.86,
+    "end": 33.12
+  },
+  {
+    "word": "lástima",
+    "start": 33.12,
+    "end": 33.62
+  },
+  {
+    "word": "disimulada",
+    "start": 33.62,
+    "end": 34.3
+  },
+  {
+    "word": "que",
+    "start": 34.3,
+    "end": 34.5
+  },
+  {
+    "word": "duele",
+    "start": 34.5,
+    "end": 34.82
+  },
+  {
+    "word": "más",
+    "start": 34.82,
+    "end": 35.04
+  },
+  {
+    "word": "que",
+    "start": 35.04,
+    "end": 35.18
+  },
+  {
+    "word": "un",
+    "start": 35.18,
+    "end": 35.36
+  },
+  {
+    "word": "golpe.",
+    "start": 35.36,
+    "end": 35.72
+  },
+  {
+    "word": "Si",
+    "start": 36.06,
+    "end": 36.58
+  },
+  {
+    "word": "hoy",
+    "start": 36.58,
+    "end": 36.78
+  },
+  {
+    "word": "sientes",
+    "start": 36.78,
+    "end": 37.2
+  },
+  {
+    "word": "que",
+    "start": 37.2,
+    "end": 37.42
+  },
+  {
+    "word": "llevas",
+    "start": 37.42,
+    "end": 37.72
+  },
+  {
+    "word": "años",
+    "start": 37.72,
+    "end": 38.02
+  },
+  {
+    "word": "esforzándote",
+    "start": 38.02,
+    "end": 38.86
+  },
+  {
+    "word": "sin",
+    "start": 38.86,
+    "end": 39.06
+  },
+  {
+    "word": "ver",
+    "start": 39.06,
+    "end": 39.26
+  },
+  {
+    "word": "los",
+    "start": 39.26,
+    "end": 39.44
+  },
+  {
+    "word": "resultados,",
+    "start": 39.44,
+    "end": 40.0
+  },
+  {
+    "word": "si",
+    "start": 40.42,
+    "end": 40.68
+  },
+  {
+    "word": "sientes",
+    "start": 40.68,
+    "end": 41.06
+  },
+  {
+    "word": "que",
+    "start": 41.06,
+    "end": 41.24
+  },
+  {
+    "word": "sobre",
+    "start": 41.24,
+    "end": 41.5
+  },
+  {
+    "word": "tu",
+    "start": 41.5,
+    "end": 41.66
+  },
+  {
+    "word": "cabeza",
+    "start": 41.66,
+    "end": 42.06
+  },
+  {
+    "word": "pesa",
+    "start": 42.06,
+    "end": 42.42
+  },
+  {
+    "word": "una",
+    "start": 42.42,
+    "end": 42.64
+  },
+  {
+    "word": "maldición,",
+    "start": 42.64,
+    "end": 43.24
+  },
+  {
+    "word": "no",
+    "start": 43.58,
+    "end": 43.78
+  },
+  {
+    "word": "te",
+    "start": 43.78,
+    "end": 43.9
+  },
+  {
+    "word": "pido",
+    "start": 43.9,
+    "end": 44.14
+  },
+  {
+    "word": "que",
+    "start": 44.14,
+    "end": 44.3
+  },
+  {
+    "word": "me",
+    "start": 44.3,
+    "end": 44.44
+  },
+  {
+    "word": "creas",
+    "start": 44.44,
+    "end": 44.82
+  },
+  {
+    "word": "a",
+    "start": 44.82,
+    "end": 45.0
+  },
+  {
+    "word": "ciegas.",
+    "start": 45.0,
+    "end": 45.42
+  },
+  {
+    "word": "Solo",
+    "start": 45.72,
+    "end": 46.1
+  },
+  {
+    "word": "regálate",
+    "start": 46.1,
+    "end": 46.62
+  },
+  {
+    "word": "los",
+    "start": 46.62,
+    "end": 46.84
+  },
+  {
+    "word": "próximos",
+    "start": 46.84,
+    "end": 47.42
+  },
+  {
+    "word": "minutos.",
+    "start": 47.42,
+    "end": 47.8
+  },
+  {
+    "word": "Porque",
+    "start": 47.8,
+    "end": 48.72
+  },
+  {
+    "word": "la",
+    "start": 48.72,
+    "end": 48.94
+  },
+  {
+    "word": "historia",
+    "start": 48.94,
+    "end": 49.32
+  },
+  {
+    "word": "de",
+    "start": 49.32,
+    "end": 49.56
+  },
+  {
+    "word": "cómo",
+    "start": 49.56,
+    "end": 49.82
+  },
+  {
+    "word": "este",
+    "start": 49.82,
+    "end": 50.12
+  },
+  {
+    "word": "hombre",
+    "start": 50.12,
+    "end": 50.44
+  },
+  {
+    "word": "pasó",
+    "start": 50.44,
+    "end": 50.82
+  },
+  {
+    "word": "de",
+    "start": 50.82,
+    "end": 51.0
+  },
+  {
+    "word": "ser",
+    "start": 51.0,
+    "end": 51.22
+  },
+  {
+    "word": "el",
+    "start": 51.22,
+    "end": 51.38
+  },
+  {
+    "word": "descarte",
+    "start": 51.38,
+    "end": 51.92
+  },
+  {
+    "word": "con",
+    "start": 51.92,
+    "end": 52.14
+  },
+  {
+    "word": "sobrepeso",
+    "start": 52.14,
+    "end": 52.84
+  },
+  {
+    "word": "de",
+    "start": 52.84,
+    "end": 52.98
+  },
+  {
+    "word": "una",
+    "start": 52.98,
+    "end": 53.2
+  },
+  {
+    "word": "academia",
+    "start": 53.2,
+    "end": 53.64
+  },
+  {
+    "word": "al",
+    "start": 53.64,
+    "end": 53.92
+  },
+  {
+    "word": "hombre",
+    "start": 53.92,
+    "end": 54.16
+  },
+  {
+    "word": "más",
+    "start": 54.16,
+    "end": 54.5
+  },
+  {
+    "word": "respetado",
+    "start": 54.5,
+    "end": 55.2
+  },
+  {
+    "word": "del",
+    "start": 55.2,
+    "end": 55.36
+  },
+  {
+    "word": "planeta,",
+    "start": 55.36,
+    "end": 55.84
+  },
+  {
+    "word": "te",
+    "start": 56.06,
+    "end": 56.36
+  },
+  {
+    "word": "va",
+    "start": 56.36,
+    "end": 56.5
+  },
+  {
+    "word": "a",
+    "start": 56.5,
+    "end": 56.64
+  },
+  {
+    "word": "demostrar",
+    "start": 56.64,
+    "end": 57.18
+  },
+  {
+    "word": "una",
+    "start": 57.18,
+    "end": 57.4
+  },
+  {
+    "word": "sola",
+    "start": 57.4,
+    "end": 57.7
+  },
+  {
+    "word": "verdad.",
+    "start": 57.7,
+    "end": 58.1
+  },
+  {
+    "word": "Nadie",
+    "start": 58.4,
+    "end": 58.88
+  },
+  {
+    "word": "está",
+    "start": 58.88,
+    "end": 59.12
+  },
+  {
+    "word": "condenado",
+    "start": 59.12,
+    "end": 59.72
+  },
+  {
+    "word": "a",
+    "start": 59.72,
+    "end": 59.84
+  },
+  {
+    "word": "perder",
+    "start": 59.84,
+    "end": 60.14
+  },
+  {
+    "word": "para",
+    "start": 60.14,
+    "end": 60.44
+  },
+  {
+    "word": "siempre,",
+    "start": 60.44,
+    "end": 60.92
+  },
+  {
+    "word": "a",
+    "start": 61.12,
+    "end": 61.38
+  },
+  {
+    "word": "menos",
+    "start": 61.38,
+    "end": 61.6
+  },
+  {
+    "word": "que",
+    "start": 61.6,
+    "end": 61.9
+  },
+  {
+    "word": "decida",
+    "start": 61.9,
+    "end": 62.32
+  },
+  {
+    "word": "rendirse.",
+    "start": 62.32,
+    "end": 62.92
+  },
+  {
+    "word": "¡Gracias!",
+    "start": 62.92,
+    "end": 63.0
+  }
+]
